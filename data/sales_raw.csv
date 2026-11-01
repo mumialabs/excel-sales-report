@@ -1,0 +1,2445 @@
+order_id,order_date,region,sales_rep,product,category,quantity,unit_price
+SO-10022,2025-11-01,North,Liam Turner,Standing Desk,Furniture,2,521.55
+SO-10082,2025-11-01,South,Sofia Ramos,Printer Toner,Office,4,72.0
+SO-10178,2025-11-01,West,Ava Patel,Copy Paper Box,Office,30,38.5
+SO-10198,2025-11-01,East,Olivia Chen,Filing Cabinet,Furniture,2,179.1
+SO-10202,11/01/2025,North,Liam Turner,Printer Toner,Office,4,72.0
+SO-10036,2025-11-02,South,Noah Bennett,Copy Paper Box,Office,24,38.5
+SO-10061,2025-11-02, East ,Mason Wright,27-inch Monitor,Tech,3,329.0
+SO-10102,2025-11-02,West,Ethan Brooks,Standing Desk,Furniture,2,494.1
+SO-10127,2025-11-02,East,Mason Wright,27-inch Monitor,Tech,6,329.0
+SO-10170,2025-11-02,North,Liam Turner,Noise-Cancelling Headset,Tech,1,189.0
+SO-10203,2025-11-02,East,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-10002,2025-11-03,East,Mason Wright,Copy Paper Box,Office,2,34.65
+SO-10008,2025-11-03,East,Mason Wright,Notebook 5-Pack,Office,40,12.25
+SO-10026,2025-11-03,North,Liam Turner,Printer Toner,Office,2,72.0
+SO-10046,2025-11-03,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-10046,2025-11-03,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-10051,2025-11-03,South,Sofia Ramos,Notebook 5-Pack,Office,33,12.9
+SO-10057,2025-11-03,South,Noah Bennett,Notebook 5-Pack,Office,18,12.9
+SO-10081,2025-11-03,East,Olivia Chen,Filing Cabinet,Furniture,3,199.0
+SO-10120,2025-11-03,East,Mason Wright,Ergonomic Chair,Furniture,2,289.0
+SO-10137,2025-11-03,North,Emma Clarke,Copy Paper Box,Office,30,36.57
+SO-10172,11/03/2025,East,Mason Wright,USB-C Dock,Tech,4,149.0
+SO-10185,2025-11-03,West,Ava Patel,Printer Toner,Office,4,68.4
+SO-10207,2025-11-03,East,Olivia Chen,Ergonomic Chair,Furniture,3,274.55
+SO-10213,2025-11-03,West,Ava Patel,Copy Paper Box,Office,27,36.57
+SO-10006,2025-11-04,North,Emma Clarke,USB-C Dock,Tech,7,149.0
+SO-10039,2025-11-04,South,Sofia Ramos,Printer Toner,Office,9,64.8
+SO-10070,2025-11-04,West,Ethan Brooks,Ergonomic Chair,Furniture,2,289.0
+SO-10071,2025-11-04,East,Mason Wright,Notebook 5-Pack,Office,23,12.9
+SO-10128,2025-11-04,West,Ava Patel,Filing Cabinet,Furniture,3,189.05
+SO-10152,2025-11-04,North,Emma Clarke,Printer Toner,Office,10,68.4
+SO-10187,2025-11-04,West,Ethan Brooks,Laptop Pro 14,Tech,3,1169.1
+SO-10016,2025-11-05,East,Mason Wright,Wireless Mouse,Tech,5,28.4
+SO-10027,2025-11-05,West,Ethan Brooks,Ergonomic Chair,Furniture,5,289.0
+SO-10055,2025-11-05,North,Liam Turner,27-inch Monitor,Tech,3,296.1
+SO-10087,2025-11-05,North,Liam Turner,Printer Toner,Office,9,68.4
+SO-10131,2025-11-05,East,Mason Wright,Copy Paper Box,Office,3,38.5
+SO-10011,11/06/2025,North,Liam Turner,Noise-Cancelling Headset,Tech,3,189.0
+SO-10040,2025-11-06,West,Ethan Brooks,Notebook 5-Pack,Office,32,12.9
+SO-10041,2025-11-06,South,Noah Bennett,Printer Toner,Office,1,72.0
+SO-10126,2025-11-06,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-10129,2025-11-06,North,Emma Clarke,Standing Desk,Furniture,3,549.0
+SO-10135,2025-11-06,North,Emma Clarke,27-inch Monitor,Tech,2,329.0
+SO-10033,2025-11-07,North,Emma Clarke,Noise-Cancelling Headset,Tech,6,179.55
+SO-10037,2025-11-07,South,Sofia Ramos,Printer Toner,Office,9,72.0
+SO-10124,2025-11-07,NORTH,Emma Clarke,Ergonomic Chair,Furniture,6,289.0
+SO-10150,2025-11-07,West,Ethan Brooks,Standing Desk,Furniture,4,549.0
+SO-10199,2025-11-07,North,Emma Clarke,27-inch Monitor,Tech,5,296.1
+SO-10001,2025-11-08,East,Olivia Chen,Laptop Pro 14,Tech,2,1299.0
+SO-10004,2025-11-08,East,Mason Wright,Copy Paper Box,Office,19,36.57
+SO-10030,2025-11-08,West,Ava Patel,Standing Desk,Furniture,3,549.0
+SO-10031,2025-11-08,North,Emma Clarke,Ergonomic Chair,Furniture,1,260.1
+SO-10034,2025-11-08,West,Ethan Brooks,Bookshelf,Furniture,4,151.05
+SO-10047,2025-11-08,West,Ava Patel,Wireless Mouse,Tech,20,26.91
+SO-10049,2025-11-08,North,Liam Turner,Copy Paper Box,Office,13,38.5
+SO-10092,2025-11-08,West,Ethan Brooks,27-inch Monitor,Tech,6,329.0
+SO-10104,2025-11-08,North,Emma Clarke,Laptop Pro 14,Tech,4,1299.0
+SO-10115,2025-11-08,West,Ethan Brooks,Noise-Cancelling Headset,Tech,5,179.55
+SO-10168,2025-11-08,west,Ethan Brooks,Laptop Pro 14,Tech,2,1299.0
+SO-10171,2025-11-08,North,Liam Turner,Wireless Mouse,Tech,19,29.9
+SO-10007,2025-11-09,North,Emma Clarke,Printer Toner,Office,8,$64.80
+SO-10013,2025-11-09,East,Olivia Chen,USB-C Dock,Tech,6,141.55
+SO-10091,2025-11-09,South,Noah Bennett,Copy Paper Box,Office,11,38.5
+SO-10101,2025-11-09,South,Noah Bennett,Wireless Mouse,Tech,9,28.4
+SO-10141,2025-11-09,North,Liam Turner,Copy Paper Box,Office,15,36.57
+SO-10151,2025-11-09,East,Olivia Chen,Copy Paper Box,Office,30,38.5
+SO-10042,2025-11-10,West,Ethan Brooks,Noise-Cancelling Headset,Tech,6,179.55
+SO-10078,2025-11-10,east,Mason Wright,Wireless Mouse,Tech,7,29.9
+SO-10175,11/10/2025,north,Liam Turner,Notebook 5-Pack,Office,17,11.61
+SO-10177,11/10/2025,North,Liam Turner,Bookshelf,Furniture,1,143.1
+SO-10181,2025-11-10,East,Mason Wright,Notebook 5-Pack,Office,3,12.9
+SO-10191,11/10/2025,South,Noah Bennett,27-inch Monitor,Tech,1,329.0
+SO-10050,2025-11-11,North,Emma Clarke,Filing Cabinet,Furniture,1,189.05
+SO-10068,2025-11-11,North,Liam Turner,Copy Paper Box,Office,28,36.57
+SO-10075,2025-11-11,West,Ava Patel,Notebook 5-Pack,Office,20,11.61
+SO-10114,2025-11-11,South,Sofia Ramos,Copy Paper Box,Office,27,38.5
+SO-10117,2025-11-11,South,Noah Bennett,Wireless Mouse,Tech,20,29.9
+SO-10122,2025-11-11,East,Mason Wright,Wireless Mouse,Tech,15,26.91
+SO-10148,2025-11-11,East,Mason Wright,Laptop Pro 14,Tech,3,1299.0
+SO-10200,11/11/2025,NORTH,Emma Clarke,USB-C Dock,Tech,1,149.0
+SO-10212,2025-11-11,South,Noah Bennett,27-inch Monitor,Tech,3,312.55
+SO-10035,2025-11-12,North,Liam Turner,27-inch Monitor,Tech,4,312.55
+SO-10067,2025-11-12,North,Liam Turner,Printer Toner,Office,4,$68.40
+SO-10074,2025-11-12,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-10121,2025-11-12,South,Noah Bennett,Noise-Cancelling Headset,Tech,5,170.1
+SO-10218,2025-11-12,East,Mason Wright,USB-C Dock,Tech,2,149.0
+SO-10029,2025-11-13,East,Mason Wright,Copy Paper Box,Office,15,38.5
+SO-10066,2025-11-13,North,Emma Clarke,Printer Toner,Office,8,72.0
+SO-10076,2025-11-13,East,Mason Wright,Copy Paper Box,Office,18,38.5
+SO-10094,2025-11-13,South,Sofia Ramos,USB-C Dock,Tech,7,141.55
+SO-10097,2025-11-13,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-10100,2025-11-13,West,Ethan Brooks,USB-C Dock,Tech,4,149.0
+SO-10130,2025-11-13,West,Ethan Brooks,Standing Desk,Furniture,1,$549.00
+SO-10167,2025-11-13,West,Ethan Brooks,Printer Toner,Office,,64.8
+SO-10188,2025-11-13,East,Mason Wright,Copy Paper Box,Office,4,34.65
+SO-10192,2025-11-13,North,Liam Turner,Printer Toner,Office,6,72.0
+SO-10028,2025-11-14,North,Emma Clarke,Ergonomic Chair,Furniture,5,260.1
+SO-10093,11/14/2025,North,Liam Turner,USB-C Dock,Tech,8,141.55
+SO-10165,11/14/2025,East,Olivia Chen,Standing Desk,Furniture,1,549.0
+SO-10193,2025-11-14,East,Olivia Chen,Copy Paper Box,Office,29,34.65
+SO-10020,2025-11-15,East,Mason Wright,Wireless Mouse,Tech,18,26.91
+SO-10038,2025-11-15,South,Sofia Ramos,Wireless Mouse,Tech,3,29.9
+SO-10079,2025-11-15,South,Noah Bennett,Bookshelf,Furniture,4,159.0
+SO-10083,2025-11-15,West,Ethan Brooks,Filing Cabinet,Furniture,3,199.0
+SO-10086,2025-11-15,North,Emma Clarke,Notebook 5-Pack,Office,36,11.61
+SO-10089,2025-11-15,West,Ethan Brooks,Copy Paper Box,Office,25,36.57
+SO-10105,2025-11-15,East,Mason Wright,Bookshelf,Furniture,3,$159.00
+SO-10154,2025-11-15,South,Sofia Ramos,USB-C Dock,Tech,3,149.0
+SO-10156,2025-11-15, West ,Ava Patel,Notebook 5-Pack,Office,25,12.9
+SO-10173,2025-11-15,South,Noah Bennett,Bookshelf,Furniture,4,$159.00
+SO-10195,11/15/2025,North,Emma Clarke,Wireless Mouse,Tech,12,28.4
+SO-10204,2025-11-15,East,Mason Wright,Copy Paper Box,Office,17,36.57
+SO-10084,2025-11-16,East,Mason Wright,Copy Paper Box,Office,8,36.57
+SO-10090,2025-11-16,North,Emma Clarke,Filing Cabinet,Furniture,2,179.1
+SO-10090,2025-11-16,North,Emma Clarke,Filing Cabinet,Furniture,2,179.1
+SO-10116,2025-11-16,East,Mason Wright,Wireless Mouse,Tech,6,29.9
+SO-10136,11/16/2025,North,Liam Turner,Standing Desk,Furniture,1,494.1
+SO-10144,11/16/2025,East,Mason Wright,Copy Paper Box,Office,30,38.5
+SO-10163,11/16/2025,SOUTH,Sofia Ramos,Copy Paper Box,Office,5,38.5
+SO-10206,2025-11-16,South,Noah Bennett,Notebook 5-Pack,Office,28,12.9
+SO-10018,2025-11-17,South,Noah Bennett,USB-C Dock,Tech,2,149.0
+SO-10048,2025-11-17,North,Liam Turner,Copy Paper Box,Office,30,34.65
+SO-10072,2025-11-17,East,Olivia Chen,Noise-Cancelling Headset,Tech,4,170.1
+SO-10118,2025-11-17,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,189.0
+SO-10209,2025-11-17,West,Ethan Brooks,Ergonomic Chair,Furniture,1,274.55
+SO-10217,2025-11-17,East,Olivia Chen,Wireless Mouse,Tech,5,26.91
+SO-10059,2025-11-18,East,Olivia Chen,Ergonomic Chair,Furniture,1,274.55
+SO-10060,2025-11-18,North,Emma Clarke,Printer Toner,Office,6,72.0
+SO-10153,2025-11-18,West,Ava Patel,Copy Paper Box,Office,18,38.5
+SO-10160,2025-11-18,South,Noah Bennett,Ergonomic Chair,Furniture,4,$289.00
+SO-10201,2025-11-18,North,Liam Turner,Notebook 5-Pack,Office,12,12.9
+SO-10044,2025-11-19,NORTH,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-10107,2025-11-19,North,Liam Turner,Laptop Pro 14,Tech,4,1299.0
+SO-10143,11/19/2025,North,Emma Clarke,USB-C Dock,Tech,5,134.1
+SO-10159,11/19/2025,North,Liam Turner,Noise-Cancelling Headset,Tech,2,170.1
+SO-10161,2025-11-19,West,Ethan Brooks,Printer Toner,Office,4,72.0
+SO-10003,2025-11-20,North,Emma Clarke,USB-C Dock,Tech,4,134.1
+SO-10012,2025-11-20,North,Emma Clarke,Noise-Cancelling Headset,Tech,5,189.0
+SO-10088,2025-11-20,West,Ethan Brooks,Bookshelf,Furniture,4,151.05
+SO-10098,2025-11-20,East,Olivia Chen,Printer Toner,Office,7,72.0
+SO-10113,2025-11-20,North,Liam Turner,Ergonomic Chair,Furniture,4,$289.00
+SO-10125,2025-11-20,South,Noah Bennett,Copy Paper Box,Office,4,34.65
+SO-10132,2025-11-20,West,Ava Patel,27-inch Monitor,Tech,5,312.55
+SO-10140,2025-11-20,North,Liam Turner,USB-C Dock,Tech,8,149.0
+SO-10166,2025-11-20,South,Noah Bennett,Notebook 5-Pack,Office,6,12.9
+SO-10180,11/20/2025,West,Ethan Brooks,USB-C Dock,Tech,3,149.0
+SO-10194,2025-11-20,South,Noah Bennett,27-inch Monitor,Tech,3,312.55
+SO-10205,11/20/2025,East,Olivia Chen,Standing Desk,Furniture,3,549.0
+SO-10208,2025-11-20,East,Mason Wright,Laptop Pro 14,Tech,4,1299.0
+SO-10019,11/21/2025,East,Olivia Chen,Printer Toner,Office,7,72.0
+SO-10058,2025-11-21,NORTH,Liam Turner,Wireless Mouse,Tech,6,29.9
+SO-10069,2025-11-21,North,Liam Turner,Copy Paper Box,Office,22,38.5
+SO-10099,2025-11-21,East,Mason Wright,Copy Paper Box,Office,5,38.5
+SO-10145,2025-11-21,North,Liam Turner,Notebook 5-Pack,Office,6,12.25
+SO-10021,2025-11-22,West,Ethan Brooks,Laptop Pro 14,Tech,3,1299.0
+SO-10043,2025-11-22,West,Ethan Brooks,Notebook 5-Pack,Office,10,11.61
+SO-10056,2025-11-22,East,Mason Wright,Copy Paper Box,Office,17,38.5
+SO-10077,2025-11-22,North,Emma Clarke,Wireless Mouse,Tech,20,28.4
+SO-10080,2025-11-22,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-10110,2025-11-22,West,Ethan Brooks,Wireless Mouse,Tech,3,28.4
+SO-10138,2025-11-22,North,Emma Clarke,Printer Toner,Office,7,64.8
+SO-10146,2025-11-22,South,Sofia Ramos,Wireless Mouse,Tech,6,29.9
+SO-10147,2025-11-22,SOUTH,Noah Bennett,Copy Paper Box,Office,27,38.5
+SO-10215,2025-11-22,East,Olivia Chen,Ergonomic Chair,Furniture,4,289.0
+SO-10005,2025-11-23,North,Liam Turner,Printer Toner,Office,6,72.0
+SO-10009,2025-11-23,West,Ava Patel,Wireless Mouse,Tech,2,29.9
+SO-10053,2025-11-23,North,Liam Turner,Standing Desk,Furniture,1,494.1
+SO-10073,2025-11-23,West,Ethan Brooks,USB-C Dock,Tech,1,149.0
+SO-10108,2025-11-23,West,Ava Patel,USB-C Dock,Tech,2,134.1
+SO-10112,2025-11-23,South,Sofia Ramos,Wireless Mouse,Tech,14,28.4
+SO-10155,2025-11-23, South ,Noah Bennett,Copy Paper Box,Office,14,34.65
+SO-10017,2025-11-24,North,Liam Turner,Ergonomic Chair,Furniture,5,289.0
+SO-10123,2025-11-24,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-10142,2025-11-24,North,Liam Turner,Laptop Pro 14,Tech,3,1234.05
+SO-10162,2025-11-24,West,Ethan Brooks,Wireless Mouse,Tech,13,29.9
+SO-10210,2025-11-24,West,Ava Patel,27-inch Monitor,Tech,4,296.1
+SO-10063,2025-11-25,East,Mason Wright,Copy Paper Box,Office,20,$38.50
+SO-10085,2025-11-25,North,Liam Turner,Copy Paper Box,Office,8,38.5
+SO-10095,2025-11-25,South,Noah Bennett,Notebook 5-Pack,Office,27,12.9
+SO-10103,2025-11-25,East,Olivia Chen,Copy Paper Box,Office,8,38.5
+SO-10106,2025-11-25,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-10119,2025-11-25,North,Emma Clarke,Wireless Mouse,Tech,16,26.91
+SO-10134,2025-11-25,East,Olivia Chen,Laptop Pro 14,Tech,2,1299.0
+SO-10169,2025-11-25,East,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-10179,2025-11-25,East,Olivia Chen,Ergonomic Chair,Furniture,5,289.0
+SO-10065,2025-11-26, West ,Ethan Brooks,Laptop Pro 14,Tech,2,1299.0
+SO-10109,11/26/2025,East,Olivia Chen,Noise-Cancelling Headset,Tech,5,170.1
+SO-10183,2025-11-26,East,Mason Wright,USB-C Dock,Tech,5,149.0
+SO-10184,2025-11-26,West,Ethan Brooks,Noise-Cancelling Headset,Tech,6,179.55
+SO-10214,2025-11-26,North,Emma Clarke,Standing Desk,Furniture,1,549.0
+SO-10014,2025-11-27,West,Ava Patel,Copy Paper Box,Office,26,38.5
+SO-10023,2025-11-27,East,Olivia Chen,27-inch Monitor,Tech,2,329.0
+SO-10111,2025-11-27,East,Mason Wright,Wireless Mouse,Tech,4,28.4
+SO-10149,2025-11-27,North,Emma Clarke,Copy Paper Box,Office,22,34.65
+SO-10211,2025-11-27,South,Noah Bennett,USB-C Dock,Tech,7,149.0
+SO-10010,2025-11-28,EAST,Olivia Chen,Copy Paper Box,Office,28,38.5
+SO-10064,2025-11-28, East ,Olivia Chen,Notebook 5-Pack,Office,12,12.9
+SO-10133,2025-11-28,South,Noah Bennett,Notebook 5-Pack,Office,20,12.9
+SO-10157,11/28/2025,North,Emma Clarke,Bookshelf,Furniture,3,159.0
+SO-10164,2025-11-28,East,Mason Wright,Bookshelf,Furniture,1,159.0
+SO-10176,2025-11-28,South,Noah Bennett,Noise-Cancelling Headset,Tech,1,179.55
+SO-10186,2025-11-28,West,Ethan Brooks,Copy Paper Box,Office,3,36.57
+SO-10197,2025-11-28,South,Noah Bennett,USB-C Dock,Tech,2,149.0
+SO-10216,2025-11-28,South,Sofia Ramos,Copy Paper Box,Office,10,36.57
+SO-10025,2025-11-29,South,Noah Bennett,27-inch Monitor,Tech,2,329.0
+SO-10032,2025-11-29,East,Olivia Chen,Laptop Pro 14,Tech,3,1299.0
+SO-10052,2025-11-29, North ,Emma Clarke,Notebook 5-Pack,Office,24,12.9
+SO-10054,11/29/2025,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-10062,2025-11-29,West,Ethan Brooks,Printer Toner,Office,4,72.0
+SO-10096,2025-11-29,East,Olivia Chen,Copy Paper Box,Office,16,34.65
+SO-10174,11/29/2025,North,Liam Turner,Laptop Pro 14,Tech,2,1234.05
+SO-10189,2025-11-29,East,Mason Wright,Standing Desk,Furniture,2,494.1
+SO-10196,11/29/2025,North,Liam Turner,Copy Paper Box,Office,2,34.65
+SO-10015,2025-11-30, South ,Noah Bennett,Noise-Cancelling Headset,Tech,2,189.0
+SO-10024,2025-11-30,South,Sofia Ramos,USB-C Dock,Tech,6,134.1
+SO-10045,2025-11-30,North,Emma Clarke,Bookshelf,Furniture,1,$143.10
+SO-10139,2025-11-30,North,Liam Turner,USB-C Dock,Tech,3,149.0
+SO-10158,2025-11-30,East,Mason Wright,Printer Toner,Office,1,72.0
+SO-10182,2025-11-30,East,Mason Wright,Copy Paper Box,Office,11,38.5
+SO-10190,2025-11-30,East,Mason Wright,Filing Cabinet,Furniture,3,189.05
+SO-10228,2025-12-01,North,Emma Clarke,Notebook 5-Pack,Office,20,12.9
+SO-10271,2025-12-01,South,Noah Bennett,Filing Cabinet,Furniture,1,199.0
+SO-10353,2025-12-01,South,Sofia Ramos,Standing Desk,Furniture,4,549.0
+SO-10406,2025-12-01,North,Liam Turner,Printer Toner,Office,9,72.0
+SO-10414,2025-12-01,North,Emma Clarke,Ergonomic Chair,Furniture,5,274.55
+SO-10415,2025-12-01,East,Mason Wright,Ergonomic Chair,Furniture,2,289.0
+SO-10247,2025-12-02,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-10273,2025-12-02,East,Olivia Chen,Noise-Cancelling Headset,Tech,4,189.0
+SO-10282,12/02/2025,north,Liam Turner,Copy Paper Box,Office,7,36.57
+SO-10284,2025-12-02,West,Ava Patel,Ergonomic Chair,Furniture,3,289.0
+SO-10294,2025-12-02,West,Ava Patel,Copy Paper Box,Office,3,36.57
+SO-10331,2025-12-02,North,Emma Clarke,Ergonomic Chair,Furniture,1,260.1
+SO-10352,2025-12-02,East,Olivia Chen,Ergonomic Chair,Furniture,4,289.0
+SO-10352,2025-12-02,East,Olivia Chen,Ergonomic Chair,Furniture,4,289.0
+SO-10376,2025-12-02,North,Liam Turner,Wireless Mouse,Tech,10,26.91
+SO-10385,2025-12-02,North,Liam Turner,Printer Toner,Office,10,72.0
+SO-10398,2025-12-02,North,Liam Turner,Copy Paper Box,Office,13,38.5
+SO-10222,2025-12-03,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-10231,12/03/2025,East,Mason Wright,Ergonomic Chair,Furniture,6,289.0
+SO-10250,2025-12-03,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-10254,2025-12-03,west,Ethan Brooks,Copy Paper Box,Office,17,34.65
+SO-10277,2025-12-03,East,Olivia Chen,27-inch Monitor,Tech,4,329.0
+SO-10292,2025-12-03,East,Mason Wright,Printer Toner,Office,6,72.0
+SO-10381,2025-12-03,West,Ava Patel,Notebook 5-Pack,Office,23,12.25
+SO-10412,12/03/2025,South,Sofia Ramos,Printer Toner,Office,1,72.0
+SO-10419,12/03/2025,East,Mason Wright,Printer Toner,Office,7,72.0
+SO-10449,2025-12-03,North,Liam Turner,Wireless Mouse,Tech,20,28.4
+SO-10274,2025-12-04,East,Mason Wright,Filing Cabinet,Furniture,3,199.0
+SO-10320,2025-12-04,North,Liam Turner,Wireless Mouse,Tech,8,26.91
+SO-10374,2025-12-04,NORTH,Emma Clarke,Printer Toner,Office,10,68.4
+SO-10230,2025-12-05,North,Liam Turner,Copy Paper Box,Office,18,$38.50
+SO-10256,2025-12-05,West,Ava Patel,Ergonomic Chair,Furniture,1,289.0
+SO-10300,2025-12-05,West,Ava Patel,Ergonomic Chair,Furniture,4,289.0
+SO-10312,2025-12-05,North,Liam Turner,Notebook 5-Pack,Office,40,12.9
+SO-10321,2025-12-05,South,Sofia Ramos,Noise-Cancelling Headset,Tech,1,189.0
+SO-10437,2025-12-05,East,Mason Wright,Copy Paper Box,Office,10,$38.50
+SO-10442,2025-12-05,South,Noah Bennett,Standing Desk,Furniture,3,494.1
+SO-10470,2025-12-05,North,Liam Turner,Wireless Mouse,Tech,14,26.91
+SO-10224,2025-12-06,East,Olivia Chen,Printer Toner,Office,2,72.0
+SO-10364,2025-12-06,South,Sofia Ramos,Wireless Mouse,Tech,16,29.9
+SO-10425,2025-12-06,West,Ava Patel,Notebook 5-Pack,Office,37,12.9
+SO-10452,2025-12-06,East,Olivia Chen,Copy Paper Box,Office,19,38.5
+SO-10462,2025-12-06,North,Liam Turner,Wireless Mouse,Tech,13,29.9
+SO-10469,2025-12-06,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,189.0
+SO-10299,2025-12-07,North,Liam Turner,Noise-Cancelling Headset,Tech,6,179.55
+SO-10323,2025-12-07,West,Ava Patel,Notebook 5-Pack,Office,32,12.9
+SO-10325,2025-12-07,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-10328,2025-12-07,North,Liam Turner,Laptop Pro 14,Tech,3,1169.1
+SO-10399,2025-12-07,East,Olivia Chen,Bookshelf,Furniture,4,159.0
+SO-10236,2025-12-08,North,Liam Turner,Printer Toner,Office,3,72.0
+SO-10238,2025-12-08,South,Sofia Ramos,Notebook 5-Pack,Office,10,12.9
+SO-10268,2025-12-08,South,Noah Bennett,Wireless Mouse,Tech,3,29.9
+SO-10275,2025-12-08,East,Olivia Chen,Filing Cabinet,Furniture,2,179.1
+SO-10304,2025-12-08,North,Liam Turner,Notebook 5-Pack,Office,2,12.9
+SO-10351,2025-12-08,North,Emma Clarke,Filing Cabinet,Furniture,1,179.1
+SO-10386,2025-12-08,East,Olivia Chen,Printer Toner,Office,2,72.0
+SO-10390,2025-12-08,East,Mason Wright,Copy Paper Box,Office,29,38.5
+SO-10416,2025-12-08,North,Emma Clarke,27-inch Monitor,Tech,5,329.0
+SO-10418,2025-12-08,South,Sofia Ramos,Wireless Mouse,Tech,10,26.91
+SO-10448,2025-12-08,East,Mason Wright,27-inch Monitor,Tech,6,329.0
+SO-10454,2025-12-08,South,Sofia Ramos,Laptop Pro 14,Tech,4,1299.0
+SO-10285,2025-12-09,South,Sofia Ramos,Copy Paper Box,Office,26,38.5
+SO-10315,2025-12-09,West,Ava Patel,27-inch Monitor,Tech,5,$296.10
+SO-10329,2025-12-09,North,Emma Clarke,Ergonomic Chair,Furniture,2,260.1
+SO-10345,2025-12-09,EAST,Mason Wright,USB-C Dock,Tech,4,149.0
+SO-10439,2025-12-09,North,Emma Clarke,Copy Paper Box,Office,24,38.5
+SO-10223,12/10/2025,South,Noah Bennett,Wireless Mouse,Tech,19,$29.90
+SO-10229,12/10/2025,West,Ethan Brooks,Copy Paper Box,Office,4,38.5
+SO-10233,2025-12-10,EAST,Olivia Chen,Copy Paper Box,Office,13,36.57
+SO-10252,2025-12-10,North,Liam Turner,Copy Paper Box,Office,5,38.5
+SO-10302,12/10/2025,South,Noah Bennett,Laptop Pro 14,Tech,2,1169.1
+SO-10317,2025-12-10,West,Ethan Brooks,Standing Desk,Furniture,1,521.55
+SO-10326,2025-12-10,North,Emma Clarke,Ergonomic Chair,Furniture,1,274.55
+SO-10335,2025-12-10,West,Ethan Brooks,Ergonomic Chair,Furniture,1,260.1
+SO-10347,2025-12-10,South,Sofia Ramos,Wireless Mouse,Tech,19,29.9
+SO-10359,2025-12-10,North,Liam Turner,Bookshelf,Furniture,4,159.0
+SO-10407,2025-12-10,West,Ava Patel,Bookshelf,Furniture,2,151.05
+SO-10457,2025-12-10,West,Ethan Brooks,Copy Paper Box,Office,15,38.5
+SO-10459,2025-12-10,East,Olivia Chen,Standing Desk,Furniture,1,549.0
+SO-10475,12/10/2025,North,Emma Clarke,Bookshelf,Furniture,3,159.0
+SO-10241,2025-12-11,West,Ethan Brooks,Bookshelf,Furniture,2,143.1
+SO-10283,12/11/2025,North,Liam Turner,USB-C Dock,Tech,7,149.0
+SO-10297,2025-12-11,East,Mason Wright,Ergonomic Chair,Furniture,2,274.55
+SO-10314,2025-12-11,East,Olivia Chen,Copy Paper Box,Office,27,34.65
+SO-10344,2025-12-11,South,Noah Bennett,USB-C Dock,Tech,5,134.1
+SO-10426,2025-12-11,West,Ethan Brooks,Wireless Mouse,Tech,5,$26.91
+SO-10428,2025-12-11,north,Liam Turner,USB-C Dock,Tech,6,149.0
+SO-10443,2025-12-11,East,Olivia Chen,Copy Paper Box,Office,13,36.57
+SO-10465,2025-12-11, West ,Ava Patel,Ergonomic Chair,Furniture,4,289.0
+SO-10226,2025-12-12,North,Liam Turner,Copy Paper Box,Office,4,38.5
+SO-10278,2025-12-12, West ,Ethan Brooks,Laptop Pro 14,Tech,1,1234.05
+SO-10280,2025-12-12,East,Mason Wright,Wireless Mouse,Tech,6,29.9
+SO-10287,2025-12-12,West,Ethan Brooks,Ergonomic Chair,Furniture,1,$274.55
+SO-10296,2025-12-12,North,Liam Turner,Standing Desk,Furniture,1,549.0
+SO-10349,2025-12-12,north,Liam Turner,Noise-Cancelling Headset,Tech,6,189.0
+SO-10380,2025-12-12,East,Mason Wright,Notebook 5-Pack,Office,29,12.25
+SO-10384,2025-12-12,South,Sofia Ramos,USB-C Dock,Tech,5,141.55
+SO-10405,2025-12-12,South,Noah Bennett,Printer Toner,Office,7,72.0
+SO-10445,2025-12-12,South,Sofia Ramos,Printer Toner,Office,10,$68.40
+SO-10467,2025-12-12,South,Noah Bennett,Wireless Mouse,Tech,15,29.9
+SO-10258,2025-12-13,West,Ava Patel,Filing Cabinet,Furniture,1,179.1
+SO-10295,2025-12-13,North,Emma Clarke,Filing Cabinet,Furniture,3,$199.00
+SO-10365,2025-12-13,South,Sofia Ramos,Noise-Cancelling Headset,Tech,4,189.0
+SO-10322,12/14/2025,North,Emma Clarke,Wireless Mouse,Tech,6,26.91
+SO-10341,2025-12-14,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,189.0
+SO-10379,2025-12-14,West,Ava Patel,Standing Desk,Furniture,2,$549.00
+SO-10391,12/14/2025,North,Liam Turner,Copy Paper Box,Office,9,38.5
+SO-10438,2025-12-14,North,Liam Turner,27-inch Monitor,Tech,4,329.0
+SO-10456,2025-12-14,West,Ava Patel,Standing Desk,Furniture,1,549.0
+SO-10474,2025-12-14,East,Mason Wright,Ergonomic Chair,Furniture,4,$274.55
+SO-10478,2025-12-14,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-10234,2025-12-15,North,Liam Turner,Wireless Mouse,Tech,3,26.91
+SO-10243,12/15/2025,South,Sofia Ramos,27-inch Monitor,Tech,1,312.55
+SO-10245,2025-12-15,East,Olivia Chen,Notebook 5-Pack,Office,21,12.9
+SO-10246,2025-12-15,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-10260,2025-12-15,South,Noah Bennett,Wireless Mouse,Tech,15,29.9
+SO-10262,2025-12-15,East,Mason Wright,Bookshelf,Furniture,4,151.05
+SO-10360,2025-12-15,West,Ethan Brooks,27-inch Monitor,Tech,2,296.1
+SO-10383,2025-12-15,West,Ethan Brooks,Copy Paper Box,Office,18,38.5
+SO-10404,2025-12-15,North,Emma Clarke,Ergonomic Chair,Furniture,6,274.55
+SO-10409,12/15/2025,East,Olivia Chen,Ergonomic Chair,Furniture,6,274.55
+SO-10433,2025-12-15,South,Noah Bennett,27-inch Monitor,Tech,3,329.0
+SO-10434,2025-12-15,North,Liam Turner,27-inch Monitor,Tech,1,312.55
+SO-10440,12/15/2025,East,Olivia Chen,Bookshelf,Furniture,2,159.0
+SO-10463,2025-12-15,North,Liam Turner,Filing Cabinet,Furniture,2,199.0
+SO-10298,2025-12-16,West,Ethan Brooks,Laptop Pro 14,Tech,1,1299.0
+SO-10318,2025-12-16,East,Mason Wright,USB-C Dock,Tech,4,141.55
+SO-10324,2025-12-16,West,Ava Patel,Standing Desk,Furniture,1,549.0
+SO-10354,2025-12-16,East,Olivia Chen,Printer Toner,Office,5,68.4
+SO-10408,2025-12-16, South ,Noah Bennett,Wireless Mouse,Tech,9,$29.90
+SO-10410,12/16/2025,West,Ava Patel,USB-C Dock,Tech,1,134.1
+SO-10422,2025-12-16,North,Liam Turner,Notebook 5-Pack,Office,3,11.61
+SO-10429,2025-12-16,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,179.55
+SO-10458,2025-12-16,West,Ava Patel,Ergonomic Chair,Furniture,4,289.0
+SO-10227,2025-12-17,North,Liam Turner,Copy Paper Box,Office,2,36.57
+SO-10237,2025-12-17,North,Emma Clarke,Filing Cabinet,Furniture,2,179.1
+SO-10272,2025-12-17,West,Ethan Brooks,Ergonomic Chair,Furniture,1,260.1
+SO-10306,2025-12-17,North,Liam Turner,Wireless Mouse,Tech,14,28.4
+SO-10332,2025-12-17,North,Liam Turner,Wireless Mouse,Tech,5,28.4
+SO-10372,2025-12-17,East,Mason Wright,Bookshelf,Furniture,3,159.0
+SO-10382,2025-12-17,North,Emma Clarke,Notebook 5-Pack,Office,15,12.25
+SO-10396,2025-12-17,East,Olivia Chen,Notebook 5-Pack,Office,25,11.61
+SO-10427,2025-12-17,West,Ethan Brooks,Copy Paper Box,Office,2,38.5
+SO-10466,2025-12-17,North,Liam Turner,Copy Paper Box,Office,20,36.57
+SO-10253,2025-12-18,East,Mason Wright,Notebook 5-Pack,Office,22,12.9
+SO-10330,2025-12-18,West,Ethan Brooks,Wireless Mouse,Tech,5,29.9
+SO-10378,2025-12-18,North,Emma Clarke,Wireless Mouse,Tech,3,29.9
+SO-10388,2025-12-18,East,Olivia Chen,Wireless Mouse,Tech,2,29.9
+SO-10403,2025-12-18,South,Noah Bennett,Noise-Cancelling Headset,Tech,3,179.55
+SO-10461,2025-12-18,East,Mason Wright,Ergonomic Chair,Furniture,4,289.0
+SO-10471,2025-12-18,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-10235,2025-12-19,South,Noah Bennett,27-inch Monitor,Tech,5,312.55
+SO-10276,2025-12-19,South,Noah Bennett,Filing Cabinet,Furniture,1,199.0
+SO-10313,2025-12-19,East,Olivia Chen,Ergonomic Chair,Furniture,2,289.0
+SO-10334,2025-12-19,South,Noah Bennett,Filing Cabinet,Furniture,3,199.0
+SO-10336,2025-12-19,South,Noah Bennett,Copy Paper Box,Office,26,36.57
+SO-10338,2025-12-19,west,Ava Patel,Copy Paper Box,Office,24,34.65
+SO-10362,2025-12-19,North,Emma Clarke,Wireless Mouse,Tech,6,29.9
+SO-10366,2025-12-19,East,Olivia Chen,Notebook 5-Pack,Office,17,12.9
+SO-10421,2025-12-19,South,Sofia Ramos,Standing Desk,Furniture,1,549.0
+SO-10424,2025-12-19,West,Ava Patel,Noise-Cancelling Headset,Tech,6,189.0
+SO-10476,2025-12-19,North,Liam Turner,Noise-Cancelling Headset,Tech,5,179.55
+SO-10225,2025-12-20,North,Liam Turner,Copy Paper Box,Office,14,36.57
+SO-10244,12/20/2025,south,Noah Bennett,Noise-Cancelling Headset,Tech,4,189.0
+SO-10248,2025-12-20,South,Sofia Ramos,Standing Desk,Furniture,3,494.1
+SO-10291,2025-12-20,South,Noah Bennett,Copy Paper Box,Office,9,38.5
+SO-10337,2025-12-20,WEST,Ethan Brooks,Printer Toner,Office,5,72.0
+SO-10369,2025-12-20,East,Olivia Chen,Notebook 5-Pack,Office,15,12.9
+SO-10413,2025-12-20,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-10435,2025-12-20,North,Liam Turner,Wireless Mouse,Tech,13,29.9
+SO-10451,12/20/2025,North,Emma Clarke,Notebook 5-Pack,Office,7,11.61
+SO-10472,2025-12-20,North,Emma Clarke,USB-C Dock,Tech,6,141.55
+SO-10281,2025-12-21,west,Ava Patel,Copy Paper Box,Office,26,36.57
+SO-10307,2025-12-21,West,Ava Patel,27-inch Monitor,Tech,4,329.0
+SO-10339,2025-12-21,North,Liam Turner,Standing Desk,Furniture,2,494.1
+SO-10355,2025-12-21,South,Sofia Ramos,Filing Cabinet,Furniture,3,199.0
+SO-10361,2025-12-21,West,Ethan Brooks,Wireless Mouse,Tech,6,28.4
+SO-10392,2025-12-21,North,Liam Turner,Notebook 5-Pack,Office,36,12.9
+SO-10221,2025-12-22,North,Liam Turner,Printer Toner,Office,2,64.8
+SO-10289,2025-12-22,North,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-10343,2025-12-22,North,Liam Turner,USB-C Dock,Tech,7,149.0
+SO-10367,2025-12-22,East,Olivia Chen,Copy Paper Box,Office,15,38.5
+SO-10387,2025-12-22,North,Emma Clarke,Laptop Pro 14,Tech,2,1169.1
+SO-10430,2025-12-22,East,Mason Wright,Wireless Mouse,Tech,3,29.9
+SO-10446,2025-12-22,North,Emma Clarke,Notebook 5-Pack,Office,30,12.9
+SO-10460,2025-12-22,North,Emma Clarke,Wireless Mouse,Tech,8,29.9
+SO-10270,2025-12-23,North,Emma Clarke,Noise-Cancelling Headset,Tech,6,179.55
+SO-10290,2025-12-23,South,Noah Bennett,Copy Paper Box,Office,12,38.5
+SO-10346,2025-12-23,West,Ava Patel,Notebook 5-Pack,Office,32,12.9
+SO-10420,2025-12-23,South,Sofia Ramos,Standing Desk,Furniture,1,549.0
+SO-10431,12/23/2025,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,189.0
+SO-10455,2025-12-23,South,Sofia Ramos,Standing Desk,Furniture,3,494.1
+SO-10251,2025-12-24,East,Olivia Chen,Wireless Mouse,Tech,11,29.9
+SO-10279,2025-12-24,South,Sofia Ramos,27-inch Monitor,Tech,5,329.0
+SO-10319,12/24/2025,South,Noah Bennett,27-inch Monitor,Tech,4,329.0
+SO-10370,2025-12-24,West,Ethan Brooks,Standing Desk,Furniture,4,521.55
+SO-10377,2025-12-24,East,Olivia Chen,Wireless Mouse,Tech,19,29.9
+SO-10401,2025-12-24,West,Ethan Brooks,Notebook 5-Pack,Office,16,12.9
+SO-10432,2025-12-24,North,Liam Turner,Wireless Mouse,Tech,11,29.9
+SO-10436,12/24/2025,North,Emma Clarke,Wireless Mouse,Tech,19,29.9
+SO-10239,2025-12-25,north,Emma Clarke,USB-C Dock,Tech,3,149.0
+SO-10240,2025-12-25,West,Ethan Brooks,Filing Cabinet,Furniture,3,189.05
+SO-10249,2025-12-25,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,179.55
+SO-10257,2025-12-25,North,Emma Clarke,Printer Toner,Office,6,64.8
+SO-10327,2025-12-25,South,Noah Bennett,Printer Toner,Office,6,72.0
+SO-10394,2025-12-25,South,Noah Bennett,Noise-Cancelling Headset,Tech,2,189.0
+SO-10464,2025-12-25,North,Emma Clarke,USB-C Dock,Tech,2,149.0
+SO-10477,2025-12-25,East,Mason Wright,Bookshelf,Furniture,1,$159.00
+SO-10242,2025-12-26,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-10259,2025-12-26,North,Emma Clarke,Copy Paper Box,Office,24,34.65
+SO-10301,2025-12-26,North,Liam Turner,Copy Paper Box,Office,22,38.5
+SO-10303,2025-12-26,East,Mason Wright,Notebook 5-Pack,Office,33,12.9
+SO-10305,2025-12-26,South,Sofia Ramos,Bookshelf,Furniture,1,151.05
+SO-10371,2025-12-26,East,Olivia Chen,Notebook 5-Pack,Office,16,11.61
+SO-10375,2025-12-26,South,Sofia Ramos,Notebook 5-Pack,Office,30,12.25
+SO-10393,2025-12-26,South,Noah Bennett,Notebook 5-Pack,Office,27,12.25
+SO-10395,2025-12-26,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-10395,2025-12-26,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-10417,2025-12-26,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-10263,2025-12-27,East,Olivia Chen,Wireless Mouse,Tech,20,29.9
+SO-10269,2025-12-27,SOUTH,Noah Bennett,Laptop Pro 14,Tech,2,1299.0
+SO-10288,2025-12-27,East,Olivia Chen,27-inch Monitor,Tech,5,296.1
+SO-10309,2025-12-27,South,Sofia Ramos,Notebook 5-Pack,Office,34,12.9
+SO-10348,2025-12-27,East,Mason Wright,Wireless Mouse,Tech,5,28.4
+SO-10350,2025-12-27,North,Liam Turner,Standing Desk,Furniture,3,549.0
+SO-10357,2025-12-27,West,Ethan Brooks,USB-C Dock,Tech,8,149.0
+SO-10363,2025-12-27,East,Mason Wright,Filing Cabinet,Furniture,3,189.05
+SO-10373,2025-12-27,north,Emma Clarke,Bookshelf,Furniture,2,159.0
+SO-10389,2025-12-27,North,Liam Turner,Notebook 5-Pack,Office,37,12.9
+SO-10441,2025-12-27,South,Noah Bennett,Notebook 5-Pack,Office,22,12.9
+SO-10447,2025-12-27,West,Ava Patel,USB-C Dock,Tech,7,$149.00
+SO-10473,2025-12-27,West,Ethan Brooks,Ergonomic Chair,Furniture,5,289.0
+SO-10219,2025-12-28,East,Olivia Chen,Bookshelf,Furniture,3,151.05
+SO-10232,2025-12-28,North,Liam Turner,Laptop Pro 14,Tech,4,1299.0
+SO-10264,12/28/2025,North,Liam Turner,Noise-Cancelling Headset,Tech,5,179.55
+SO-10265,2025-12-28,West,Ava Patel,Copy Paper Box,Office,10,34.65
+SO-10311,2025-12-28,West,Ava Patel,Ergonomic Chair,Furniture,3,289.0
+SO-10342,12/28/2025,East,Olivia Chen,Filing Cabinet,Furniture,3,189.05
+SO-10261,2025-12-29,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,179.55
+SO-10261,2025-12-29,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,179.55
+SO-10266,2025-12-29,North,Emma Clarke,USB-C Dock,Tech,7,141.55
+SO-10267,2025-12-29,North,Liam Turner,Notebook 5-Pack,Office,2,12.25
+SO-10286,2025-12-29,South,Noah Bennett,Notebook 5-Pack,Office,22,12.25
+SO-10308,2025-12-29,South,Sofia Ramos,Ergonomic Chair,Furniture,2,289.0
+SO-10308,2025-12-29,South,Sofia Ramos,Ergonomic Chair,Furniture,2,289.0
+SO-10316,2025-12-29,South,Noah Bennett,Filing Cabinet,Furniture,3,189.05
+SO-10358,2025-12-29,North,Emma Clarke,Copy Paper Box,Office,1,38.5
+SO-10423,2025-12-29,west,Ava Patel,Copy Paper Box,Office,6,38.5
+SO-10220,2025-12-30,North,Liam Turner,Noise-Cancelling Headset,Tech,3,189.0
+SO-10310,2025-12-30,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-10333,2025-12-30,East,Mason Wright,Ergonomic Chair,Furniture,2,289.0
+SO-10356,2025-12-30,East,Olivia Chen,Printer Toner,Office,7,72.0
+SO-10368,2025-12-30,South,Noah Bennett,Wireless Mouse,Tech,4,26.91
+SO-10397,2025-12-30,North,Liam Turner,USB-C Dock,Tech,6,149.0
+SO-10402,2025-12-30,East,Olivia Chen,Copy Paper Box,Office,18,36.57
+SO-10450,2025-12-30,South,Noah Bennett,Wireless Mouse,Tech,18,26.91
+SO-10468,2025-12-30,East,Olivia Chen,Printer Toner,Office,3,72.0
+SO-10255,2025-12-31,South,Sofia Ramos,Wireless Mouse,Tech,11,29.9
+SO-10293,12/31/2025,east,Olivia Chen,Copy Paper Box,Office,5,38.5
+SO-10340,2025-12-31,West,Ava Patel,Noise-Cancelling Headset,Tech,2,170.1
+SO-10400,2025-12-31,North,Emma Clarke,Notebook 5-Pack,Office,14,12.9
+SO-10411,2025-12-31,east,Olivia Chen,Printer Toner,Office,1,72.0
+SO-10444,12/31/2025,West,Ava Patel,Noise-Cancelling Headset,Tech,3,179.55
+SO-10453,2025-12-31,West,Ethan Brooks,Copy Paper Box,Office,26,36.57
+SO-10511,2026-01-01,East,Olivia Chen,Copy Paper Box,Office,1,38.5
+SO-10547,2026-01-01,North,Liam Turner,Printer Toner,Office,8,72.0
+SO-10567,2026-01-01,East,Mason Wright,Laptop Pro 14,Tech,2,1234.05
+SO-10496,2026-01-02,North,Liam Turner,Copy Paper Box,Office,21,38.5
+SO-10555,2026-01-02,North,Emma Clarke,Noise-Cancelling Headset,Tech,6,189.0
+SO-10606,2026-01-02,South,Noah Bennett,Printer Toner,Office,5,72.0
+SO-10635,2026-01-02,North,Emma Clarke,Printer Toner,Office,8,68.4
+SO-10500,2026-01-03,North,Emma Clarke,27-inch Monitor,Tech,1,$312.55
+SO-10517,2026-01-03,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-10544,2026-01-03,South,Sofia Ramos,Standing Desk,Furniture,3,549.0
+,,,,,,,
+SO-10566,2026-01-03,East,Olivia Chen,USB-C Dock,Tech,,149.0
+SO-10589,2026-01-03,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-10598,2026-01-03,West,Ethan Brooks,27-inch Monitor,Tech,2,312.55
+SO-10492,2026-01-04,West,Ethan Brooks,Copy Paper Box,Office,1,38.5
+SO-10542,2026-01-04,North,Emma Clarke,USB-C Dock,Tech,2,134.1
+SO-10543,2026-01-04,North,Liam Turner,Standing Desk,Furniture,2,521.55
+SO-10552,2026-01-04,West,Ava Patel,Printer Toner,Office,8,72.0
+SO-10580,2026-01-04,West,Ethan Brooks,Wireless Mouse,Tech,19,28.4
+SO-10491,2026-01-05,West,Ethan Brooks,Wireless Mouse,Tech,11,26.91
+SO-10498,2026-01-05,North,Emma Clarke,USB-C Dock,Tech,8,149.0
+SO-10504,2026-01-05,West,Ava Patel,27-inch Monitor,Tech,5,329.0
+SO-10549,2026-01-05,North,Emma Clarke,Laptop Pro 14,Tech,4,1299.0
+SO-10608,2026-01-05,West,Ethan Brooks,Copy Paper Box,Office,24,38.5
+SO-10638,2026-01-05,West,Ethan Brooks,Notebook 5-Pack,Office,12,12.25
+SO-10519,2026-01-06,North,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-10520,01/06/2026,East,Mason Wright,Copy Paper Box,Office,5,38.5
+SO-10529,2026-01-06,South,Sofia Ramos,Ergonomic Chair,Furniture,5,289.0
+SO-10579,2026-01-06,North,Liam Turner,Wireless Mouse,Tech,16,28.4
+SO-10631,01/06/2026,East,Mason Wright,Printer Toner,Office,2,$64.80
+SO-10480,2026-01-07,South,Noah Bennett,Notebook 5-Pack,Office,40,12.9
+SO-10507,2026-01-07,North,Emma Clarke,Printer Toner,Office,7,72.0
+SO-10545,01/07/2026,West,Ethan Brooks,Copy Paper Box,Office,5,38.5
+SO-10626,01/07/2026,North,Emma Clarke,Copy Paper Box,Office,17,38.5
+SO-10637,01/07/2026,north,Liam Turner,Printer Toner,Office,7,72.0
+SO-10525,2026-01-08,East,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-10527,2026-01-08,West,Ethan Brooks,Copy Paper Box,Office,8,36.57
+SO-10560,01/08/2026,North,Emma Clarke,Laptop Pro 14,Tech,3,1169.1
+SO-10575,2026-01-08,East,Olivia Chen,Notebook 5-Pack,Office,32,11.61
+SO-10613,2026-01-08,North,Emma Clarke,Printer Toner,Office,8,72.0
+SO-10479,2026-01-09,North,Liam Turner,Notebook 5-Pack,Office,6,12.25
+SO-10482,2026-01-09,West,Ava Patel,Bookshelf,Furniture,3,143.1
+SO-10483,2026-01-09,West,Ava Patel,Noise-Cancelling Headset,Tech,2,170.1
+SO-10484,2026-01-09,West,Ava Patel,Copy Paper Box,Office,23,38.5
+SO-10514,2026-01-09,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-10522,2026-01-09,West,Ava Patel,Noise-Cancelling Headset,Tech,4,189.0
+SO-10540,2026-01-09,east,Mason Wright,27-inch Monitor,Tech,4,329.0
+SO-10578,2026-01-09,North,Emma Clarke,Copy Paper Box,Office,24,38.5
+SO-10582,2026-01-09,WEST,Ava Patel,Noise-Cancelling Headset,Tech,1,189.0
+SO-10599,2026-01-09,West,Ethan Brooks,Filing Cabinet,Furniture,3,179.1
+SO-10614,2026-01-09,North,Liam Turner,Wireless Mouse,Tech,15,29.9
+SO-10621,2026-01-09,North,Liam Turner,Printer Toner,Office,5,72.0
+SO-10625,2026-01-09,East,Mason Wright,Standing Desk,Furniture,3,$549.00
+SO-10628,2026-01-09,East,Mason Wright,Copy Paper Box,Office,13,38.5
+SO-10516,01/10/2026,East,Mason Wright,Copy Paper Box,Office,24,38.5
+SO-10516,01/10/2026,East,Mason Wright,Copy Paper Box,Office,24,38.5
+SO-10573,2026-01-10,East,Mason Wright,Printer Toner,Office,3,68.4
+SO-10588,2026-01-10,North,Liam Turner,Laptop Pro 14,Tech,2,1299.0
+SO-10607,2026-01-10,West,Ethan Brooks,Laptop Pro 14,Tech,4,1299.0
+SO-10488,2026-01-11,West,Ava Patel,Wireless Mouse,Tech,3,28.4
+SO-10505,2026-01-11,East,Olivia Chen,Wireless Mouse,Tech,8,$28.40
+SO-10639,2026-01-11,East,Olivia Chen,Ergonomic Chair,Furniture,1,289.0
+SO-10554,2026-01-12,North,Emma Clarke,Copy Paper Box,Office,30,38.5
+SO-10561,2026-01-12,North,Emma Clarke,Notebook 5-Pack,Office,11,11.61
+SO-10563,2026-01-12,West,Ava Patel,USB-C Dock,Tech,3,141.55
+SO-10576,2026-01-12,North,Liam Turner,Copy Paper Box,Office,6,38.5
+SO-10633,2026-01-12,West,Ava Patel,Copy Paper Box,Office,24,38.5
+SO-10634,01/12/2026,West,Ethan Brooks,Wireless Mouse,Tech,19,29.9
+SO-10487,2026-01-13,South,Noah Bennett,Filing Cabinet,Furniture,3,199.0
+SO-10501,2026-01-13,South,Sofia Ramos,Printer Toner,Office,3,72.0
+SO-10546,2026-01-13,North,Emma Clarke,Noise-Cancelling Headset,Tech,6,189.0
+SO-10558,2026-01-13,West,Ethan Brooks,Ergonomic Chair,Furniture,4,289.0
+SO-10574,2026-01-13,North,Emma Clarke,Laptop Pro 14,Tech,2,1169.1
+SO-10596,2026-01-13,West,Ava Patel,Standing Desk,Furniture,2,549.0
+SO-10623,2026-01-13,SOUTH,Sofia Ramos,Copy Paper Box,Office,1,$34.65
+SO-10627,2026-01-13,East,Mason Wright,Notebook 5-Pack,Office,9,11.61
+SO-10642,2026-01-13,South,Sofia Ramos,Standing Desk,Furniture,1,521.55
+SO-10497,2026-01-14,South,Sofia Ramos,Copy Paper Box,Office,23,38.5
+SO-10510,2026-01-14,West,Ethan Brooks,27-inch Monitor,Tech,5,296.1
+SO-10513,2026-01-14,East,Mason Wright,Ergonomic Chair,Furniture,1,274.55
+SO-10586,2026-01-14,North,Liam Turner,Wireless Mouse,Tech,10,29.9
+SO-10595,01/14/2026,North,Liam Turner,Wireless Mouse,Tech,19,26.91
+SO-10493,2026-01-15,North,Emma Clarke,Printer Toner,Office,7,$68.40
+SO-10541,01/15/2026,EAST,Mason Wright,Copy Paper Box,Office,8,38.5
+SO-10548,2026-01-15,East,Olivia Chen,Ergonomic Chair,Furniture,2,$289.00
+SO-10577,2026-01-15,East,Olivia Chen,Notebook 5-Pack,Office,17,12.9
+SO-10581,2026-01-15,East,Olivia Chen,Copy Paper Box,Office,26,38.5
+SO-10592,2026-01-15,North,Liam Turner,Laptop Pro 14,Tech,2,1234.05
+SO-10592,2026-01-15,North,Liam Turner,Laptop Pro 14,Tech,2,1234.05
+SO-10622,2026-01-15,South,Noah Bennett,Wireless Mouse,Tech,7,29.9
+SO-10490,2026-01-16,North,Liam Turner,Standing Desk,Furniture,3,549.0
+SO-10508,2026-01-16,North,Liam Turner,Laptop Pro 14,Tech,1,"$1,299.00"
+SO-10536,2026-01-16,North,Emma Clarke,Notebook 5-Pack,Office,10,12.25
+SO-10556,2026-01-16,North,Emma Clarke,Wireless Mouse,Tech,3,26.91
+SO-10620,2026-01-16,North,Emma Clarke,Copy Paper Box,Office,21,38.5
+SO-10509,2026-01-17,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-10559,2026-01-17,East,Mason Wright,Ergonomic Chair,Furniture,4,260.1
+SO-10611,2026-01-17,East,Olivia Chen,Printer Toner,Office,2,72.0
+SO-10636,2026-01-17,west,Ethan Brooks,Ergonomic Chair,Furniture,4,274.55
+SO-10515,2026-01-18,north,Liam Turner,Notebook 5-Pack,Office,26,12.9
+SO-10531,2026-01-18,East,Mason Wright,Noise-Cancelling Headset,Tech,1,189.0
+SO-10534,2026-01-18,North,Liam Turner,Wireless Mouse,Tech,1,29.9
+SO-10562,2026-01-18,North,Emma Clarke,Copy Paper Box,Office,25,38.5
+SO-10600,2026-01-18,West,Ethan Brooks,Laptop Pro 14,Tech,3,1234.05
+SO-10624,2026-01-18,East,Mason Wright,Copy Paper Box,Office,10,38.5
+SO-10538,2026-01-19,West,Ava Patel,Standing Desk,Furniture,2,549.0
+SO-10539,2026-01-19, East ,Olivia Chen,Wireless Mouse,Tech,14,26.91
+SO-10550,2026-01-19,South,Noah Bennett,Filing Cabinet,Furniture,1,199.0
+SO-10570,2026-01-19,West,Ava Patel,Wireless Mouse,Tech,11,28.4
+SO-10587,2026-01-19,North,Liam Turner,27-inch Monitor,Tech,2,312.55
+SO-10602,2026-01-19,SOUTH,Sofia Ramos,27-inch Monitor,Tech,1,296.1
+SO-10640,2026-01-19,South,Sofia Ramos,USB-C Dock,Tech,8,149.0
+SO-10506,2026-01-20,North,Liam Turner,27-inch Monitor,Tech,6,296.1
+SO-10584,2026-01-20,West,Ethan Brooks,Notebook 5-Pack,Office,2,12.9
+SO-10604,2026-01-20,North,Liam Turner,Copy Paper Box,Office,2,34.65
+SO-10605,2026-01-20,North,Liam Turner,Wireless Mouse,Tech,2,26.91
+SO-10641,2026-01-20,West,Ethan Brooks,Copy Paper Box,Office,21,38.5
+SO-10486,2026-01-21,south,Noah Bennett,27-inch Monitor,Tech,4,$329.00
+SO-10495,2026-01-21,West,Ethan Brooks,Printer Toner,Office,5,72.0
+SO-10502,2026-01-21,North,Emma Clarke,Bookshelf,Furniture,4,143.1
+SO-10557,2026-01-21,North,Emma Clarke,27-inch Monitor,Tech,6,329.0
+SO-10619,2026-01-21,East,Mason Wright,Copy Paper Box,Office,17,38.5
+SO-10630,2026-01-21,East,Mason Wright,USB-C Dock,Tech,6,134.1
+SO-10518,2026-01-22,South,Sofia Ramos,Filing Cabinet,Furniture,1,199.0
+SO-10524,2026-01-22, North ,Emma Clarke,Copy Paper Box,Office,8,34.65
+SO-10615,2026-01-22,East,Olivia Chen,Filing Cabinet,Furniture,1,199.0
+SO-10572,2026-01-23,WEST,Ethan Brooks,Filing Cabinet,Furniture,1,199.0
+SO-10532,2026-01-24,South,Sofia Ramos,Noise-Cancelling Headset,Tech,4,189.0
+SO-10533,2026-01-24,South,Sofia Ramos,Notebook 5-Pack,Office,10,12.9
+SO-10571,2026-01-24,South,Noah Bennett,27-inch Monitor,Tech,6,329.0
+SO-10583,2026-01-24,South,Sofia Ramos,Notebook 5-Pack,Office,36,12.9
+SO-10609,01/24/2026,South,Noah Bennett,Printer Toner,Office,10,72.0
+SO-10617,01/24/2026,South,Sofia Ramos,Printer Toner,Office,5,72.0
+SO-10521,2026-01-25,East,Olivia Chen,Printer Toner,Office,6,72.0
+SO-10569,2026-01-25,North,Emma Clarke,Bookshelf,Furniture,3,159.0
+SO-10593,2026-01-25,West,Ava Patel,Bookshelf,Furniture,1,159.0
+SO-10594,01/25/2026,EAST,Olivia Chen,Printer Toner,Office,9,68.4
+SO-10612,2026-01-25,South,Sofia Ramos,Ergonomic Chair,Furniture,2,289.0
+SO-10618,2026-01-25,North,Emma Clarke,Laptop Pro 14,Tech,2,1169.1
+SO-10632,2026-01-25,South,Sofia Ramos,Copy Paper Box,Office,22,34.65
+SO-10481,2026-01-26,East,Olivia Chen,USB-C Dock,Tech,4,149.0
+SO-10551,01/26/2026,North,Emma Clarke,Laptop Pro 14,Tech,1,1234.05
+SO-10601,2026-01-26,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-10485,01/27/2026,West,Ava Patel,Noise-Cancelling Headset,Tech,6,189.0
+SO-10528,2026-01-27,South,Sofia Ramos,Copy Paper Box,Office,19,38.5
+SO-10553,2026-01-27,North,Liam Turner,Notebook 5-Pack,Office,32,12.25
+SO-10629,2026-01-27,South,Sofia Ramos,Laptop Pro 14,Tech,3,1169.1
+SO-10489,01/28/2026,East,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-10499,2026-01-28,North,Liam Turner,Copy Paper Box,Office,23,38.5
+SO-10523,01/28/2026,South,Sofia Ramos,Wireless Mouse,Tech,12,28.4
+SO-10535,2026-01-28,West,Ethan Brooks,Laptop Pro 14,Tech,1,1234.05
+SO-10603,2026-01-28,East,Mason Wright,27-inch Monitor,Tech,4,$329.00
+SO-10494,2026-01-29,North,Liam Turner,Copy Paper Box,Office,6,38.5
+SO-10530,2026-01-29,West,Ethan Brooks,Notebook 5-Pack,Office,19,12.9
+SO-10537,01/29/2026,East,Mason Wright,27-inch Monitor,Tech,6,329.0
+SO-10585,2026-01-29,South,Noah Bennett,Copy Paper Box,Office,6,34.65
+SO-10590,2026-01-29,South,Noah Bennett,Wireless Mouse,Tech,3,28.4
+SO-10591,2026-01-29,East,Mason Wright,Wireless Mouse,Tech,12,29.9
+SO-10643,2026-01-29,East,Mason Wright,Copy Paper Box,Office,25,38.5
+SO-10643,2026-01-29,East,Mason Wright,Copy Paper Box,Office,25,38.5
+SO-10503,2026-01-30,South,Noah Bennett,USB-C Dock,Tech,8,149.0
+SO-10526,2026-01-30,South,Sofia Ramos,Notebook 5-Pack,Office,36,12.9
+SO-10564,2026-01-30,North,Emma Clarke,Wireless Mouse,Tech,12,29.9
+SO-10568,2026-01-30,West,Ethan Brooks,Wireless Mouse,Tech,2,$29.90
+SO-10610,2026-01-30,East,Mason Wright,USB-C Dock,Tech,8,149.0
+SO-10512,2026-01-31,North,Liam Turner,Laptop Pro 14,Tech,3,1299.0
+SO-10565,2026-01-31,West,Ava Patel,Bookshelf,Furniture,4,143.1
+SO-10597,2026-01-31,North,Emma Clarke,Copy Paper Box,Office,7,$38.50
+SO-10616,2026-01-31,South,Noah Bennett,Bookshelf,Furniture,3,159.0
+SO-10683,2026-02-01,East,Mason Wright,27-inch Monitor,Tech,3,329.0
+SO-10732,2026-02-01,East,Olivia Chen,Notebook 5-Pack,Office,8,12.9
+SO-10746,2026-02-01,West,Ava Patel,27-inch Monitor,Tech,5,329.0
+SO-10758,2026-02-01,South,Sofia Ramos,Standing Desk,Furniture,4,494.1
+SO-10762,2026-02-01,North,Emma Clarke,USB-C Dock,Tech,1,141.55
+SO-10800,2026-02-01,South,Noah Bennett,Wireless Mouse,Tech,8,26.91
+SO-10702,2026-02-02,West,Ethan Brooks,USB-C Dock,Tech,8,134.1
+SO-10711,2026-02-02,North,Liam Turner,Notebook 5-Pack,Office,32,11.61
+SO-10747,2026-02-02,East,Mason Wright,Copy Paper Box,Office,18,38.5
+SO-10754,2026-02-02,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-10678,2026-02-03,South,Noah Bennett,Printer Toner,Office,8,68.4
+SO-10724,02/03/2026,North,Emma Clarke,Copy Paper Box,Office,2,38.5
+SO-10739,2026-02-03,East,Olivia Chen,27-inch Monitor,Tech,3,296.1
+SO-10765,2026-02-03,West,Ava Patel,Filing Cabinet,Furniture,2,199.0
+SO-10795,2026-02-03,North,Liam Turner,Ergonomic Chair,Furniture,3,260.1
+SO-10801,2026-02-03,North,Emma Clarke,Wireless Mouse,Tech,16,29.9
+SO-10645,2026-02-04,East,Mason Wright,Wireless Mouse,Tech,17,29.9
+SO-10655,2026-02-04,West,Ethan Brooks,27-inch Monitor,Tech,1,296.1
+SO-10663,2026-02-04,West,Ava Patel,Noise-Cancelling Headset,Tech,1,189.0
+SO-10667,2026-02-04,West,Ava Patel,Filing Cabinet,Furniture,3,199.0
+SO-10668,02/04/2026,East,Mason Wright,Notebook 5-Pack,Office,38,12.9
+SO-10673,2026-02-04,West,Ethan Brooks,Ergonomic Chair,Furniture,6,260.1
+SO-10679,2026-02-04,South,Noah Bennett,Notebook 5-Pack,Office,27,12.9
+SO-10687,2026-02-04,South,Noah Bennett,Copy Paper Box,Office,2,38.5
+SO-10688,2026-02-04,West,Ethan Brooks,Printer Toner,Office,8,$64.80
+SO-10716,2026-02-04,West,Ethan Brooks,Notebook 5-Pack,Office,29,12.9
+SO-10774,2026-02-04,East,Mason Wright,Wireless Mouse,Tech,5,$26.91
+SO-10782,2026-02-04,East,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-10674,2026-02-05,East,Olivia Chen,Standing Desk,Furniture,1,521.55
+SO-10694,2026-02-05,West,Ethan Brooks,Standing Desk,Furniture,3,549.0
+SO-10749,2026-02-05,West,Ethan Brooks,Bookshelf,Furniture,1,159.0
+SO-10648,2026-02-06,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-10669,2026-02-06,South,Noah Bennett,Bookshelf,Furniture,3,151.05
+SO-10691,2026-02-06,West,Ava Patel,Notebook 5-Pack,Office,7,11.61
+SO-10708,2026-02-06,South,Sofia Ramos,Notebook 5-Pack,Office,33,12.9
+SO-10730,2026-02-06,South,Sofia Ramos,Copy Paper Box,Office,,36.57
+SO-10735,2026-02-06,East,Olivia Chen,Ergonomic Chair,Furniture,5,289.0
+SO-10741,2026-02-06, East ,Olivia Chen,Printer Toner,Office,6,68.4
+SO-10744,2026-02-06,East,Olivia Chen,Ergonomic Chair,Furniture,,289.0
+SO-10766,2026-02-06,East,Olivia Chen,Standing Desk,Furniture,4,$521.55
+SO-10790,02/06/2026,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-10649,2026-02-07,North,Emma Clarke,Copy Paper Box,Office,19,38.5
+SO-10656,2026-02-07,West,Ethan Brooks,Ergonomic Chair,Furniture,5,260.1
+SO-10700,2026-02-07,South,Noah Bennett,Laptop Pro 14,Tech,2,1299.0
+SO-10707,2026-02-07,East,Olivia Chen,Ergonomic Chair,Furniture,3,260.1
+SO-10734,02/07/2026,North,Liam Turner,Copy Paper Box,Office,29,38.5
+SO-10745,2026-02-07,West,Ethan Brooks,27-inch Monitor,Tech,6,$296.10
+SO-10759,2026-02-07,North,Emma Clarke,27-inch Monitor,Tech,2,329.0
+SO-10769,2026-02-07,South,Noah Bennett,27-inch Monitor,Tech,2,329.0
+SO-10714,2026-02-08,East,Olivia Chen,Wireless Mouse,Tech,11,29.9
+SO-10717,2026-02-08,North,Emma Clarke,Filing Cabinet,Furniture,3,179.1
+SO-10752,2026-02-08,West,Ava Patel,Laptop Pro 14,Tech,3,"$1,234.05"
+SO-10773,02/08/2026,West,Ethan Brooks,Copy Paper Box,Office,26,$36.57
+SO-10654,2026-02-09,South,Sofia Ramos,27-inch Monitor,Tech,4,296.1
+SO-10661,2026-02-09,North,Liam Turner,USB-C Dock,Tech,1,149.0
+SO-10666,2026-02-09,North,Liam Turner,Wireless Mouse,Tech,16,28.4
+SO-10671,2026-02-09,West,Ethan Brooks,Standing Desk,Furniture,1,549.0
+SO-10693,2026-02-09,West,Ethan Brooks,Notebook 5-Pack,Office,22,12.9
+SO-10737,2026-02-09,East,Olivia Chen,27-inch Monitor,Tech,2,329.0
+SO-10742,2026-02-09,North,Liam Turner,USB-C Dock,Tech,3,141.55
+SO-10778,2026-02-09,North,Liam Turner,Filing Cabinet,Furniture,3,$199.00
+SO-10785,2026-02-09,West,Ava Patel,Standing Desk,Furniture,3,549.0
+SO-10802,2026-02-09,South,Sofia Ramos,USB-C Dock,Tech,4,134.1
+SO-10808,2026-02-09,North,Liam Turner,Copy Paper Box,Office,8,34.65
+SO-10646,2026-02-10,East,Mason Wright,USB-C Dock,Tech,8,149.0
+SO-10657,2026-02-10,West,Ava Patel,Wireless Mouse,Tech,2,28.4
+SO-10729,2026-02-10,West,Ethan Brooks,Noise-Cancelling Headset,Tech,4,189.0
+SO-10731,2026-02-10,East,Olivia Chen,Printer Toner,Office,5,64.8
+SO-10775,2026-02-10,North,Liam Turner,Copy Paper Box,Office,9,38.5
+SO-10788,2026-02-10,West,Ava Patel,Notebook 5-Pack,Office,3,11.61
+SO-10658,2026-02-11,East,Olivia Chen,Notebook 5-Pack,Office,1,12.25
+SO-10664,2026-02-11,West,Ethan Brooks,Copy Paper Box,Office,29,38.5
+SO-10676,2026-02-11,NORTH,Liam Turner,Ergonomic Chair,Furniture,1,289.0
+SO-10681,2026-02-11,East,Mason Wright,Copy Paper Box,Office,27,36.57
+SO-10682,2026-02-11,North,Liam Turner,USB-C Dock,Tech,6,141.55
+SO-10710,02/11/2026,North,Liam Turner,Printer Toner,Office,3,72.0
+SO-10720,2026-02-11,South,Sofia Ramos,Noise-Cancelling Headset,Tech,1,189.0
+SO-10665,2026-02-12,South,Noah Bennett,Filing Cabinet,Furniture,1,199.0
+SO-10728,02/12/2026,East,Olivia Chen,Copy Paper Box,Office,10,38.5
+SO-10738,2026-02-12,East,Olivia Chen,Ergonomic Chair,Furniture,6,289.0
+SO-10748,2026-02-12,West,Ethan Brooks,Ergonomic Chair,Furniture,2,289.0
+SO-10756,2026-02-12,East,Olivia Chen,USB-C Dock,Tech,5,141.55
+SO-10780,02/12/2026,East,Mason Wright,Ergonomic Chair,Furniture,3,289.0
+SO-10793,2026-02-12,WEST,Ethan Brooks,Notebook 5-Pack,Office,15,12.9
+SO-10804,2026-02-12,North,Emma Clarke,Printer Toner,Office,2,64.8
+SO-10650,2026-02-13,East,Mason Wright,27-inch Monitor,Tech,5,329.0
+SO-10652,02/13/2026,North,Emma Clarke,27-inch Monitor,Tech,5,312.55
+SO-10677,2026-02-13,East,Olivia Chen,Ergonomic Chair,Furniture,1,274.55
+SO-10718,2026-02-13,West,Ethan Brooks,Wireless Mouse,Tech,18,$29.90
+SO-10757,2026-02-13,South,Noah Bennett,Notebook 5-Pack,Office,23,11.61
+SO-10786,2026-02-13,North,Liam Turner,Laptop Pro 14,Tech,1,1234.05
+SO-10791,02/13/2026,East,Olivia Chen,Wireless Mouse,Tech,17,28.4
+SO-10810,2026-02-13,West,Ava Patel,Laptop Pro 14,Tech,4,1299.0
+SO-10647,2026-02-14,East,Olivia Chen,Bookshelf,Furniture,3,159.0
+SO-10726,2026-02-14,South,Noah Bennett,Standing Desk,Furniture,1,521.55
+SO-10777,2026-02-14,North,Liam Turner,Copy Paper Box,Office,4,$38.50
+SO-10743,2026-02-15,East,Mason Wright,Wireless Mouse,Tech,12,28.4
+SO-10787,2026-02-15,West,Ava Patel,Printer Toner,Office,4,68.4
+SO-10670,2026-02-16,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-10689,2026-02-16,East,Olivia Chen,Notebook 5-Pack,Office,34,12.9
+SO-10798,2026-02-16,East,Olivia Chen,Notebook 5-Pack,Office,17,12.9
+SO-10692,02/17/2026,South,Noah Bennett,Bookshelf,Furniture,4,159.0
+SO-10699,2026-02-17,West,Ava Patel,Wireless Mouse,Tech,1,29.9
+SO-10715,2026-02-17,South,Noah Bennett,Noise-Cancelling Headset,Tech,5,170.1
+SO-10753,02/17/2026, South ,Noah Bennett,Laptop Pro 14,Tech,4,1299.0
+SO-10764,2026-02-17,North,Liam Turner,Noise-Cancelling Headset,Tech,5,189.0
+SO-10772,2026-02-17,West,Ethan Brooks,Copy Paper Box,Office,12,36.57
+SO-10684,2026-02-18,West,Ethan Brooks,Notebook 5-Pack,Office,7,12.9
+SO-10697,2026-02-18,East,Mason Wright,Notebook 5-Pack,Office,8,11.61
+SO-10705,2026-02-18,South,Sofia Ramos,Notebook 5-Pack,Office,1,12.9
+SO-10709,2026-02-18,North,Liam Turner,Laptop Pro 14,Tech,2,1299.0
+SO-10721,02/18/2026,North,Emma Clarke,Notebook 5-Pack,Office,5,11.61
+SO-10733,02/18/2026,North,Emma Clarke,Bookshelf,Furniture,3,151.05
+SO-10771,2026-02-18,North,Emma Clarke,Copy Paper Box,Office,29,34.65
+SO-10792,2026-02-18, North ,Liam Turner,Copy Paper Box,Office,24,38.5
+SO-10796,2026-02-18,West,Ethan Brooks,Printer Toner,Office,8,72.0
+SO-10698,2026-02-19,east,Mason Wright,Bookshelf,Furniture,3,143.1
+SO-10725,2026-02-19,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-10751,2026-02-19,North,Emma Clarke,USB-C Dock,Tech,8,134.1
+SO-10776,2026-02-19,North,Emma Clarke,Copy Paper Box,Office,17,38.5
+SO-10794,2026-02-19,East,Olivia Chen,USB-C Dock,Tech,5,141.55
+SO-10767,2026-02-20,East,Mason Wright,Printer Toner,Office,3,72.0
+SO-10768,2026-02-20,East,Olivia Chen,Wireless Mouse,Tech,8,28.4
+SO-10770,2026-02-20,East,Olivia Chen,USB-C Dock,Tech,2,134.1
+SO-10789,2026-02-20,West,Ava Patel,Ergonomic Chair,Furniture,6,289.0
+SO-10805,2026-02-20,North,Emma Clarke,27-inch Monitor,Tech,5,312.55
+SO-10806,2026-02-20,West,Ethan Brooks,Printer Toner,Office,8,72.0
+SO-10644,02/21/2026,West,Ava Patel,USB-C Dock,Tech,4,149.0
+SO-10723,2026-02-21,North,Emma Clarke,Printer Toner,Office,3,68.4
+SO-10727,2026-02-21,South,Sofia Ramos,27-inch Monitor,Tech,6,329.0
+SO-10763,2026-02-21,North,Emma Clarke,Bookshelf,Furniture,2,$159.00
+SO-10651,2026-02-22,East,Olivia Chen,Bookshelf,Furniture,1,159.0
+SO-10696,2026-02-22,North,Emma Clarke,Copy Paper Box,Office,23,38.5
+SO-10736,2026-02-22,West,Ava Patel,USB-C Dock,Tech,8,149.0
+SO-10760,2026-02-22,North,Emma Clarke,Bookshelf,Furniture,4,159.0
+SO-10761,2026-02-22,West,Ethan Brooks,Copy Paper Box,Office,16,36.57
+SO-10799,2026-02-22,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-10653,2026-02-23,North,Emma Clarke,Copy Paper Box,Office,10,38.5
+SO-10695,2026-02-23,West,Ava Patel,Ergonomic Chair,Furniture,2,289.0
+SO-10704,2026-02-23,South,Sofia Ramos,Ergonomic Chair,Furniture,4,$289.00
+SO-10740,2026-02-23,South,Sofia Ramos,Wireless Mouse,Tech,19,29.9
+SO-10783,2026-02-23,West,Ava Patel,Printer Toner,Office,3,64.8
+SO-10660,2026-02-24,West,Ava Patel,Copy Paper Box,Office,29,38.5
+SO-10672,2026-02-24,East,Olivia Chen,Copy Paper Box,Office,22,34.65
+SO-10781,2026-02-24,West,Ava Patel,Bookshelf,Furniture,1,151.05
+SO-10779,2026-02-25,South,Sofia Ramos,Noise-Cancelling Headset,Tech,4,179.55
+SO-10797,2026-02-25,West,Ethan Brooks,Bookshelf,Furniture,4,159.0
+SO-10680,2026-02-26,North,Liam Turner,Ergonomic Chair,Furniture,5,289.0
+SO-10712,2026-02-26,West,Ethan Brooks,Ergonomic Chair,Furniture,5,289.0
+SO-10713,2026-02-26,North,Emma Clarke,USB-C Dock,Tech,7,149.0
+SO-10809,2026-02-26,East,Mason Wright,27-inch Monitor,Tech,4,296.1
+SO-10659,2026-02-27,North,Liam Turner,27-inch Monitor,Tech,2,$329.00
+SO-10685,2026-02-27,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-10690,2026-02-27,East,Mason Wright,Ergonomic Chair,Furniture,5,274.55
+SO-10701,2026-02-27,West,Ava Patel,Copy Paper Box,Office,23,$38.50
+SO-10706,2026-02-27,east,Olivia Chen,USB-C Dock,Tech,6,141.55
+SO-10719,2026-02-27,East,Mason Wright,Laptop Pro 14,Tech,4,1169.1
+,,,,,,,
+SO-10755,2026-02-27,East,Mason Wright,Ergonomic Chair,Furniture,5,289.0
+SO-10784,2026-02-27,South,Sofia Ramos,Filing Cabinet,Furniture,2,199.0
+SO-10662,2026-02-28,North,Liam Turner,USB-C Dock,Tech,6,149.0
+SO-10675,02/28/2026,East,Mason Wright,27-inch Monitor,Tech,2,312.55
+SO-10686,2026-02-28,north,Liam Turner,USB-C Dock,Tech,4,149.0
+SO-10703,2026-02-28,North,Emma Clarke,Printer Toner,Office,9,64.8
+SO-10722,2026-02-28, North ,Liam Turner,Filing Cabinet,Furniture,1,199.0
+SO-10750,2026-02-28,South,Sofia Ramos,Ergonomic Chair,Furniture,5,289.0
+SO-10803,2026-02-28,South,Noah Bennett,USB-C Dock,Tech,4,149.0
+SO-10807,2026-02-28,West,Ethan Brooks,Printer Toner,Office,8,$64.80
+SO-10840,2026-03-01,South,Sofia Ramos,27-inch Monitor,Tech,3,329.0
+SO-10848,2026-03-01,East,Olivia Chen,Ergonomic Chair,Furniture,1,289.0
+SO-10878,2026-03-01,south,Sofia Ramos,Bookshelf,Furniture,4,159.0
+SO-10912,2026-03-01,West,Ethan Brooks,Notebook 5-Pack,Office,8,12.9
+SO-10972,2026-03-01,North,Emma Clarke,Noise-Cancelling Headset,Tech,1,189.0
+SO-10974,2026-03-01,north,Emma Clarke,Wireless Mouse,Tech,10,29.9
+SO-10980,2026-03-01,East,Olivia Chen,Wireless Mouse,Tech,19,26.91
+SO-10820,2026-03-02,South,Noah Bennett,Bookshelf,Furniture,1,143.1
+SO-10960,03/02/2026,North,Emma Clarke,Laptop Pro 14,Tech,1,1299.0
+SO-10850,2026-03-03,East,Olivia Chen,Copy Paper Box,Office,1,38.5
+SO-10852,2026-03-03,South,Sofia Ramos,Printer Toner,Office,1,72.0
+SO-10863,2026-03-03,East,Mason Wright,Noise-Cancelling Headset,Tech,6,179.55
+SO-10894,2026-03-03,North,Liam Turner,Noise-Cancelling Headset,Tech,5,189.0
+SO-10903,2026-03-03,West,Ethan Brooks,27-inch Monitor,Tech,5,329.0
+SO-10904,2026-03-03,East,Mason Wright,Ergonomic Chair,Furniture,5,$289.00
+SO-10925,2026-03-03,North,Liam Turner,Notebook 5-Pack,Office,34,12.9
+SO-10949,2026-03-03,west,Ethan Brooks,Notebook 5-Pack,Office,21,12.25
+SO-10951,2026-03-03,north,Liam Turner,Standing Desk,Furniture,2,549.0
+SO-10958,2026-03-03,East,Olivia Chen,Standing Desk,Furniture,2,521.55
+SO-10964,2026-03-03,East,Mason Wright,Wireless Mouse,Tech,11,29.9
+SO-10968,03/03/2026,East,Mason Wright,Notebook 5-Pack,Office,39,11.61
+SO-10968,03/03/2026,East,Mason Wright,Notebook 5-Pack,Office,39,11.61
+SO-10981,2026-03-03,East,Olivia Chen,Printer Toner,Office,5,72.0
+SO-10832,2026-03-04,EAST,Mason Wright,Ergonomic Chair,Furniture,5,289.0
+SO-10882,2026-03-04,North,Emma Clarke,USB-C Dock,Tech,4,134.1
+SO-10947,2026-03-04,West,Ava Patel,Standing Desk,Furniture,2,494.1
+SO-10990,2026-03-04,East,Olivia Chen,Standing Desk,Furniture,3,494.1
+SO-10834,2026-03-05,East,Olivia Chen,Standing Desk,Furniture,1,549.0
+SO-10933,2026-03-05,South,Sofia Ramos,Notebook 5-Pack,Office,7,12.9
+SO-10987,2026-03-05,East,Olivia Chen,Printer Toner,Office,6,64.8
+SO-10996,2026-03-05,East,Mason Wright,Ergonomic Chair,Furniture,5,289.0
+SO-10829,2026-03-06,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-10885,2026-03-06,South,Sofia Ramos,Copy Paper Box,Office,18,38.5
+SO-10909,2026-03-06,East,Mason Wright,Laptop Pro 14,Tech,4,1299.0
+SO-10931,2026-03-06,North,Liam Turner,Ergonomic Chair,Furniture,2,$289.00
+SO-10937,2026-03-06,West,Ava Patel,Ergonomic Chair,Furniture,2,289.0
+SO-10948,2026-03-06,SOUTH,Noah Bennett,Wireless Mouse,Tech,19,29.9
+SO-10999,2026-03-06,SOUTH,Noah Bennett,27-inch Monitor,Tech,5,312.55
+SO-10823,2026-03-07,North,Emma Clarke,27-inch Monitor,Tech,3,296.1
+SO-10830,2026-03-07,East,Olivia Chen,Copy Paper Box,Office,13,38.5
+SO-10873,2026-03-07,East,Mason Wright,Ergonomic Chair,Furniture,5,274.55
+SO-10876,2026-03-07,West,Ava Patel,USB-C Dock,Tech,1,141.55
+SO-10908,2026-03-07,East,Mason Wright,Wireless Mouse,Tech,12,29.9
+SO-10910,2026-03-07,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-10913,2026-03-07,South,Sofia Ramos,Standing Desk,Furniture,2,549.0
+SO-10813,2026-03-08,West,Ethan Brooks,USB-C Dock,Tech,8,149.0
+SO-10872,2026-03-08,East,Mason Wright,Wireless Mouse,Tech,3,26.91
+SO-10891,03/08/2026,West,Ava Patel,Noise-Cancelling Headset,Tech,3,189.0
+SO-10902,2026-03-08,East,Mason Wright,Bookshelf,Furniture,3,159.0
+SO-10918,2026-03-08,West,Ethan Brooks,Laptop Pro 14,Tech,1,1234.05
+SO-10957,2026-03-08,West,Ava Patel,Filing Cabinet,Furniture,3,189.05
+SO-10893,2026-03-09,North,Liam Turner,Wireless Mouse,Tech,19,29.9
+SO-10916,2026-03-09,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,170.1
+SO-10833,2026-03-10,North,Emma Clarke,Copy Paper Box,Office,8,36.57
+SO-10849,2026-03-10,West,Ethan Brooks,Laptop Pro 14,Tech,2,1299.0
+SO-10890,2026-03-10,WEST,Ava Patel,Laptop Pro 14,Tech,2,1299.0
+SO-10954,2026-03-10,East,Mason Wright,Laptop Pro 14,Tech,3,1299.0
+SO-10988,2026-03-10,West,Ethan Brooks,Copy Paper Box,Office,5,34.65
+SO-10811,2026-03-11,West,Ava Patel,Copy Paper Box,Office,1,36.57
+SO-10812,2026-03-11,East,Mason Wright,Wireless Mouse,Tech,20,29.9
+SO-10827,2026-03-11,NORTH,Liam Turner,Wireless Mouse,Tech,9,29.9
+SO-10860,2026-03-11,North,Emma Clarke,27-inch Monitor,Tech,2,312.55
+SO-10927,2026-03-11,North,Liam Turner,Notebook 5-Pack,Office,35,11.61
+SO-10961,2026-03-11,East,Olivia Chen,Printer Toner,Office,1,72.0
+SO-10993,2026-03-11,East,Olivia Chen,Noise-Cancelling Headset,Tech,2,189.0
+SO-10866,2026-03-12,East,Olivia Chen,Laptop Pro 14,Tech,3,1234.05
+SO-10889,2026-03-12,South,Noah Bennett,Ergonomic Chair,Furniture,4,289.0
+SO-10922,2026-03-12,North,Liam Turner,Wireless Mouse,Tech,8,29.9
+SO-10935,2026-03-12,EAST,Olivia Chen,USB-C Dock,Tech,8,149.0
+SO-10897,03/13/2026,East,Olivia Chen,Laptop Pro 14,Tech,1,1169.1
+SO-10941,2026-03-13,West,Ava Patel,Printer Toner,Office,10,68.4
+SO-10942,2026-03-13,East,Olivia Chen,Wireless Mouse,Tech,17,29.9
+SO-10817,2026-03-14,East,Mason Wright,Printer Toner,Office,4,64.8
+SO-10843,2026-03-14,East,Mason Wright,USB-C Dock,Tech,4,134.1
+SO-10846,2026-03-14,East,Olivia Chen,Ergonomic Chair,Furniture,1,289.0
+SO-10898,2026-03-14,West,Ava Patel,Wireless Mouse,Tech,8,28.4
+SO-10926,2026-03-14, West ,Ava Patel,Filing Cabinet,Furniture,3,199.0
+SO-10969,2026-03-14,West,Ethan Brooks,Notebook 5-Pack,Office,17,12.9
+SO-10839,03/15/2026,SOUTH,Noah Bennett,USB-C Dock,Tech,6,149.0
+SO-10814,03/16/2026,West,Ethan Brooks,Wireless Mouse,Tech,7,29.9
+SO-10818,2026-03-16,North,Emma Clarke,Notebook 5-Pack,Office,12,12.9
+SO-10821,03/16/2026, East ,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-10853,2026-03-16,North,Emma Clarke,Wireless Mouse,Tech,7,26.91
+SO-10905,03/16/2026,South,Sofia Ramos,Copy Paper Box,Office,16,38.5
+SO-10914,2026-03-16,East,Olivia Chen,Copy Paper Box,Office,23,34.65
+SO-10921,2026-03-16,North,Liam Turner,Ergonomic Chair,Furniture,6,289.0
+SO-10956,2026-03-16,East,Mason Wright,Noise-Cancelling Headset,Tech,5,179.55
+SO-10971,2026-03-16,East,Olivia Chen,Ergonomic Chair,Furniture,5,$274.55
+SO-10984,2026-03-16,East,Olivia Chen,Noise-Cancelling Headset,Tech,3,189.0
+SO-10838,2026-03-17,East,Mason Wright,Printer Toner,Office,6,68.4
+SO-10845,2026-03-17,North,Liam Turner,Wireless Mouse,Tech,10,29.9
+SO-10858,2026-03-17,East,Olivia Chen,Laptop Pro 14,Tech,3,1169.1
+SO-10877,2026-03-17,East,Mason Wright,Printer Toner,Office,1,68.4
+SO-10944,2026-03-17,West,Ava Patel,Laptop Pro 14,Tech,2,1234.05
+SO-10975,2026-03-17,North,Liam Turner,27-inch Monitor,Tech,1,329.0
+SO-10985,2026-03-17,SOUTH,Noah Bennett,Notebook 5-Pack,Office,12,$12.90
+SO-10819,2026-03-18,South,Noah Bennett,27-inch Monitor,Tech,4,296.1
+SO-10822,2026-03-18,East,Mason Wright,Noise-Cancelling Headset,Tech,3,189.0
+SO-10831,03/18/2026,North,Emma Clarke,Laptop Pro 14,Tech,1,1234.05
+SO-10836,2026-03-18,West,Ethan Brooks,Ergonomic Chair,Furniture,2,289.0
+SO-10867,2026-03-18,West,Ethan Brooks,Ergonomic Chair,Furniture,5,274.55
+SO-10868,2026-03-18,East,Mason Wright,USB-C Dock,Tech,6,149.0
+SO-10870,2026-03-18,East,Mason Wright,Standing Desk,Furniture,4,549.0
+SO-10886,03/18/2026,South,Noah Bennett,Wireless Mouse,Tech,12,29.9
+SO-10919,2026-03-18,West,Ava Patel,Ergonomic Chair,Furniture,2,260.1
+SO-10928,2026-03-18,North,Emma Clarke,Copy Paper Box,Office,28,34.65
+SO-10837,2026-03-19,West,Ethan Brooks,Copy Paper Box,Office,21,38.5
+SO-10900,2026-03-19,South,Sofia Ramos,Laptop Pro 14,Tech,3,1169.1
+SO-10842,2026-03-20,North,Emma Clarke,Standing Desk,Furniture,1,549.0
+SO-10847,2026-03-20,North,Liam Turner,Noise-Cancelling Headset,Tech,3,179.55
+SO-10888,03/20/2026,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-10906,03/20/2026,South,Sofia Ramos,Bookshelf,Furniture,2,143.1
+SO-10934,2026-03-20,NORTH,Liam Turner,Laptop Pro 14,Tech,2,1169.1
+SO-10967,2026-03-20,East,Olivia Chen,Ergonomic Chair,Furniture,1,289.0
+SO-10825,2026-03-21,North,Emma Clarke,Filing Cabinet,Furniture,1,189.05
+SO-10826,2026-03-21,East,Mason Wright,Notebook 5-Pack,Office,5,12.25
+SO-10874,2026-03-21,north,Liam Turner,Noise-Cancelling Headset,Tech,1,179.55
+SO-10899,2026-03-21,East,Mason Wright,Printer Toner,Office,1,72.0
+SO-10930,2026-03-21,West,Ava Patel,Notebook 5-Pack,Office,21,12.9
+SO-10982,2026-03-21,West,Ava Patel,Wireless Mouse,Tech,19,28.4
+SO-10982,2026-03-21,West,Ava Patel,Wireless Mouse,Tech,19,28.4
+SO-10816,2026-03-22,South,Sofia Ramos,Bookshelf,Furniture,1,143.1
+SO-10883,2026-03-22,East,Olivia Chen,USB-C Dock,Tech,3,134.1
+SO-10901,2026-03-22,East,Mason Wright,USB-C Dock,Tech,8,149.0
+SO-10907,2026-03-22,North,Emma Clarke,Copy Paper Box,Office,4,38.5
+SO-10917,2026-03-22,East,Mason Wright,Laptop Pro 14,Tech,3,1234.05
+SO-10962,03/22/2026,North,Liam Turner,Notebook 5-Pack,Office,40,12.9
+SO-10989,2026-03-22, East ,Olivia Chen,27-inch Monitor,Tech,2,296.1
+SO-10994,2026-03-22,North,Emma Clarke,Ergonomic Chair,Furniture,3,274.55
+SO-10862,2026-03-23,West,Ava Patel,Bookshelf,Furniture,3,151.05
+SO-10864,2026-03-23,North,Emma Clarke,Wireless Mouse,Tech,5,29.9
+SO-10936,2026-03-23,North,Liam Turner,Printer Toner,Office,3,68.4
+SO-10946,2026-03-23,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,$189.00
+SO-10950,2026-03-23,East,Olivia Chen,Notebook 5-Pack,Office,6,12.9
+SO-10966,2026-03-23,North,Liam Turner,Standing Desk,Furniture,3,549.0
+SO-10856,2026-03-24,East,Olivia Chen,Laptop Pro 14,Tech,2,1234.05
+SO-10871,2026-03-24,NORTH,Emma Clarke,Filing Cabinet,Furniture,1,189.05
+SO-10881,2026-03-24,West,Ava Patel,Noise-Cancelling Headset,Tech,3,189.0
+SO-10911,2026-03-24,East,Olivia Chen,Printer Toner,Office,4,72.0
+SO-10976,2026-03-24,North,Emma Clarke,Wireless Mouse,Tech,6,28.4
+SO-10824,2026-03-25,South,Noah Bennett,Copy Paper Box,Office,29,36.57
+SO-10828,2026-03-25,East,Mason Wright,Wireless Mouse,Tech,19,28.4
+SO-10855,2026-03-25,West,Ethan Brooks,Copy Paper Box,Office,8,36.57
+SO-10884,2026-03-25,East,Mason Wright,Ergonomic Chair,Furniture,6,289.0
+SO-10939,2026-03-25,North,Emma Clarke,Copy Paper Box,Office,3,38.5
+SO-10945,2026-03-25,North,Liam Turner,Wireless Mouse,Tech,15,29.9
+SO-10965,2026-03-25,South,Noah Bennett,Wireless Mouse,Tech,18,29.9
+SO-10992,2026-03-25,South,Noah Bennett,Laptop Pro 14,Tech,1,1169.1
+SO-10851,2026-03-26,South,Noah Bennett,Wireless Mouse,Tech,12,29.9
+SO-10861,2026-03-26,West,Ava Patel,Bookshelf,Furniture,1,151.05
+SO-10865,2026-03-26,South,Noah Bennett,Wireless Mouse,Tech,15,26.91
+SO-10879,03/26/2026,West,Ava Patel,Printer Toner,Office,6,68.4
+SO-10895,2026-03-26,West,Ethan Brooks,Copy Paper Box,Office,6,38.5
+SO-10923,2026-03-26, West ,Ava Patel,Notebook 5-Pack,Office,17,12.9
+SO-10963,2026-03-26,East,Olivia Chen,Copy Paper Box,Office,15,34.65
+SO-10973,2026-03-26,South,Noah Bennett,Printer Toner,Office,7,72.0
+SO-10844,2026-03-27,North,Liam Turner,Copy Paper Box,Office,8,$36.57
+SO-10854,2026-03-27,West,Ava Patel,Noise-Cancelling Headset,Tech,1,179.55
+SO-10875,2026-03-27, North ,Emma Clarke,Copy Paper Box,Office,6,38.5
+SO-10880,2026-03-27,East,Mason Wright,Notebook 5-Pack,Office,4,12.25
+SO-10896,2026-03-27,South,Sofia Ramos,Notebook 5-Pack,Office,39,11.61
+SO-10959,2026-03-27,West,Ava Patel,Noise-Cancelling Headset,Tech,1,170.1
+SO-10979,2026-03-27,West,Ethan Brooks,Wireless Mouse,Tech,19,29.9
+SO-10815,2026-03-28,South,Noah Bennett,Copy Paper Box,Office,9,$38.50
+SO-10835,2026-03-28,North,Liam Turner,Wireless Mouse,Tech,15,29.9
+SO-10887,2026-03-28,West,Ethan Brooks,Ergonomic Chair,Furniture,4,289.0
+SO-10940,2026-03-28,NORTH,Liam Turner,Notebook 5-Pack,Office,21,12.25
+SO-10953,2026-03-28,West,Ava Patel,Printer Toner,Office,3,72.0
+SO-10983,2026-03-28,East,Mason Wright,USB-C Dock,Tech,6,149.0
+SO-10991,2026-03-28, West ,Ava Patel,Copy Paper Box,Office,11,34.65
+SO-10859,2026-03-29,South,Sofia Ramos,Noise-Cancelling Headset,Tech,6,189.0
+SO-10915,2026-03-29,East,Olivia Chen,Laptop Pro 14,Tech,3,1169.1
+SO-10943,2026-03-29,North,Emma Clarke,Standing Desk,Furniture,4,549.0
+SO-10978,2026-03-29,East,Mason Wright,Standing Desk,Furniture,4,521.55
+SO-10997,2026-03-29,North,Liam Turner,27-inch Monitor,Tech,5,296.1
+SO-10998,2026-03-29,South,Sofia Ramos,27-inch Monitor,Tech,1,312.55
+SO-10857,2026-03-30,South,Noah Bennett,Copy Paper Box,Office,6,38.5
+SO-10869,2026-03-30,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,170.1
+SO-10892,2026-03-30,North,Emma Clarke,Printer Toner,Office,2,72.0
+SO-10920,2026-03-30, North ,Emma Clarke,Notebook 5-Pack,Office,3,11.61
+SO-10929,2026-03-30,North,Emma Clarke,Copy Paper Box,Office,14,34.65
+SO-10938,2026-03-30,North,Liam Turner,Copy Paper Box,Office,14,38.5
+SO-10952,2026-03-30,South,Noah Bennett,Wireless Mouse,Tech,19,29.9
+SO-10970,2026-03-30,East,Olivia Chen,Notebook 5-Pack,Office,40,12.9
+SO-10977,2026-03-30,North,Liam Turner,Printer Toner,Office,1,68.4
+SO-10986,2026-03-30,North,Emma Clarke,Copy Paper Box,Office,15,38.5
+SO-10841,2026-03-31,North,Liam Turner,Ergonomic Chair,Furniture,3,274.55
+SO-10924,03/31/2026,West,Ethan Brooks,Notebook 5-Pack,Office,15,12.9
+SO-10932,2026-03-31,East,Mason Wright,Copy Paper Box,Office,10,36.57
+SO-10955,03/31/2026,East,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-10995,2026-03-31,North,Emma Clarke,Noise-Cancelling Headset,Tech,2,189.0
+SO-11020,2026-04-01,South,Noah Bennett,Ergonomic Chair,Furniture,1,289.0
+SO-11048,2026-04-01,South,Noah Bennett,27-inch Monitor,Tech,4,312.55
+SO-11115,2026-04-01,North,Liam Turner,Filing Cabinet,Furniture,3,199.0
+SO-11162,2026-04-01, North ,Emma Clarke,Notebook 5-Pack,Office,18,12.9
+SO-11171,2026-04-01,East,Olivia Chen,Wireless Mouse,Tech,17,29.9
+SO-11030,04/02/2026,West,Ethan Brooks,Bookshelf,Furniture,3,159.0
+SO-11045,04/02/2026,North,Liam Turner,Copy Paper Box,Office,25,38.5
+SO-11080,2026-04-02,East,Olivia Chen,Standing Desk,Furniture,2,494.1
+SO-11098,2026-04-02,North,Emma Clarke,Filing Cabinet,Furniture,3,189.05
+SO-11121,2026-04-02,North,Liam Turner,Wireless Mouse,Tech,12,26.91
+SO-11150,04/02/2026,South,Noah Bennett,Bookshelf,Furniture,4,143.1
+SO-11032,2026-04-03, East ,Olivia Chen,Ergonomic Chair,Furniture,4,260.1
+SO-11057,2026-04-03,East,Olivia Chen,Copy Paper Box,Office,13,38.5
+SO-11065,2026-04-03,East,Mason Wright,27-inch Monitor,Tech,4,329.0
+SO-11083,04/03/2026,South,Sofia Ramos,Printer Toner,Office,7,72.0
+SO-11129,2026-04-03,North,Emma Clarke,Notebook 5-Pack,Office,11,12.9
+SO-11156,2026-04-03,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-11178,2026-04-03,North,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-11001,2026-04-04,East,Mason Wright,27-inch Monitor,Tech,3,312.55
+SO-11012,2026-04-04,East,Mason Wright,Standing Desk,Furniture,2,494.1
+SO-11013,2026-04-04,South,Noah Bennett,Wireless Mouse,Tech,11,26.91
+SO-11054,2026-04-04,North,Emma Clarke,27-inch Monitor,Tech,6,312.55
+SO-11070,04/04/2026,South,Noah Bennett,Copy Paper Box,Office,11,36.57
+SO-11094,2026-04-04,East,Mason Wright,USB-C Dock,Tech,4,134.1
+SO-11161,2026-04-04,North,Liam Turner,Notebook 5-Pack,Office,27,12.25
+SO-11189,2026-04-04,East,Mason Wright,Wireless Mouse,Tech,4,29.9
+SO-11191,2026-04-04,East,Mason Wright,27-inch Monitor,Tech,3,312.55
+SO-11195,2026-04-04,South,Sofia Ramos,Copy Paper Box,Office,13,38.5
+SO-11024,2026-04-05,North,Emma Clarke,Notebook 5-Pack,Office,5,12.9
+SO-11031,2026-04-05,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-11043,2026-04-05,West,Ava Patel,Wireless Mouse,Tech,16,29.9
+SO-11043,2026-04-05,West,Ava Patel,Wireless Mouse,Tech,16,29.9
+SO-11086,2026-04-05,North,Liam Turner,Laptop Pro 14,Tech,2,1299.0
+SO-11130,2026-04-05,North,Emma Clarke,Copy Paper Box,Office,17,36.57
+SO-11136,04/05/2026,South,Noah Bennett,Notebook 5-Pack,Office,19,12.9
+SO-11028,2026-04-06,West,Ethan Brooks,Wireless Mouse,Tech,20,29.9
+SO-11062,2026-04-06,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-11089,2026-04-06,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-11104,2026-04-06,north,Liam Turner,Notebook 5-Pack,Office,24,12.25
+SO-11117,2026-04-06,South,Noah Bennett,27-inch Monitor,Tech,6,312.55
+SO-11135,2026-04-06,South,Noah Bennett,27-inch Monitor,Tech,2,329.0
+SO-11138,2026-04-06,West,Ava Patel,Printer Toner,Office,2,72.0
+SO-11176,2026-04-06,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-11014,2026-04-07,South,Sofia Ramos,Copy Paper Box,Office,29,38.5
+SO-11064,2026-04-07,North,Emma Clarke,Ergonomic Chair,Furniture,4,274.55
+SO-11114,2026-04-07,North,Emma Clarke,Copy Paper Box,Office,12,36.57
+SO-11128,2026-04-07,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-11148,2026-04-07,East,Olivia Chen,Copy Paper Box,Office,3,38.5
+SO-11155,2026-04-07,West,Ethan Brooks,Bookshelf,Furniture,4,159.0
+SO-11158,2026-04-07,south,Sofia Ramos,Bookshelf,Furniture,4,159.0
+SO-11185,2026-04-07,West,Ava Patel,Copy Paper Box,Office,10,34.65
+SO-11008,2026-04-08,East,Olivia Chen,Wireless Mouse,Tech,18,28.4
+SO-11044,2026-04-08,East,Mason Wright,Wireless Mouse,Tech,6,28.4
+SO-11047,04/08/2026,South,Noah Bennett,Notebook 5-Pack,Office,25,11.61
+SO-11075,2026-04-08,north,Liam Turner,USB-C Dock,Tech,7,134.1
+SO-11087,2026-04-08,East,Olivia Chen,Ergonomic Chair,Furniture,2,274.55
+SO-11101,2026-04-08,East,Olivia Chen,Wireless Mouse,Tech,11,29.9
+SO-11184,2026-04-08,South,Sofia Ramos,Printer Toner,Office,2,64.8
+SO-11192,2026-04-08,South,Noah Bennett,Copy Paper Box,Office,10,36.57
+SO-11039,2026-04-09,East,Olivia Chen,Printer Toner,Office,10,72.0
+SO-11055,2026-04-09,South,Sofia Ramos,USB-C Dock,Tech,1,149.0
+SO-11095,2026-04-09,South,Sofia Ramos,Filing Cabinet,Furniture,1,199.0
+SO-11105,04/09/2026,North,Emma Clarke,Copy Paper Box,Office,11,38.5
+SO-11106,2026-04-09,North,Emma Clarke,Copy Paper Box,Office,4,38.5
+SO-11125,2026-04-09,South,Sofia Ramos,Noise-Cancelling Headset,Tech,1,179.55
+SO-11170,2026-04-09,west,Ethan Brooks,Copy Paper Box,Office,4,38.5
+SO-11198,2026-04-09,North,Liam Turner,Wireless Mouse,Tech,13,28.4
+SO-11073,2026-04-10,East,Mason Wright,Notebook 5-Pack,Office,7,12.9
+SO-11097,2026-04-10,East,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-11132,2026-04-10,South,Sofia Ramos,Standing Desk,Furniture,1,549.0
+SO-11181,04/10/2026,North,Emma Clarke,Noise-Cancelling Headset,Tech,1,189.0
+SO-11007,2026-04-11,North,Emma Clarke,Printer Toner,Office,5,72.0
+SO-11009,2026-04-11,North,Emma Clarke,Standing Desk,Furniture,4,549.0
+SO-11053,2026-04-11,South,Sofia Ramos,Copy Paper Box,Office,22,38.5
+SO-11084,04/11/2026,South,Sofia Ramos,Printer Toner,Office,10,68.4
+SO-11172,2026-04-11,North,Emma Clarke,Copy Paper Box,Office,4,36.57
+SO-11005,2026-04-12,South,Noah Bennett,Laptop Pro 14,Tech,4,1299.0
+SO-11071,2026-04-12,East,Mason Wright,Wireless Mouse,Tech,3,29.9
+SO-11093,2026-04-12,South,Noah Bennett,Notebook 5-Pack,Office,1,12.9
+SO-11187,2026-04-12,North,Emma Clarke,Ergonomic Chair,Furniture,4,274.55
+SO-11046,2026-04-13,West,Ethan Brooks,Laptop Pro 14,Tech,3,1234.05
+SO-11061,2026-04-13,NORTH,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-11063,2026-04-13,South,Sofia Ramos,Notebook 5-Pack,Office,32,11.61
+SO-11077,2026-04-13,North,Emma Clarke,Laptop Pro 14,Tech,2,1299.0
+SO-11088,2026-04-13,North,Emma Clarke,Printer Toner,Office,1,64.8
+SO-11118,2026-04-13,South,Noah Bennett,Filing Cabinet,Furniture,3,199.0
+SO-11146,04/13/2026,east,Olivia Chen,27-inch Monitor,Tech,4,329.0
+SO-11151,2026-04-13,North,Liam Turner,Printer Toner,Office,1,72.0
+SO-11188,2026-04-13,East,Mason Wright,27-inch Monitor,Tech,2,329.0
+SO-11021,2026-04-14,West,Ethan Brooks,Printer Toner,Office,6,72.0
+SO-11035,2026-04-14,West,Ethan Brooks,Bookshelf,Furniture,3,159.0
+SO-11157,04/14/2026,North,Emma Clarke,Filing Cabinet,Furniture,3,199.0
+SO-11027,2026-04-15,East,Mason Wright,Wireless Mouse,Tech,18,29.9
+SO-11091,2026-04-15,north,Liam Turner,Filing Cabinet,Furniture,1,179.1
+SO-11113,2026-04-15,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-11139,2026-04-15,North,Liam Turner,Wireless Mouse,Tech,12,29.9
+SO-11002,2026-04-16,East,Olivia Chen,Copy Paper Box,Office,8,36.57
+SO-11034,2026-04-16,North,Liam Turner,Wireless Mouse,Tech,17,29.9
+SO-11038,2026-04-16,West,Ava Patel,Filing Cabinet,Furniture,1,199.0
+SO-11042,2026-04-16,West,Ava Patel,Noise-Cancelling Headset,Tech,5,189.0
+SO-11068,04/16/2026,North,Liam Turner,Copy Paper Box,Office,13,36.57
+SO-11076,2026-04-16,North,Liam Turner,Ergonomic Chair,Furniture,1,289.0
+SO-11096,2026-04-16,North,Emma Clarke,27-inch Monitor,Tech,2,312.55
+SO-11103,2026-04-16,West,Ava Patel,27-inch Monitor,Tech,4,296.1
+SO-11134,2026-04-16,East,Mason Wright,Copy Paper Box,Office,15,38.5
+SO-11199,2026-04-16,South,Noah Bennett,Copy Paper Box,Office,5,36.57
+SO-11200,2026-04-16,East,Mason Wright,27-inch Monitor,Tech,2,329.0
+SO-11120,04/17/2026,East,Mason Wright,Wireless Mouse,Tech,2,29.9
+SO-11126,2026-04-17,South,Sofia Ramos,Standing Desk,Furniture,4,494.1
+SO-11143,2026-04-17,WEST,Ethan Brooks,27-inch Monitor,Tech,6,296.1
+SO-11149,2026-04-17,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-11168,04/17/2026,North,Emma Clarke,Ergonomic Chair,Furniture,6,289.0
+SO-11010,2026-04-18,West,Ava Patel,Standing Desk,Furniture,2,549.0
+SO-11022,2026-04-18,East,Olivia Chen,Wireless Mouse,Tech,6,28.4
+SO-11069,2026-04-18,West,Ava Patel,Copy Paper Box,Office,1,38.5
+SO-11122,2026-04-18,North,Emma Clarke,Ergonomic Chair,Furniture,2,289.0
+SO-11141,2026-04-18,North,Liam Turner,Standing Desk,Furniture,1,549.0
+SO-11169,2026-04-18,North,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-11017,2026-04-19,North,Liam Turner,Printer Toner,Office,7,72.0
+SO-11018,2026-04-19,East,Olivia Chen,Notebook 5-Pack,Office,40,12.9
+SO-11037,2026-04-19, North ,Emma Clarke,Standing Desk,Furniture,3,549.0
+SO-11180,2026-04-19,North,Emma Clarke,27-inch Monitor,Tech,4,296.1
+SO-11182,2026-04-19,West,Ava Patel,Notebook 5-Pack,Office,12,12.9
+SO-11006,2026-04-20,West,Ava Patel,Noise-Cancelling Headset,Tech,5,189.0
+SO-11016,04/20/2026,North,Liam Turner,Ergonomic Chair,Furniture,2,274.55
+SO-11050,2026-04-20,West,Ethan Brooks,Filing Cabinet,Furniture,2,189.05
+SO-11092,2026-04-20,West,Ava Patel,Filing Cabinet,Furniture,3,199.0
+SO-11197,2026-04-20,South,Noah Bennett,USB-C Dock,Tech,2,149.0
+SO-11051,2026-04-21,North,Liam Turner,Printer Toner,Office,8,72.0
+SO-11072,2026-04-21,West,Ava Patel,Copy Paper Box,Office,6,38.5
+SO-11123,2026-04-21,West,Ethan Brooks,Noise-Cancelling Headset,Tech,6,$189.00
+SO-11133,2026-04-21,North,Liam Turner,Printer Toner,Office,7,64.8
+SO-11147,2026-04-21,South,Sofia Ramos,Wireless Mouse,Tech,19,26.91
+SO-11164,2026-04-21,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-11167,2026-04-21,North,Liam Turner,Noise-Cancelling Headset,Tech,1,179.55
+SO-11025,04/22/2026,East,Mason Wright,27-inch Monitor,Tech,2,312.55
+SO-11033,2026-04-22,East,Mason Wright,Copy Paper Box,Office,20,38.5
+SO-11041,2026-04-22,North,Liam Turner,Bookshelf,Furniture,3,159.0
+SO-11049,2026-04-22,south,Sofia Ramos,Wireless Mouse,Tech,4,26.91
+SO-11056,2026-04-22,North,Emma Clarke,27-inch Monitor,Tech,5,296.1
+SO-11059,2026-04-22,East,Olivia Chen,Noise-Cancelling Headset,Tech,6,179.55
+SO-11078,2026-04-22,West,Ava Patel,Copy Paper Box,Office,24,36.57
+SO-11131,2026-04-22,West,Ava Patel,Laptop Pro 14,Tech,4,1234.05
+SO-11140,2026-04-22,North,Liam Turner,Bookshelf,Furniture,3,159.0
+SO-11194,2026-04-22,north,Emma Clarke,Notebook 5-Pack,Office,26,12.25
+SO-11000,2026-04-23,South,Sofia Ramos,Wireless Mouse,Tech,15,29.9
+SO-11029,04/23/2026,North,Liam Turner,Ergonomic Chair,Furniture,4,289.0
+SO-11060,2026-04-23,South,Noah Bennett,Notebook 5-Pack,Office,17,12.25
+SO-11090,2026-04-23,east,Mason Wright,Printer Toner,Office,3,68.4
+SO-11119,2026-04-23,North,Emma Clarke,Wireless Mouse,Tech,3,29.9
+SO-11137,2026-04-23,South,Noah Bennett,USB-C Dock,Tech,3,149.0
+SO-11190,2026-04-23,East,Mason Wright,Ergonomic Chair,Furniture,5,289.0
+SO-11036,04/24/2026,North,Liam Turner,Laptop Pro 14,Tech,3,1169.1
+SO-11040,04/24/2026,north,Emma Clarke,Printer Toner,Office,10,72.0
+SO-11079,2026-04-24,East,Olivia Chen,Notebook 5-Pack,Office,32,12.9
+SO-11100,2026-04-24,East,Mason Wright,27-inch Monitor,Tech,5,329.0
+SO-11110,2026-04-24,South,Noah Bennett,Standing Desk,Furniture,2,549.0
+SO-11112,2026-04-24,South,Sofia Ramos,Laptop Pro 14,Tech,4,1234.05
+SO-11116,2026-04-24,South,Sofia Ramos,Copy Paper Box,Office,15,34.65
+SO-11154,2026-04-24,North,Liam Turner,Copy Paper Box,Office,5,36.57
+SO-11163,2026-04-24,South,Noah Bennett,Notebook 5-Pack,Office,38,11.61
+SO-11186,2026-04-24,North,Emma Clarke,Copy Paper Box,Office,30,38.5
+SO-11196,2026-04-24,South,Sofia Ramos,Bookshelf,Furniture,1,$159.00
+SO-11015,04/25/2026,East,Olivia Chen,Copy Paper Box,Office,22,38.5
+SO-11052,2026-04-25,East,Olivia Chen,Copy Paper Box,Office,17,34.65
+SO-11085,2026-04-25,East,Olivia Chen,Wireless Mouse,Tech,19,29.9
+SO-11107,2026-04-25,West,Ethan Brooks,Standing Desk,Furniture,2,549.0
+SO-11124,2026-04-25,West,Ava Patel,Bookshelf,Furniture,3,159.0
+SO-11142,2026-04-25, West ,Ava Patel,Wireless Mouse,Tech,15,28.4
+SO-11144,2026-04-25,east,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-11179,04/25/2026,East,Mason Wright,27-inch Monitor,Tech,4,329.0
+SO-11004,2026-04-26,North,Liam Turner,Notebook 5-Pack,Office,30,12.9
+SO-11058,04/26/2026,East,Olivia Chen,Notebook 5-Pack,Office,8,11.61
+SO-11099,2026-04-26,North,Emma Clarke,Ergonomic Chair,Furniture,4,289.0
+SO-11153,2026-04-26,East,Mason Wright,Standing Desk,Furniture,3,521.55
+SO-11160,04/26/2026,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-11173,2026-04-26,North,Emma Clarke,Ergonomic Chair,Furniture,4,289.0
+SO-11011,2026-04-27,East,Mason Wright,27-inch Monitor,Tech,1,296.1
+SO-11023,04/27/2026,South,Noah Bennett,USB-C Dock,Tech,7,$141.55
+SO-11081,2026-04-27,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-11082,2026-04-27,East,Olivia Chen,Printer Toner,Office,2,72.0
+SO-11159,2026-04-27,North,Liam Turner,Ergonomic Chair,Furniture,4,289.0
+SO-11175,2026-04-27,South,Noah Bennett,Copy Paper Box,Office,29,38.5
+SO-11019,04/28/2026,West,Ethan Brooks,Wireless Mouse,Tech,2,29.9
+SO-11026,2026-04-28,North,Liam Turner,Filing Cabinet,Furniture,3,189.05
+SO-11102,04/28/2026,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,179.55
+SO-11109,2026-04-28,North,Emma Clarke,Printer Toner,Office,10,68.4
+SO-11152,2026-04-28,North,Emma Clarke,Wireless Mouse,Tech,7,28.4
+SO-11165,04/28/2026,South,Noah Bennett,Copy Paper Box,Office,6,38.5
+SO-11177,2026-04-28,East,Olivia Chen,27-inch Monitor,Tech,6,$329.00
+SO-11183,2026-04-28,East,Mason Wright,Laptop Pro 14,Tech,3,1299.0
+SO-11067,2026-04-29, South ,Noah Bennett,27-inch Monitor,Tech,5,329.0
+SO-11074,2026-04-29,East,Mason Wright,Wireless Mouse,Tech,7,29.9
+SO-11108,2026-04-29,West,Ava Patel,Bookshelf,Furniture,2,143.1
+SO-11111,2026-04-29,North,Emma Clarke,Standing Desk,Furniture,1,549.0
+SO-11127,2026-04-29,East,Mason Wright,Copy Paper Box,Office,15,$34.65
+SO-11145,2026-04-29,South,Sofia Ramos,27-inch Monitor,Tech,2,312.55
+SO-11166,2026-04-29,East,Olivia Chen,27-inch Monitor,Tech,3,312.55
+SO-11193,2026-04-29,West,Ethan Brooks,Standing Desk,Furniture,3,549.0
+SO-11003,04/30/2026,North,Liam Turner,Notebook 5-Pack,Office,26,12.9
+SO-11066,2026-04-30,North,Emma Clarke,Ergonomic Chair,Furniture,6,289.0
+SO-11174,2026-04-30,South,Sofia Ramos,27-inch Monitor,Tech,4,329.0
+SO-11205,2026-05-01,South,Sofia Ramos,Printer Toner,Office,7,64.8
+SO-11247,2026-05-01,South,Sofia Ramos,Copy Paper Box,Office,27,38.5
+SO-11250,2026-05-01,West,Ethan Brooks,Printer Toner,Office,5,68.4
+SO-11268,2026-05-01,South,Noah Bennett,Wireless Mouse,Tech,9,29.9
+SO-11296,2026-05-01,West,Ava Patel,Printer Toner,Office,3,72.0
+SO-11308,2026-05-01,North,Emma Clarke,27-inch Monitor,Tech,6,296.1
+SO-11318,2026-05-01,EAST,Olivia Chen,27-inch Monitor,Tech,2,312.55
+SO-11214,2026-05-02,South,Sofia Ramos,Wireless Mouse,Tech,8,29.9
+SO-11263,05/02/2026,West,Ethan Brooks,USB-C Dock,Tech,7,149.0
+SO-11281,2026-05-02,East,Olivia Chen,Notebook 5-Pack,Office,10,12.25
+SO-11283,05/02/2026,south,Noah Bennett,Notebook 5-Pack,Office,23,12.25
+SO-11348,2026-05-02,South,Noah Bennett,Copy Paper Box,Office,25,36.57
+SO-11391,2026-05-02,North,Emma Clarke,Notebook 5-Pack,Office,16,12.9
+SO-11347,2026-05-03,East,Mason Wright,Ergonomic Chair,Furniture,3,289.0
+SO-11374,2026-05-03,South,Sofia Ramos,27-inch Monitor,Tech,4,329.0
+SO-11219,2026-05-04,South,Sofia Ramos,27-inch Monitor,Tech,3,312.55
+SO-11223,2026-05-04,East,Mason Wright,27-inch Monitor,Tech,3,296.1
+SO-11277,05/04/2026,East,Mason Wright,Standing Desk,Furniture,1,$549.00
+SO-11297,2026-05-04,South,Noah Bennett,Wireless Mouse,Tech,16,29.9
+SO-11315,2026-05-04,North,Emma Clarke,27-inch Monitor,Tech,6,$329.00
+SO-11334,2026-05-04, South ,Sofia Ramos,27-inch Monitor,Tech,4,329.0
+SO-11341,2026-05-04,East,Olivia Chen,Wireless Mouse,Tech,15,29.9
+SO-11276,2026-05-05,East,Olivia Chen,Notebook 5-Pack,Office,21,12.25
+SO-11290,2026-05-05,West,Ava Patel,27-inch Monitor,Tech,1,329.0
+SO-11293,2026-05-05,West,Ava Patel,Notebook 5-Pack,Office,4,11.61
+SO-11376,2026-05-05,south,Sofia Ramos,Copy Paper Box,Office,17,34.65
+SO-11377,05/05/2026,East,Mason Wright,Copy Paper Box,Office,3,36.57
+SO-11390,2026-05-05,North,Liam Turner,Wireless Mouse,Tech,11,29.9
+SO-11220,2026-05-06,South,Noah Bennett,Printer Toner,Office,6,72.0
+SO-11227,2026-05-06,East,Olivia Chen,Copy Paper Box,Office,21,34.65
+SO-11264,2026-05-06,East,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-11275,2026-05-06,West,Ethan Brooks,Ergonomic Chair,Furniture,2,260.1
+SO-11287,2026-05-06,West,Ethan Brooks,Laptop Pro 14,Tech,1,1169.1
+SO-11301,2026-05-06,East,Mason Wright,Printer Toner,Office,7,64.8
+SO-11333,2026-05-06,South,Sofia Ramos,Noise-Cancelling Headset,Tech,1,189.0
+SO-11387,2026-05-06,North,Liam Turner,Notebook 5-Pack,Office,10,11.61
+SO-11389,2026-05-06,North,Emma Clarke,Filing Cabinet,Furniture,3,199.0
+SO-11267,2026-05-07,North,Liam Turner,Printer Toner,Office,4,64.8
+SO-11285,2026-05-07,West,Ethan Brooks,27-inch Monitor,Tech,2,329.0
+SO-11299,2026-05-07,East,Mason Wright,Printer Toner,Office,8,64.8
+SO-11311,2026-05-07,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,189.0
+SO-11317,2026-05-07,South,Sofia Ramos,Filing Cabinet,Furniture,2,179.1
+SO-11320,2026-05-07,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-11332,2026-05-07,West,Ava Patel,Ergonomic Chair,Furniture,1,289.0
+SO-11373,2026-05-07, West ,Ava Patel,Noise-Cancelling Headset,Tech,6,189.0
+SO-11234,2026-05-08,North,Liam Turner,27-inch Monitor,Tech,4,329.0
+SO-11240,2026-05-08,West,Ava Patel,Copy Paper Box,Office,19,38.5
+SO-11342,2026-05-08,WEST,Ethan Brooks,Copy Paper Box,Office,11,38.5
+SO-11404,2026-05-08,West,Ethan Brooks,Copy Paper Box,Office,11,38.5
+SO-11233,2026-05-09,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,189.0
+SO-11282,2026-05-09,North,Emma Clarke,USB-C Dock,Tech,8,141.55
+SO-11295,2026-05-09,West,Ava Patel,Wireless Mouse,Tech,8,28.4
+SO-11383,05/09/2026,East,Olivia Chen,Ergonomic Chair,Furniture,2,289.0
+SO-11394,2026-05-09,North,Emma Clarke,Filing Cabinet,Furniture,1,199.0
+SO-11402,2026-05-09,East,Mason Wright,Printer Toner,Office,4,$64.80
+SO-11251,2026-05-10,South,Sofia Ramos,Notebook 5-Pack,Office,11,12.9
+SO-11266,2026-05-10,North,Liam Turner,USB-C Dock,Tech,7,149.0
+SO-11304,2026-05-10,south,Sofia Ramos,27-inch Monitor,Tech,2,312.55
+SO-11330,05/10/2026,West,Ava Patel,USB-C Dock,Tech,8,149.0
+SO-11359,2026-05-10,East,Olivia Chen,Notebook 5-Pack,Office,30,12.25
+SO-11388,2026-05-10,North,Liam Turner,Copy Paper Box,Office,22,38.5
+SO-11395,2026-05-10,East,Mason Wright,Filing Cabinet,Furniture,2,199.0
+SO-11398,2026-05-10,North,Emma Clarke,Printer Toner,Office,1,64.8
+SO-11401,2026-05-10,North,Emma Clarke,Ergonomic Chair,Furniture,4,289.0
+SO-11206,2026-05-11,West,Ethan Brooks,27-inch Monitor,Tech,4,$312.55
+SO-11216,2026-05-11,North,Emma Clarke,USB-C Dock,Tech,8,134.1
+SO-11218,2026-05-11,North,Liam Turner,Standing Desk,Furniture,4,$549.00
+SO-11310,2026-05-11,North,Liam Turner,Printer Toner,Office,8,72.0
+SO-11362,2026-05-11,South,Sofia Ramos,Copy Paper Box,Office,27,38.5
+SO-11386,05/11/2026,South,Noah Bennett,Wireless Mouse,Tech,9,$26.91
+SO-11230,2026-05-12,East,Mason Wright,Laptop Pro 14,Tech,2,"$1,299.00"
+SO-11245,2026-05-12,West,Ava Patel,Laptop Pro 14,Tech,3,1169.1
+SO-11269,2026-05-12,North,Liam Turner,Standing Desk,Furniture,1,549.0
+SO-11314,2026-05-12,South,Noah Bennett,Printer Toner,Office,5,64.8
+SO-11326,2026-05-12,North,Liam Turner,Copy Paper Box,Office,8,36.57
+SO-11343,2026-05-12,North,Liam Turner,USB-C Dock,Tech,6,149.0
+SO-11358,2026-05-12,North,Emma Clarke,Wireless Mouse,Tech,2,26.91
+SO-11370,2026-05-12,East,Mason Wright,Wireless Mouse,Tech,2,29.9
+SO-11371,2026-05-12,East,Mason Wright,27-inch Monitor,Tech,3,329.0
+SO-11202,2026-05-13,South,Noah Bennett,Laptop Pro 14,Tech,2,1299.0
+SO-11210,2026-05-13,East,Mason Wright,27-inch Monitor,Tech,4,329.0
+SO-11213,2026-05-13,West,Ava Patel,Bookshelf,Furniture,4,159.0
+SO-11222,2026-05-13,North,Emma Clarke,Noise-Cancelling Headset,Tech,5,170.1
+SO-11226,2026-05-13,East,Mason Wright,Noise-Cancelling Headset,Tech,5,179.55
+SO-11274,2026-05-13,North,Liam Turner,Filing Cabinet,Furniture,1,199.0
+SO-11289,2026-05-13,North,Liam Turner,Notebook 5-Pack,Office,38,12.9
+SO-11354,2026-05-13,South,Sofia Ramos,Laptop Pro 14,Tech,3,1299.0
+SO-11378,2026-05-13,West,Ava Patel,Copy Paper Box,Office,29,36.57
+SO-11224,2026-05-14, North ,Emma Clarke,Printer Toner,Office,6,68.4
+SO-11312,2026-05-14,East,Olivia Chen,Bookshelf,Furniture,1,159.0
+SO-11321,2026-05-14,north,Liam Turner,Laptop Pro 14,Tech,3,1234.05
+SO-11344,05/14/2026,East,Olivia Chen,Noise-Cancelling Headset,Tech,2,170.1
+SO-11393,2026-05-14,North,Emma Clarke,Wireless Mouse,Tech,16,26.91
+SO-11244,2026-05-15,North,Liam Turner,USB-C Dock,Tech,5,149.0
+SO-11259,2026-05-15,East,Mason Wright,Printer Toner,Office,3,72.0
+SO-11291,2026-05-15,South,Noah Bennett,Copy Paper Box,Office,20,36.57
+SO-11313,05/15/2026,South,Noah Bennett,Laptop Pro 14,Tech,4,"$1,234.05"
+SO-11325,2026-05-15,South,Noah Bennett,Notebook 5-Pack,Office,2,12.9
+SO-11346,2026-05-15,West,Ava Patel,Wireless Mouse,Tech,1,29.9
+SO-11366,2026-05-15,North,Liam Turner,Ergonomic Chair,Furniture,6,274.55
+SO-11384,2026-05-15,West,Ava Patel,Printer Toner,Office,9,64.8
+SO-11208,2026-05-16,South,Sofia Ramos,27-inch Monitor,Tech,5,312.55
+SO-11228,2026-05-16,EAST,Olivia Chen,Printer Toner,Office,8,64.8
+SO-11253,05/16/2026,West,Ethan Brooks,Printer Toner,Office,6,68.4
+SO-11284,2026-05-16,West,Ava Patel,Ergonomic Chair,Furniture,6,274.55
+SO-11316,2026-05-16,West,Ava Patel,Printer Toner,Office,4,72.0
+SO-11331,2026-05-16,North,Emma Clarke,USB-C Dock,Tech,7,134.1
+SO-11340,2026-05-16,East,Olivia Chen,Copy Paper Box,Office,5,34.65
+SO-11364,05/16/2026,North,Emma Clarke,Laptop Pro 14,Tech,4,1299.0
+SO-11385,2026-05-16,East,Olivia Chen,Wireless Mouse,Tech,11,29.9
+SO-11204,2026-05-17,North,Liam Turner,Copy Paper Box,Office,18,36.57
+SO-11225,2026-05-17,West,Ethan Brooks,Filing Cabinet,Furniture,2,199.0
+SO-11258,2026-05-17,East,Olivia Chen,27-inch Monitor,Tech,5,329.0
+SO-11303,2026-05-17, East ,Olivia Chen,27-inch Monitor,Tech,3,312.55
+SO-11305,2026-05-17,East,Mason Wright,Noise-Cancelling Headset,Tech,3,189.0
+SO-11306,2026-05-17,East,Olivia Chen,Ergonomic Chair,Furniture,5,289.0
+SO-11355,2026-05-17,North,Liam Turner,Ergonomic Chair,Furniture,6,289.0
+SO-11357,2026-05-17,West,Ava Patel,Noise-Cancelling Headset,Tech,6,179.55
+SO-11367,2026-05-17,west,Ava Patel,Printer Toner,Office,8,72.0
+SO-11392,2026-05-17,East,Mason Wright,Bookshelf,Furniture,1,151.05
+SO-11381,2026-05-18,East,Olivia Chen,27-inch Monitor,Tech,5,296.1
+SO-11397,2026-05-18,East,Mason Wright,USB-C Dock,Tech,8,149.0
+SO-11209,2026-05-19, East ,Mason Wright,Copy Paper Box,Office,16,$34.65
+SO-11286,2026-05-19,West,Ava Patel,Copy Paper Box,Office,19,38.5
+SO-11322,2026-05-19,North,Liam Turner,Wireless Mouse,Tech,8,26.91
+SO-11323,2026-05-19,East,Mason Wright,Ergonomic Chair,Furniture,5,274.55
+SO-11356,2026-05-19,North,Liam Turner,Laptop Pro 14,Tech,2,1169.1
+SO-11360,05/19/2026,South,Sofia Ramos,Noise-Cancelling Headset,Tech,3,170.1
+SO-11365,2026-05-19,North,Liam Turner,Copy Paper Box,Office,28,36.57
+SO-11380,2026-05-19,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-11400,2026-05-19,West,Ethan Brooks,Printer Toner,Office,1,72.0
+SO-11238,2026-05-20,North,Liam Turner,Notebook 5-Pack,Office,5,12.9
+SO-11300,2026-05-20,West,Ethan Brooks,Standing Desk,Furniture,1,494.1
+SO-11336,2026-05-20,North,Emma Clarke,27-inch Monitor,Tech,6,296.1
+SO-11352,05/20/2026,South,Noah Bennett,USB-C Dock,Tech,6,134.1
+SO-11399,2026-05-20,North,Liam Turner,Notebook 5-Pack,Office,25,12.9
+SO-11232,2026-05-21,South,Sofia Ramos,Printer Toner,Office,7,72.0
+SO-11235,2026-05-21,South,Sofia Ramos,Notebook 5-Pack,Office,13,12.25
+SO-11256,2026-05-21,East,Mason Wright,Copy Paper Box,Office,26,38.5
+SO-11257,2026-05-21, East ,Mason Wright,Laptop Pro 14,Tech,3,1299.0
+SO-11262,2026-05-21,North,Emma Clarke,Notebook 5-Pack,Office,6,11.61
+SO-11292,2026-05-21,East,Mason Wright,Wireless Mouse,Tech,11,29.9
+SO-11203,2026-05-22,south,Noah Bennett,Filing Cabinet,Furniture,2,199.0
+SO-11207,2026-05-22,South,Noah Bennett,Laptop Pro 14,Tech,2,1169.1
+SO-11239,2026-05-22,West,Ava Patel,Wireless Mouse,Tech,13,29.9
+SO-11241,2026-05-22,East,Mason Wright,Notebook 5-Pack,Office,32,11.61
+SO-11302,2026-05-22,North,Emma Clarke,Ergonomic Chair,Furniture,6,274.55
+SO-11361,2026-05-22,North,Emma Clarke,Copy Paper Box,Office,23,34.65
+SO-11248,2026-05-23,East,Olivia Chen,Printer Toner,Office,5,72.0
+SO-11270,2026-05-23, North ,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-11273,2026-05-23,West,Ava Patel,Notebook 5-Pack,Office,1,11.61
+SO-11363,2026-05-23, East ,Mason Wright,Standing Desk,Furniture,4,549.0
+SO-11201,2026-05-24,East,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-11255,2026-05-24,EAST,Mason Wright,Wireless Mouse,Tech,15,26.91
+SO-11271,2026-05-24,North,Liam Turner,Wireless Mouse,Tech,3,28.4
+SO-11278,2026-05-24,West,Ethan Brooks,Ergonomic Chair,Furniture,4,289.0
+SO-11280,2026-05-24,South,Noah Bennett,Notebook 5-Pack,Office,10,12.9
+SO-11294,2026-05-24,West,Ava Patel,Noise-Cancelling Headset,Tech,5,189.0
+SO-11379,05/24/2026,South,Noah Bennett,Ergonomic Chair,Furniture,6,274.55
+SO-11211,2026-05-25,East,Mason Wright,Wireless Mouse,Tech,11,29.9
+SO-11242,2026-05-25,West,Ethan Brooks,Noise-Cancelling Headset,Tech,3,189.0
+SO-11335,2026-05-25,NORTH,Emma Clarke,Wireless Mouse,Tech,18,29.9
+SO-11353,2026-05-25,West,Ava Patel,Copy Paper Box,Office,29,36.57
+SO-11236,2026-05-26,North,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-11252,2026-05-26,West,Ava Patel,Filing Cabinet,Furniture,2,189.05
+SO-11260,2026-05-26, North ,Liam Turner,Copy Paper Box,Office,7,38.5
+SO-11329,2026-05-26,West,Ethan Brooks,Copy Paper Box,Office,26,38.5
+SO-11372,2026-05-26,South,Noah Bennett,Printer Toner,Office,1,72.0
+SO-11396,2026-05-26,North,Emma Clarke,Filing Cabinet,Furniture,2,199.0
+SO-11212,2026-05-27,North,Liam Turner,Bookshelf,Furniture,3,159.0
+SO-11221,2026-05-27,West,Ava Patel,USB-C Dock,Tech,5,149.0
+SO-11254,2026-05-27,East,Olivia Chen,Printer Toner,Office,5,72.0
+SO-11265,2026-05-27,East,Mason Wright,Standing Desk,Furniture,1,521.55
+SO-11279,2026-05-27,North,Liam Turner,Printer Toner,Office,9,64.8
+SO-11307,2026-05-27,South,Noah Bennett,27-inch Monitor,Tech,3,296.1
+SO-11309,2026-05-27,East,Mason Wright,USB-C Dock,Tech,1,149.0
+SO-11338,2026-05-27,West,Ava Patel,Filing Cabinet,Furniture,3,199.0
+SO-11229,2026-05-28,North,Liam Turner,Filing Cabinet,Furniture,3,179.1
+SO-11231,2026-05-28,North,Liam Turner,Copy Paper Box,Office,14,38.5
+SO-11350,2026-05-28,West,Ethan Brooks,Wireless Mouse,Tech,11,26.91
+SO-11368,2026-05-28,East,Olivia Chen,27-inch Monitor,Tech,6,296.1
+SO-11217,2026-05-29,East,Mason Wright,Wireless Mouse,Tech,9,26.91
+SO-11249,2026-05-29,East,Olivia Chen,Noise-Cancelling Headset,Tech,5,189.0
+SO-11261,2026-05-29,North,Liam Turner,Wireless Mouse,Tech,19,$28.40
+SO-11288,2026-05-29,North,Liam Turner,Ergonomic Chair,Furniture,1,289.0
+SO-11298,2026-05-29,West,Ava Patel,Copy Paper Box,Office,12,38.5
+SO-11324,2026-05-29,North,Liam Turner,Notebook 5-Pack,Office,8,12.25
+SO-11345,2026-05-29,West,Ethan Brooks,Wireless Mouse,Tech,17,$28.40
+SO-11349,2026-05-29,North,Emma Clarke,Notebook 5-Pack,Office,34,12.9
+SO-11351,05/29/2026, West ,Ava Patel,Laptop Pro 14,Tech,4,1299.0
+SO-11375,2026-05-29,South,Noah Bennett,Noise-Cancelling Headset,Tech,4,179.55
+SO-11382,2026-05-29,East,Olivia Chen,Copy Paper Box,Office,4,34.65
+SO-11403,2026-05-29,East,Mason Wright,Notebook 5-Pack,Office,17,12.9
+SO-11215,2026-05-30,north,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-11243,2026-05-30,West,Ethan Brooks,Copy Paper Box,Office,7,38.5
+SO-11272,05/30/2026,North,Emma Clarke,Laptop Pro 14,Tech,4,1299.0
+SO-11327,2026-05-30,East,Mason Wright,Bookshelf,Furniture,2,159.0
+SO-11339,2026-05-30,North,Liam Turner,Filing Cabinet,Furniture,1,199.0
+SO-11237,2026-05-31,East,Mason Wright,Filing Cabinet,Furniture,1,199.0
+SO-11246,2026-05-31,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-11319,2026-05-31,West,Ethan Brooks,Copy Paper Box,Office,16,36.57
+SO-11328,2026-05-31,West,Ethan Brooks,Copy Paper Box,Office,27,36.57
+SO-11337,05/31/2026,North,Emma Clarke,Notebook 5-Pack,Office,7,12.25
+SO-11369,2026-05-31,North,Liam Turner,Standing Desk,Furniture,1,549.0
+SO-11405,06/01/2026,North,Emma Clarke,Notebook 5-Pack,Office,1,12.9
+SO-11453,2026-06-01,West,Ava Patel,Noise-Cancelling Headset,Tech,3,189.0
+SO-11504,2026-06-01,North,Emma Clarke,Ergonomic Chair,Furniture,6,274.55
+SO-11513,06/01/2026,East,Olivia Chen,Standing Desk,Furniture,4,494.1
+SO-11545,2026-06-01,North,Liam Turner,Notebook 5-Pack,Office,32,12.9
+SO-11570,2026-06-01,South,Sofia Ramos,Copy Paper Box,Office,28,38.5
+SO-11573,2026-06-01,West,Ethan Brooks,Notebook 5-Pack,Office,3,12.9
+SO-11422,2026-06-02,South,Noah Bennett,Copy Paper Box,Office,30,38.5
+SO-11430,06/02/2026,East,Olivia Chen,Bookshelf,Furniture,4,159.0
+SO-11451,2026-06-02,East,Olivia Chen,Notebook 5-Pack,Office,13,12.9
+SO-11488,2026-06-02,North,Liam Turner,Copy Paper Box,Office,1,$38.50
+SO-11490,2026-06-02,North,Liam Turner,Ergonomic Chair,Furniture,5,274.55
+SO-11528,2026-06-02,South,Sofia Ramos,Noise-Cancelling Headset,Tech,3,189.0
+SO-11535,2026-06-02,West,Ava Patel,27-inch Monitor,Tech,2,329.0
+SO-11561,2026-06-02,East,Olivia Chen,USB-C Dock,Tech,4,149.0
+SO-11577,2026-06-02,west,Ava Patel,Copy Paper Box,Office,16,34.65
+SO-11412,2026-06-03,East,Mason Wright,Copy Paper Box,Office,26,38.5
+SO-11507,2026-06-03,East,Olivia Chen,Standing Desk,Furniture,2,521.55
+SO-11539,2026-06-03,West,Ethan Brooks,USB-C Dock,Tech,7,141.55
+SO-11547,06/03/2026,South,Noah Bennett,Filing Cabinet,Furniture,1,179.1
+SO-11583,2026-06-03,North,Liam Turner,Ergonomic Chair,Furniture,2,274.55
+SO-11584,2026-06-03, West ,Ethan Brooks,Copy Paper Box,Office,13,34.65
+SO-11586,06/03/2026,North,Emma Clarke,Noise-Cancelling Headset,Tech,1,189.0
+SO-11410,2026-06-04,North,Liam Turner,Copy Paper Box,Office,12,38.5
+SO-11446,2026-06-04,East,Mason Wright,Wireless Mouse,Tech,2,29.9
+SO-11506,2026-06-04,North,Emma Clarke,Laptop Pro 14,Tech,3,1299.0
+SO-11518,06/04/2026,North,Emma Clarke,Ergonomic Chair,Furniture,2,274.55
+SO-11556,2026-06-04,South,Noah Bennett,Wireless Mouse,Tech,5,29.9
+SO-11558,2026-06-04,West,Ava Patel,Printer Toner,Office,7,72.0
+SO-11580,2026-06-04,North,Liam Turner,Copy Paper Box,Office,23,38.5
+SO-11438,2026-06-05,West,Ethan Brooks,USB-C Dock,Tech,6,134.1
+SO-11441,2026-06-05,South,Noah Bennett,Printer Toner,Office,5,72.0
+SO-11484,2026-06-05, North ,Liam Turner,Copy Paper Box,Office,19,38.5
+SO-11425,2026-06-06,West,Ethan Brooks,Notebook 5-Pack,Office,20,12.9
+SO-11439,2026-06-06,South,Sofia Ramos,Copy Paper Box,Office,5,36.57
+SO-11493,2026-06-06,West,Ethan Brooks,Noise-Cancelling Headset,Tech,5,179.55
+SO-11509,2026-06-06,North,Liam Turner,Laptop Pro 14,Tech,1,1299.0
+SO-11522,2026-06-06,East,Mason Wright,Printer Toner,Office,2,64.8
+SO-11548,2026-06-06,West,Ava Patel,27-inch Monitor,Tech,4,296.1
+SO-11559,2026-06-06,East,Olivia Chen,Copy Paper Box,Office,12,36.57
+SO-11560,2026-06-06,North,Emma Clarke,27-inch Monitor,Tech,4,312.55
+SO-11414,2026-06-07,South,Sofia Ramos,Copy Paper Box,Office,7,34.65
+SO-11461,2026-06-07,West,Ava Patel,Notebook 5-Pack,Office,31,12.25
+SO-11529,2026-06-07,South,Sofia Ramos,USB-C Dock,Tech,4,141.55
+SO-11471,2026-06-08, North ,Liam Turner,Laptop Pro 14,Tech,1,"$1,234.05"
+SO-11500,2026-06-08,East,Olivia Chen,Wireless Mouse,Tech,9,29.9
+SO-11574,2026-06-08,West,Ethan Brooks,Copy Paper Box,Office,13,36.57
+SO-11417,2026-06-09,East,Olivia Chen,Copy Paper Box,Office,29,38.5
+SO-11474,2026-06-09,North,Liam Turner,USB-C Dock,Tech,5,149.0
+SO-11494,2026-06-09,North,Emma Clarke,Copy Paper Box,Office,1,36.57
+SO-11552,2026-06-09,North,Emma Clarke,Standing Desk,Furniture,2,549.0
+SO-11563,2026-06-09,North,Emma Clarke,27-inch Monitor,Tech,3,329.0
+SO-11433,2026-06-10,North,Liam Turner,Laptop Pro 14,Tech,4,1299.0
+SO-11450,2026-06-10,South,Noah Bennett,Ergonomic Chair,Furniture,2,289.0
+SO-11468,06/10/2026,East,Mason Wright,27-inch Monitor,Tech,5,329.0
+SO-11483,2026-06-10,South,Noah Bennett,Copy Paper Box,Office,19,$34.65
+SO-11489,06/10/2026,North,Emma Clarke,27-inch Monitor,Tech,2,312.55
+SO-11521,2026-06-10,North,Liam Turner,Printer Toner,Office,2,68.4
+SO-11527,2026-06-10,North,Emma Clarke,Copy Paper Box,Office,24,$38.50
+SO-11537,2026-06-10,East,Olivia Chen,Wireless Mouse,Tech,7,28.4
+SO-11538,2026-06-10,North,Liam Turner,USB-C Dock,Tech,8,149.0
+SO-11543,2026-06-10,East,Mason Wright,Noise-Cancelling Headset,Tech,3,$179.55
+SO-11479,2026-06-11,East,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-11482,2026-06-11,West,Ava Patel,Laptop Pro 14,Tech,4,1299.0
+SO-11505,06/11/2026,East,Mason Wright,Copy Paper Box,Office,28,36.57
+SO-11515,2026-06-11,North,Emma Clarke,Wireless Mouse,Tech,3,$29.90
+SO-11517,2026-06-11,South,Sofia Ramos,27-inch Monitor,Tech,5,329.0
+SO-11544,2026-06-11,South,Sofia Ramos,Bookshelf,Furniture,4,159.0
+SO-11567,2026-06-11,South,Noah Bennett,Wireless Mouse,Tech,11,28.4
+SO-11413,2026-06-12,East,Olivia Chen,USB-C Dock,Tech,5,141.55
+SO-11449,2026-06-12,South,Sofia Ramos,Printer Toner,Office,2,72.0
+SO-11455,2026-06-12,West,Ethan Brooks,Noise-Cancelling Headset,Tech,6,189.0
+SO-11473,2026-06-12,West,Ava Patel,27-inch Monitor,Tech,5,329.0
+SO-11497,2026-06-12,North,Liam Turner,Printer Toner,Office,7,68.4
+SO-11502,2026-06-12,South,Sofia Ramos,Copy Paper Box,Office,25,38.5
+SO-11571,2026-06-12,East,Mason Wright,Notebook 5-Pack,Office,40,12.9
+SO-11423,2026-06-13,South,Sofia Ramos,Standing Desk,Furniture,3,549.0
+SO-11454,2026-06-13,WEST,Ava Patel,Laptop Pro 14,Tech,3,"$1,299.00"
+SO-11466,2026-06-13,North,Emma Clarke,USB-C Dock,Tech,5,149.0
+SO-11486,2026-06-13,North,Emma Clarke,Wireless Mouse,Tech,16,26.91
+SO-11491,2026-06-13,North,Emma Clarke,Wireless Mouse,Tech,4,28.4
+SO-11492,2026-06-13,North,Emma Clarke,Wireless Mouse,Tech,5,29.9
+SO-11499,2026-06-13,West,Ava Patel,Copy Paper Box,Office,23,36.57
+SO-11519,2026-06-13,North,Liam Turner,Wireless Mouse,Tech,1,29.9
+SO-11553,2026-06-13,North,Emma Clarke,Copy Paper Box,Office,17,$36.57
+SO-11498,2026-06-14,East,Olivia Chen,Printer Toner,Office,3,72.0
+SO-11503,2026-06-14,North,Liam Turner,Copy Paper Box,Office,6,38.5
+SO-11572,2026-06-14,East,Olivia Chen,Printer Toner,Office,1,64.8
+SO-11575,2026-06-14,East,Mason Wright,Printer Toner,Office,2,72.0
+SO-11589,2026-06-14,North,Liam Turner,Ergonomic Chair,Furniture,3,274.55
+SO-11436,2026-06-15,East,Mason Wright,Copy Paper Box,Office,19,38.5
+SO-11463,06/15/2026,East,Olivia Chen,Wireless Mouse,Tech,11,26.91
+SO-11480,2026-06-15,East,Mason Wright,Copy Paper Box,Office,28,38.5
+SO-11496,2026-06-15,West,Ava Patel,Printer Toner,Office,2,68.4
+SO-11525,2026-06-15,South,Noah Bennett,Filing Cabinet,Furniture,3,179.1
+SO-11534,2026-06-15,West,Ava Patel,Ergonomic Chair,Furniture,1,289.0
+SO-11562,2026-06-15,North,Emma Clarke,Notebook 5-Pack,Office,11,12.25
+SO-11426,2026-06-16,North,Liam Turner,Filing Cabinet,Furniture,1,199.0
+SO-11477,2026-06-16,West,Ava Patel,Copy Paper Box,Office,28,38.5
+SO-11478,2026-06-16,South,Sofia Ramos,USB-C Dock,Tech,8,149.0
+SO-11442,2026-06-17,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,189.0
+SO-11462,06/17/2026,West,Ethan Brooks,Filing Cabinet,Furniture,3,$199.00
+SO-11469,2026-06-17,South,Noah Bennett,Bookshelf,Furniture,4,151.05
+SO-11472,2026-06-17, South ,Sofia Ramos,27-inch Monitor,Tech,3,296.1
+SO-11531,2026-06-17,North,Liam Turner,Filing Cabinet,Furniture,3,199.0
+SO-11540,2026-06-17,South,Noah Bennett,Standing Desk,Furniture,2,521.55
+SO-11549,2026-06-17,West,Ethan Brooks,Copy Paper Box,Office,21,38.5
+SO-11408,2026-06-18,North,Emma Clarke,Printer Toner,Office,8,72.0
+SO-11440,2026-06-19,West,Ethan Brooks,Laptop Pro 14,Tech,3,1299.0
+SO-11459,2026-06-19,North,Emma Clarke,Laptop Pro 14,Tech,3,1169.1
+SO-11485,06/19/2026,East,Mason Wright,Bookshelf,Furniture,4,143.1
+SO-11588,2026-06-19,NORTH,Emma Clarke,Noise-Cancelling Headset,Tech,3,179.55
+SO-11432,2026-06-20,West,Ethan Brooks,Standing Desk,Furniture,1,549.0
+SO-11435,2026-06-20,South,Sofia Ramos,Printer Toner,Office,6,64.8
+SO-11445,2026-06-20,North,Liam Turner,Standing Desk,Furniture,3,521.55
+SO-11458,2026-06-20,EAST,Mason Wright,Copy Paper Box,Office,21,$38.50
+SO-11495,2026-06-20,West,Ava Patel,Standing Desk,Furniture,3,521.55
+SO-11542,2026-06-20,West,Ava Patel,Copy Paper Box,Office,18,38.5
+SO-11566,06/20/2026,North,Liam Turner,Printer Toner,Office,8,68.4
+SO-11460,2026-06-21,West,Ethan Brooks,Wireless Mouse,Tech,5,29.9
+SO-11465,2026-06-21,North,Emma Clarke,Wireless Mouse,Tech,7,$26.91
+SO-11487,2026-06-21,North,Liam Turner,Bookshelf,Furniture,1,151.05
+SO-11512,2026-06-21,North,Emma Clarke,Copy Paper Box,Office,13,34.65
+SO-11551,2026-06-21,North,Emma Clarke,Standing Desk,Furniture,2,549.0
+SO-11585,2026-06-21,West,Ethan Brooks,Copy Paper Box,Office,26,$36.57
+SO-11406,2026-06-22, East ,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-11416,2026-06-22, East ,Olivia Chen,USB-C Dock,Tech,2,149.0
+SO-11421,2026-06-22,West,Ethan Brooks,Wireless Mouse,Tech,16,29.9
+SO-11510,2026-06-22,East,Olivia Chen,Wireless Mouse,Tech,9,29.9
+SO-11520,2026-06-22,South,Noah Bennett,Standing Desk,Furniture,3,549.0
+SO-11523,2026-06-22,East,Olivia Chen,Notebook 5-Pack,Office,22,12.25
+SO-11555,2026-06-22,EAST,Mason Wright,Ergonomic Chair,Furniture,5,260.1
+SO-11564,06/22/2026,North,Emma Clarke,USB-C Dock,Tech,1,141.55
+SO-11565,2026-06-22,North,Emma Clarke,Copy Paper Box,Office,4,38.5
+SO-11568,2026-06-22,West,Ethan Brooks,Printer Toner,Office,7,72.0
+SO-11579,06/22/2026,West,Ava Patel,Notebook 5-Pack,Office,16,12.25
+SO-11437,2026-06-23, North ,Emma Clarke,27-inch Monitor,Tech,5,296.1
+SO-11447,2026-06-23,South,Sofia Ramos,Notebook 5-Pack,Office,30,12.9
+SO-11464,2026-06-23,East,Mason Wright,Ergonomic Chair,Furniture,4,274.55
+SO-11501,2026-06-23,West,Ava Patel,Ergonomic Chair,Furniture,4,289.0
+SO-11511,2026-06-23,North,Emma Clarke,Wireless Mouse,Tech,18,29.9
+SO-11526,06/23/2026,East,Olivia Chen,USB-C Dock,Tech,4,134.1
+SO-11557,2026-06-23,North,Liam Turner,USB-C Dock,Tech,1,141.55
+SO-11576,06/23/2026,East,Olivia Chen,Noise-Cancelling Headset,Tech,5,189.0
+SO-11411,06/24/2026,West,Ava Patel,Standing Desk,Furniture,3,549.0
+SO-11424,2026-06-24,North,Emma Clarke,Bookshelf,Furniture,4,159.0
+SO-11452,2026-06-24,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-11516,2026-06-24,North,Emma Clarke,Printer Toner,Office,1,72.0
+SO-11530,2026-06-24,West,Ethan Brooks,Bookshelf,Furniture,2,151.05
+SO-11546,2026-06-24,South,Noah Bennett,Wireless Mouse,Tech,13,28.4
+SO-11587,06/24/2026,South,Sofia Ramos,Bookshelf,Furniture,3,159.0
+SO-11407,2026-06-25,East,Mason Wright,Copy Paper Box,Office,18,36.57
+SO-11429,06/25/2026,East,Mason Wright,Noise-Cancelling Headset,Tech,1,189.0
+SO-11541,2026-06-25,West,Ethan Brooks,Printer Toner,Office,7,72.0
+SO-11431,2026-06-26,south,Sofia Ramos,Printer Toner,Office,1,72.0
+SO-11444,2026-06-26,South,Sofia Ramos,Notebook 5-Pack,Office,22,12.9
+SO-11448,2026-06-26,East,Mason Wright,Noise-Cancelling Headset,Tech,2,189.0
+SO-11457,2026-06-26,North,Emma Clarke,27-inch Monitor,Tech,2,329.0
+SO-11470,2026-06-26,South,Noah Bennett,Standing Desk,Furniture,3,549.0
+SO-11476,2026-06-26,East,Mason Wright,Noise-Cancelling Headset,Tech,4,189.0
+SO-11533,2026-06-26,North,Emma Clarke,Ergonomic Chair,Furniture,5,289.0
+SO-11569,2026-06-26,East,Olivia Chen,Notebook 5-Pack,Office,1,12.9
+SO-11409,06/27/2026,East,Mason Wright,Wireless Mouse,Tech,13,28.4
+SO-11427,2026-06-27,East,Mason Wright,Filing Cabinet,Furniture,1,199.0
+SO-11428,2026-06-27,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-11508,2026-06-27,EAST,Mason Wright,Standing Desk,Furniture,2,521.55
+SO-11536,2026-06-27,North,Emma Clarke,USB-C Dock,Tech,4,134.1
+SO-11554,2026-06-27,West,Ethan Brooks,Printer Toner,Office,5,72.0
+SO-11415,2026-06-28,West,Ethan Brooks,Filing Cabinet,Furniture,3,199.0
+SO-11418,06/28/2026,East,Olivia Chen,Copy Paper Box,Office,23,38.5
+SO-11418,06/28/2026,East,Olivia Chen,Copy Paper Box,Office,23,38.5
+SO-11420,2026-06-28,West,Ethan Brooks,Filing Cabinet,Furniture,2,199.0
+SO-11434,2026-06-28, North ,Emma Clarke,Copy Paper Box,Office,15,38.5
+SO-11443,2026-06-28,North,Emma Clarke,Printer Toner,Office,7,64.8
+SO-11475,2026-06-28,North,Liam Turner,Bookshelf,Furniture,1,159.0
+SO-11481,2026-06-28,East,Olivia Chen,Wireless Mouse,Tech,10,26.91
+SO-11524,2026-06-28,North,Liam Turner,Copy Paper Box,Office,3,38.5
+SO-11532,2026-06-28,West,Ethan Brooks,Copy Paper Box,Office,11,38.5
+SO-11578,2026-06-28,West,Ethan Brooks,Noise-Cancelling Headset,Tech,2,170.1
+SO-11419,06/29/2026,East,Mason Wright,Filing Cabinet,Furniture,1,$179.10
+SO-11456,06/29/2026,North,Liam Turner,Ergonomic Chair,Furniture,6,260.1
+SO-11581,2026-06-29,North,Liam Turner,Notebook 5-Pack,Office,18,12.9
+SO-11582,2026-06-29,North,Emma Clarke,Noise-Cancelling Headset,Tech,6,179.55
+SO-11467,2026-06-30,South,Noah Bennett,Wireless Mouse,Tech,9,29.9
+SO-11514,2026-06-30,East,Olivia Chen,Notebook 5-Pack,Office,13,12.9
+SO-11550,2026-06-30,East,Mason Wright,Copy Paper Box,Office,24,36.57
+SO-11615,07/01/2026,North,Liam Turner,Bookshelf,Furniture,3,159.0
+SO-11628,2026-07-01,South,Sofia Ramos,Printer Toner,Office,2,68.4
+SO-11654,07/01/2026,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,189.0
+SO-11711,2026-07-01,North,Emma Clarke,Notebook 5-Pack,Office,7,11.61
+SO-11750,2026-07-01,North,Emma Clarke,Wireless Mouse,Tech,10,29.9
+SO-11754,2026-07-01,North,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-11757,2026-07-01,East,Mason Wright,Ergonomic Chair,Furniture,4,289.0
+SO-11595,2026-07-02,West,Ethan Brooks,Ergonomic Chair,Furniture,2,274.55
+SO-11637,2026-07-02,North,Liam Turner,Wireless Mouse,Tech,8,29.9
+SO-11733,2026-07-02,East,Mason Wright,Notebook 5-Pack,Office,24,$12.90
+SO-11617,2026-07-03,East,Olivia Chen,Printer Toner,Office,9,$72.00
+SO-11687,07/03/2026,East,Mason Wright,27-inch Monitor,Tech,4,312.55
+SO-11690,2026-07-03,South,Sofia Ramos,Ergonomic Chair,Furniture,4,260.1
+SO-11707,2026-07-03,East,Mason Wright,USB-C Dock,Tech,4,149.0
+SO-11745,2026-07-03,North,Liam Turner,Notebook 5-Pack,Office,9,12.9
+SO-11631,2026-07-04,West,Ethan Brooks,USB-C Dock,Tech,4,$149.00
+SO-11660,2026-07-04,East,Olivia Chen,Laptop Pro 14,Tech,3,1299.0
+SO-11662,2026-07-04,EAST,Mason Wright,Notebook 5-Pack,Office,32,12.9
+SO-11682,07/04/2026,West,Ava Patel,27-inch Monitor,Tech,5,296.1
+SO-11701,2026-07-04,East,Mason Wright,Printer Toner,Office,5,64.8
+SO-11708,2026-07-04,South,Sofia Ramos,Filing Cabinet,Furniture,3,189.05
+SO-11715,2026-07-04,West,Ethan Brooks,27-inch Monitor,Tech,2,329.0
+SO-11592,2026-07-05,West,Ethan Brooks,Ergonomic Chair,Furniture,2,274.55
+SO-11623,2026-07-05,East,Mason Wright,Bookshelf,Furniture,1,159.0
+SO-11664,2026-07-05,East,Olivia Chen,Copy Paper Box,Office,4,36.57
+SO-11703,2026-07-05,South,Noah Bennett,USB-C Dock,Tech,4,$141.55
+SO-11710,2026-07-05,North,Emma Clarke,Laptop Pro 14,Tech,1,1299.0
+SO-11726,2026-07-05,East,Olivia Chen,Notebook 5-Pack,Office,21,$12.90
+SO-11738,2026-07-05,West,Ethan Brooks,Printer Toner,Office,3,72.0
+SO-11604,2026-07-06,West,Ava Patel,27-inch Monitor,Tech,1,312.55
+SO-11612,2026-07-06,South,Noah Bennett,Copy Paper Box,Office,27,34.65
+SO-11627,2026-07-06,East,Mason Wright,Printer Toner,Office,3,$64.80
+SO-11632,07/06/2026,South,Noah Bennett,27-inch Monitor,Tech,5,329.0
+SO-11634,2026-07-06,North,Liam Turner,27-inch Monitor,Tech,4,329.0
+SO-11638,2026-07-06,East,Mason Wright,Wireless Mouse,Tech,12,28.4
+SO-11659,07/06/2026,West,Ava Patel,Copy Paper Box,Office,12,36.57
+SO-11678,2026-07-06,North,Liam Turner,Bookshelf,Furniture,4,151.05
+SO-11688,2026-07-06, East ,Mason Wright,Notebook 5-Pack,Office,9,12.9
+SO-11758,2026-07-06,East,Olivia Chen,Printer Toner,Office,8,72.0
+SO-11765,2026-07-06,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,189.0
+SO-11766,2026-07-06,East,Mason Wright,Wireless Mouse,Tech,9,29.9
+SO-11651,2026-07-07,North,Emma Clarke,Standing Desk,Furniture,4,$549.00
+SO-11677,2026-07-07,North,Liam Turner,Laptop Pro 14,Tech,4,1299.0
+SO-11681,2026-07-07,East,Mason Wright,Wireless Mouse,Tech,3,29.9
+SO-11683,2026-07-07,West,Ethan Brooks,Printer Toner,Office,2,72.0
+SO-11685,2026-07-07,East,Mason Wright,27-inch Monitor,Tech,5,329.0
+SO-11702,2026-07-07,West,Ethan Brooks,Filing Cabinet,Furniture,1,179.1
+SO-11705,2026-07-07,South,Noah Bennett,Standing Desk,Furniture,2,549.0
+SO-11712,2026-07-07,East,Olivia Chen,Printer Toner,Office,8,72.0
+SO-11749,2026-07-07,North,Liam Turner,Wireless Mouse,Tech,4,28.4
+SO-11606,2026-07-08,East,Mason Wright,Noise-Cancelling Headset,Tech,4,189.0
+SO-11621,2026-07-08,East,Olivia Chen,Copy Paper Box,Office,7,38.5
+SO-11657,2026-07-08,North,Liam Turner,Copy Paper Box,Office,13,38.5
+SO-11668,2026-07-08,East,Mason Wright,Copy Paper Box,Office,25,38.5
+SO-11671,2026-07-08,West,Ava Patel,Bookshelf,Furniture,2,159.0
+SO-11676,2026-07-08,South,Noah Bennett,Notebook 5-Pack,Office,4,12.25
+SO-11694,2026-07-08,East,Olivia Chen,Ergonomic Chair,Furniture,5,289.0
+SO-11735,2026-07-08,West,Ava Patel,Ergonomic Chair,Furniture,2,274.55
+SO-11746,07/08/2026,East,Mason Wright,Wireless Mouse,Tech,6,29.9
+SO-11752,2026-07-08,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-11762,2026-07-08,West,Ava Patel,Copy Paper Box,Office,20,36.57
+SO-11608,2026-07-09,East,Mason Wright,Printer Toner,Office,6,68.4
+SO-11610,2026-07-09,East,Olivia Chen,Notebook 5-Pack,Office,38,12.25
+SO-11700,2026-07-09,North,Emma Clarke,Notebook 5-Pack,Office,35,12.9
+SO-11611,2026-07-10,North,Emma Clarke,Ergonomic Chair,Furniture,1,274.55
+SO-11640,2026-07-10,West,Ava Patel,Printer Toner,Office,5,72.0
+SO-11675,2026-07-10,North,Emma Clarke,Standing Desk,Furniture,3,549.0
+SO-11684,2026-07-10,North,Liam Turner,Ergonomic Chair,Furniture,2,289.0
+SO-11693,2026-07-10,East,Olivia Chen,Copy Paper Box,Office,10,38.5
+SO-11713,2026-07-10,East,Mason Wright,Notebook 5-Pack,Office,31,12.9
+SO-11734,2026-07-10,West,Ethan Brooks,Printer Toner,Office,3,72.0
+SO-11741,2026-07-10,South,Sofia Ramos,Wireless Mouse,Tech,5,29.9
+SO-11591,2026-07-11,South,Sofia Ramos,Ergonomic Chair,Furniture,3,274.55
+SO-11600,2026-07-11,West,Ava Patel,Wireless Mouse,Tech,10,29.9
+SO-11650,2026-07-11,South,Sofia Ramos,USB-C Dock,Tech,2,149.0
+SO-11663,2026-07-11,East,Mason Wright,Printer Toner,Office,9,72.0
+SO-11674,07/11/2026,East,Mason Wright,Notebook 5-Pack,Office,31,12.9
+SO-11720,2026-07-11,East,Olivia Chen,USB-C Dock,Tech,7,134.1
+SO-11724,2026-07-11,West,Ava Patel,27-inch Monitor,Tech,4,329.0
+SO-11756,2026-07-11,South,Noah Bennett,27-inch Monitor,Tech,6,329.0
+SO-11598,2026-07-12,East,Mason Wright,Wireless Mouse,Tech,13,28.4
+SO-11633,2026-07-12,West,Ethan Brooks,Ergonomic Chair,Furniture,5,260.1
+SO-11649,2026-07-12,North,Emma Clarke,Printer Toner,Office,7,64.8
+SO-11653,2026-07-12,West,Ava Patel,Printer Toner,Office,10,72.0
+SO-11680,2026-07-12,East,Mason Wright,Printer Toner,Office,10,72.0
+SO-11686,2026-07-12,East,Mason Wright,Notebook 5-Pack,Office,29,11.61
+SO-11697,2026-07-12,North,Liam Turner,Filing Cabinet,Furniture,1,179.1
+SO-11727,2026-07-12, West ,Ethan Brooks,USB-C Dock,Tech,8,141.55
+SO-11603,2026-07-13,East,Mason Wright,Bookshelf,Furniture,2,159.0
+SO-11624,2026-07-13,East,Mason Wright,Noise-Cancelling Headset,Tech,1,$189.00
+SO-11673,2026-07-13,North,Liam Turner,USB-C Dock,Tech,5,149.0
+SO-11691,2026-07-13,East,Mason Wright,Wireless Mouse,Tech,7,28.4
+SO-11709,2026-07-13, East ,Mason Wright,Laptop Pro 14,Tech,1,1299.0
+SO-11729,07/13/2026,West,Ethan Brooks,Copy Paper Box,Office,18,38.5
+SO-11736,2026-07-13,North,Emma Clarke,27-inch Monitor,Tech,6,329.0
+SO-11605,2026-07-14,West,Ava Patel,Filing Cabinet,Furniture,3,179.1
+SO-11618,2026-07-14,North,Emma Clarke,Notebook 5-Pack,Office,16,12.9
+SO-11629,2026-07-14,North,Emma Clarke,Ergonomic Chair,Furniture,3,260.1
+SO-11655,07/14/2026,North,Liam Turner,Wireless Mouse,Tech,7,29.9
+SO-11656,2026-07-14,North,Emma Clarke,Ergonomic Chair,Furniture,4,289.0
+SO-11666,07/14/2026,North,Emma Clarke,Copy Paper Box,Office,14,38.5
+SO-11716,2026-07-14,North,Liam Turner,USB-C Dock,Tech,3,149.0
+SO-11601,2026-07-15,South,Noah Bennett,USB-C Dock,Tech,5,149.0
+SO-11609,2026-07-16,North,Emma Clarke,27-inch Monitor,Tech,1,329.0
+SO-11644,2026-07-16,East,Mason Wright,Notebook 5-Pack,Office,33,12.9
+SO-11590,2026-07-17, West ,Ava Patel,Notebook 5-Pack,Office,7,12.9
+SO-11620,2026-07-17,South,Noah Bennett,Bookshelf,Furniture,2,159.0
+SO-11665,07/17/2026,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-11744,2026-07-17,East,Mason Wright,Noise-Cancelling Headset,Tech,6,$170.10
+SO-11625,07/18/2026,West,Ava Patel,Copy Paper Box,Office,3,38.5
+SO-11635,2026-07-18,North,Liam Turner,Printer Toner,Office,8,64.8
+SO-11658,2026-07-18,South,Noah Bennett,Wireless Mouse,Tech,4,29.9
+SO-11730,2026-07-18,SOUTH,Sofia Ramos,Ergonomic Chair,Furniture,4,260.1
+SO-11730,2026-07-18,SOUTH,Sofia Ramos,Ergonomic Chair,Furniture,4,260.1
+SO-11764,2026-07-18,West,Ava Patel,27-inch Monitor,Tech,4,329.0
+SO-11642,2026-07-19,East,Olivia Chen,Notebook 5-Pack,Office,6,12.9
+SO-11692,2026-07-19,North,Emma Clarke,USB-C Dock,Tech,8,149.0
+SO-11731,07/19/2026,North,Emma Clarke,Copy Paper Box,Office,23,34.65
+SO-11593,2026-07-20,East,Mason Wright,Printer Toner,Office,5,72.0
+SO-11721,2026-07-20,North,Liam Turner,Copy Paper Box,Office,12,$38.50
+SO-11728,2026-07-20,South,Noah Bennett,Copy Paper Box,Office,5,36.57
+SO-11751,2026-07-20,North,Emma Clarke,27-inch Monitor,Tech,3,329.0
+SO-11761,2026-07-20,West,Ethan Brooks,Wireless Mouse,Tech,2,29.9
+SO-11607,2026-07-21,South,Noah Bennett,Bookshelf,Furniture,1,159.0
+SO-11616,2026-07-21,North,Emma Clarke,27-inch Monitor,Tech,1,329.0
+SO-11641,2026-07-21,South,Sofia Ramos,Noise-Cancelling Headset,Tech,1,189.0
+SO-11699,2026-07-21,West,Ava Patel,Noise-Cancelling Headset,Tech,3,189.0
+SO-11714,2026-07-21,North,Emma Clarke,Laptop Pro 14,Tech,1,1299.0
+SO-11763,2026-07-21,East,Mason Wright,Notebook 5-Pack,Office,7,11.61
+SO-11647,2026-07-22,North,Emma Clarke,Copy Paper Box,Office,20,34.65
+SO-11669,07/22/2026,North,Liam Turner,Noise-Cancelling Headset,Tech,2,$189.00
+SO-11679,2026-07-22,South,Sofia Ramos,Noise-Cancelling Headset,Tech,6,189.0
+SO-11717,2026-07-22,South,Sofia Ramos,Noise-Cancelling Headset,Tech,4,179.55
+SO-11722,2026-07-22,West,Ethan Brooks,Noise-Cancelling Headset,Tech,3,179.55
+SO-11737,2026-07-22,West,Ava Patel,Wireless Mouse,Tech,16,29.9
+SO-11743,07/22/2026,north,Liam Turner,Wireless Mouse,Tech,18,28.4
+SO-11596,07/23/2026,West,Ava Patel,USB-C Dock,Tech,3,149.0
+SO-11599,2026-07-23,North,Emma Clarke,Copy Paper Box,Office,23,38.5
+SO-11626,2026-07-23,East,Mason Wright,Noise-Cancelling Headset,Tech,5,189.0
+SO-11636,07/23/2026,East,Olivia Chen,Noise-Cancelling Headset,Tech,6,170.1
+SO-11645,2026-07-23,East,Olivia Chen,Copy Paper Box,Office,13,34.65
+SO-11646,2026-07-23,North,Liam Turner,USB-C Dock,Tech,6,149.0
+SO-11670,2026-07-23,South,Sofia Ramos,Copy Paper Box,Office,7,38.5
+SO-11602,2026-07-24,West,Ava Patel,USB-C Dock,Tech,6,149.0
+SO-11698,2026-07-24,West,Ava Patel,Printer Toner,Office,7,72.0
+SO-11740,2026-07-24,East,Mason Wright,Standing Desk,Furniture,4,549.0
+SO-11614,2026-07-25,East,Olivia Chen,Bookshelf,Furniture,1,159.0
+SO-11630,2026-07-25,East,Mason Wright,Wireless Mouse,Tech,5,29.9
+SO-11667,2026-07-25,South,Noah Bennett,Noise-Cancelling Headset,Tech,2,189.0
+SO-11742,2026-07-25,North,Emma Clarke,Filing Cabinet,Furniture,3,179.1
+SO-11755,2026-07-25,West,Ethan Brooks,Ergonomic Chair,Furniture,6,289.0
+SO-11613,2026-07-26,East,Mason Wright,Wireless Mouse,Tech,3,26.91
+SO-11643,2026-07-26,East,Olivia Chen,Ergonomic Chair,Furniture,4,274.55
+SO-11689,2026-07-26,North,Emma Clarke,Notebook 5-Pack,Office,26,12.9
+SO-11723,2026-07-26,West,Ava Patel,Copy Paper Box,Office,28,38.5
+SO-11753,07/26/2026,West,Ethan Brooks,Bookshelf,Furniture,1,143.1
+SO-11597,2026-07-27,West,Ava Patel,Copy Paper Box,Office,1,38.5
+SO-11652,2026-07-27,North,Emma Clarke,Noise-Cancelling Headset,Tech,4,170.1
+SO-11696,2026-07-27,North,Emma Clarke,Printer Toner,Office,9,72.0
+SO-11725,2026-07-27,South,Sofia Ramos,Printer Toner,Office,2,68.4
+SO-11725,2026-07-27,South,Sofia Ramos,Printer Toner,Office,2,68.4
+SO-11739,07/27/2026,North,Liam Turner,27-inch Monitor,Tech,2,296.1
+SO-11747,2026-07-27,West,Ava Patel,Notebook 5-Pack,Office,30,11.61
+SO-11748,2026-07-27,South,Noah Bennett,Copy Paper Box,Office,6,36.57
+SO-11594,2026-07-28,East,Mason Wright,Copy Paper Box,Office,21,38.5
+SO-11732,07/28/2026,North,Emma Clarke,Wireless Mouse,Tech,12,29.9
+SO-11619,07/29/2026,South,Noah Bennett,Notebook 5-Pack,Office,35,11.61
+SO-11648,2026-07-29,South,Sofia Ramos,USB-C Dock,Tech,3,134.1
+SO-11661,2026-07-29,North,Emma Clarke,Wireless Mouse,Tech,6,29.9
+SO-11704,07/29/2026,East,Mason Wright,Standing Desk,Furniture,1,549.0
+SO-11706,2026-07-29,East,Olivia Chen,Laptop Pro 14,Tech,4,"$1,299.00"
+SO-11759,2026-07-29,North,Emma Clarke,Filing Cabinet,Furniture,3,199.0
+SO-11672,2026-07-30,South,Sofia Ramos,Noise-Cancelling Headset,Tech,4,189.0
+SO-11719,2026-07-30,North,Emma Clarke,Wireless Mouse,Tech,2,29.9
+SO-11622,2026-07-31,north,Emma Clarke,Printer Toner,Office,10,$72.00
+SO-11639,2026-07-31,West,Ethan Brooks,Ergonomic Chair,Furniture,5,289.0
+SO-11695,07/31/2026,North,Liam Turner,Laptop Pro 14,Tech,2,1299.0
+SO-11718,2026-07-31,North,Liam Turner,27-inch Monitor,Tech,3,329.0
+SO-11760,07/31/2026,East,Mason Wright,Copy Paper Box,Office,15,38.5
+SO-11788,2026-08-01,East,Olivia Chen,Printer Toner,Office,8,72.0
+SO-11807,2026-08-01,West,Ava Patel,Wireless Mouse,Tech,12,29.9
+SO-11814,08/01/2026,North,Emma Clarke,27-inch Monitor,Tech,1,312.55
+SO-11845,08/01/2026,East,Mason Wright,Noise-Cancelling Headset,Tech,3,170.1
+SO-11853,2026-08-01,East,Olivia Chen,Printer Toner,Office,5,64.8
+SO-11867,2026-08-01,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-11888,2026-08-01,East,Olivia Chen,27-inch Monitor,Tech,5,312.55
+SO-11909,2026-08-01,South,Sofia Ramos,Notebook 5-Pack,Office,27,12.25
+SO-11918,2026-08-01,East,Olivia Chen,USB-C Dock,Tech,2,149.0
+SO-11843,2026-08-02,North,Liam Turner,Printer Toner,Office,7,68.4
+SO-11897,2026-08-02,North,Emma Clarke,Noise-Cancelling Headset,Tech,3,179.55
+SO-11770,2026-08-03,West,Ethan Brooks,Notebook 5-Pack,Office,33,12.9
+SO-11781,2026-08-03,North,Liam Turner,USB-C Dock,Tech,7,$149.00
+SO-11799,2026-08-03,East,Olivia Chen,Notebook 5-Pack,Office,6,12.9
+SO-11818,2026-08-03,East,Olivia Chen,Copy Paper Box,Office,21,38.5
+SO-11860,2026-08-03,East,Mason Wright,Printer Toner,Office,1,72.0
+SO-11868,08/03/2026,South,Noah Bennett,27-inch Monitor,Tech,4,296.1
+SO-11943,2026-08-03,South,Sofia Ramos,Ergonomic Chair,Furniture,6,289.0
+SO-11952,2026-08-03,West,Ava Patel,USB-C Dock,Tech,5,$149.00
+SO-11789,08/04/2026,West,Ethan Brooks,Ergonomic Chair,Furniture,3,289.0
+SO-11800,2026-08-04,East,Mason Wright,Filing Cabinet,Furniture,3,189.05
+SO-11803,2026-08-04,North,Emma Clarke,Standing Desk,Furniture,4,521.55
+SO-11819,2026-08-04,North,Liam Turner,Notebook 5-Pack,Office,39,12.9
+SO-11841,2026-08-04,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-11863,2026-08-04,East,Olivia Chen,Copy Paper Box,Office,8,34.65
+SO-11882,2026-08-04,North,Emma Clarke,Printer Toner,Office,1,$68.40
+SO-11915,2026-08-04,East,Olivia Chen,Copy Paper Box,Office,23,38.5
+SO-11937,2026-08-04,West,Ava Patel,Copy Paper Box,Office,24,38.5
+SO-11851,2026-08-05,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-11887,2026-08-05, North ,Liam Turner,Ergonomic Chair,Furniture,2,289.0
+SO-11907,2026-08-05,West,Ethan Brooks,Printer Toner,Office,6,72.0
+SO-11916,2026-08-05,NORTH,Emma Clarke,27-inch Monitor,Tech,6,312.55
+SO-11784,2026-08-06,West,Ava Patel,Standing Desk,Furniture,3,549.0
+SO-11797,2026-08-06,South,Noah Bennett,USB-C Dock,Tech,7,134.1
+SO-11832,2026-08-06,East,Olivia Chen,Copy Paper Box,Office,24,38.5
+SO-11835,2026-08-06,West,Ava Patel,Printer Toner,Office,9,68.4
+SO-11852,2026-08-06,West,Ava Patel,Copy Paper Box,Office,7,38.5
+SO-11878,2026-08-06,North,Emma Clarke,Wireless Mouse,Tech,11,29.9
+SO-11891,2026-08-06,West,Ethan Brooks,Standing Desk,Furniture,3,494.1
+SO-11922,2026-08-06,North,Emma Clarke,27-inch Monitor,Tech,6,329.0
+SO-11791,2026-08-07,East,Olivia Chen,Bookshelf,Furniture,4,159.0
+SO-11817,2026-08-07,NORTH,Emma Clarke,Notebook 5-Pack,Office,25,12.9
+SO-11826,2026-08-07,East,Olivia Chen,Noise-Cancelling Headset,Tech,5,189.0
+SO-11827,2026-08-07,North,Liam Turner,Ergonomic Chair,Furniture,1,289.0
+SO-11834,2026-08-07,East,Mason Wright,Filing Cabinet,Furniture,2,189.05
+SO-11889,2026-08-07,East,Olivia Chen,Notebook 5-Pack,Office,13,12.9
+SO-11923,2026-08-07,East,Mason Wright,USB-C Dock,Tech,8,134.1
+SO-11929,2026-08-07,South,Noah Bennett,Printer Toner,Office,9,64.8
+SO-11773,08/08/2026,South,Noah Bennett,Bookshelf,Furniture,4,159.0
+SO-11828,2026-08-08,West,Ava Patel,Laptop Pro 14,Tech,2,1299.0
+SO-11902,2026-08-08,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-11935,2026-08-08,North,Emma Clarke,Printer Toner,Office,2,72.0
+SO-11935,2026-08-08,North,Emma Clarke,Printer Toner,Office,2,72.0
+SO-11942,2026-08-08,North,Emma Clarke,Standing Desk,Furniture,2,549.0
+SO-11855,08/09/2026,North,Emma Clarke,Copy Paper Box,Office,30,36.57
+SO-11885,2026-08-09,South,Noah Bennett,Ergonomic Chair,Furniture,4,274.55
+SO-11899,2026-08-09,SOUTH,Sofia Ramos,Printer Toner,Office,6,72.0
+SO-11921,2026-08-09,West,Ethan Brooks,Printer Toner,Office,10,64.8
+SO-11928,2026-08-09,West,Ava Patel,Standing Desk,Furniture,2,521.55
+SO-11954,2026-08-09,East,Olivia Chen,Laptop Pro 14,Tech,3,1234.05
+SO-11805,08/10/2026,WEST,Ethan Brooks,Copy Paper Box,Office,29,34.65
+SO-11894,2026-08-10,West,Ava Patel,Bookshelf,Furniture,1,159.0
+SO-11896,2026-08-10,West,Ethan Brooks,Filing Cabinet,Furniture,2,199.0
+SO-11898,2026-08-10,West,Ava Patel,27-inch Monitor,Tech,4,312.55
+SO-11905,2026-08-10,North,Liam Turner,Wireless Mouse,Tech,3,29.9
+SO-11920,2026-08-10,South,Noah Bennett,Laptop Pro 14,Tech,4,1299.0
+SO-11778,2026-08-11,West,Ava Patel,27-inch Monitor,Tech,5,329.0
+SO-11808,2026-08-11,West,Ethan Brooks,Ergonomic Chair,Furniture,2,260.1
+SO-11842,2026-08-11,East,Mason Wright,Filing Cabinet,Furniture,1,189.05
+SO-11844,2026-08-11,North,Liam Turner,Standing Desk,Furniture,2,494.1
+SO-11856,2026-08-11,North,Emma Clarke,Standing Desk,Furniture,4,549.0
+SO-11858,2026-08-11,South,Noah Bennett,Ergonomic Chair,Furniture,2,289.0
+SO-11914,2026-08-11,North,Emma Clarke,Printer Toner,Office,5,72.0
+SO-11940,2026-08-11,East,Olivia Chen,Laptop Pro 14,Tech,4,1299.0
+SO-11795,2026-08-12,East,Mason Wright,Standing Desk,Furniture,4,521.55
+SO-11829,2026-08-12,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-11838,2026-08-12,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-11859,2026-08-12,North,Emma Clarke,Copy Paper Box,Office,22,38.5
+SO-11881,2026-08-12,east,Mason Wright,Printer Toner,Office,10,64.8
+SO-11930,2026-08-12,South,Noah Bennett,Laptop Pro 14,Tech,4,1299.0
+SO-11934,2026-08-12,East,Mason Wright,Bookshelf,Furniture,1,143.1
+SO-11947,2026-08-12, North ,Liam Turner,Printer Toner,Office,10,64.8
+SO-11792,2026-08-13,East,Olivia Chen,Copy Paper Box,Office,12,34.65
+SO-11811,2026-08-13,West,Ethan Brooks,Wireless Mouse,Tech,17,29.9
+SO-11821,2026-08-13,North,Emma Clarke,Printer Toner,Office,8,72.0
+SO-11848,2026-08-13,South,Sofia Ramos,Wireless Mouse,Tech,18,29.9
+SO-11849,2026-08-13,East,Mason Wright,Ergonomic Chair,Furniture,6,289.0
+SO-11932,2026-08-13,North,Liam Turner,Printer Toner,Office,10,68.4
+SO-11951,2026-08-13,north,Liam Turner,Notebook 5-Pack,Office,5,12.9
+SO-11804,2026-08-14,West,Ethan Brooks,Wireless Mouse,Tech,1,$28.40
+SO-11837,2026-08-14,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-11901,2026-08-14,East,Olivia Chen,27-inch Monitor,Tech,3,329.0
+SO-11769,2026-08-15,South,Noah Bennett,Filing Cabinet,Furniture,3,199.0
+SO-11777,2026-08-15,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-11884,2026-08-15,East,Mason Wright,27-inch Monitor,Tech,6,$329.00
+SO-11908,08/15/2026,East,Mason Wright,Copy Paper Box,Office,14,38.5
+SO-11925,2026-08-15,North,Liam Turner,Wireless Mouse,Tech,14,$29.90
+SO-11927,08/15/2026,East,Olivia Chen,Laptop Pro 14,Tech,3,1169.1
+SO-11939,2026-08-15,East,Mason Wright,27-inch Monitor,Tech,5,329.0
+SO-11948,2026-08-15,West,Ethan Brooks,Printer Toner,Office,7,72.0
+SO-11875,2026-08-16,South,Sofia Ramos,USB-C Dock,Tech,3,149.0
+SO-11877,2026-08-16,North,Liam Turner,Ergonomic Chair,Furniture,6,260.1
+SO-11919,2026-08-16,East,Olivia Chen,Noise-Cancelling Headset,Tech,5,189.0
+SO-11924,2026-08-16,North,Liam Turner,Copy Paper Box,Office,22,34.65
+SO-11946,08/16/2026,North,Emma Clarke,Copy Paper Box,Office,27,34.65
+SO-11794,2026-08-17,West,Ava Patel,Laptop Pro 14,Tech,4,1299.0
+SO-11812,2026-08-17,North,Emma Clarke,USB-C Dock,Tech,7,149.0
+SO-11857,2026-08-17,East,Olivia Chen,Copy Paper Box,Office,19,34.65
+SO-11869,2026-08-17,North,Liam Turner,Wireless Mouse,Tech,2,28.4
+SO-11883,2026-08-17,East,Olivia Chen,Notebook 5-Pack,Office,10,12.9
+SO-11809,2026-08-18,West,Ethan Brooks,Notebook 5-Pack,Office,13,12.9
+SO-11840,2026-08-18,South,Sofia Ramos,Printer Toner,Office,7,72.0
+SO-11906,2026-08-18,NORTH,Emma Clarke,Notebook 5-Pack,Office,25,12.25
+SO-11941,2026-08-18,South,Sofia Ramos,Notebook 5-Pack,Office,13,11.61
+SO-11950,2026-08-18,North,Liam Turner,USB-C Dock,Tech,1,134.1
+SO-11955,2026-08-18,West,Ethan Brooks,Laptop Pro 14,Tech,1,1299.0
+SO-11815,2026-08-19,East,Mason Wright,Ergonomic Chair,Furniture,1,289.0
+SO-11873,2026-08-19,North,Liam Turner,Laptop Pro 14,Tech,2,1299.0
+SO-11926,2026-08-19,North,Liam Turner,Noise-Cancelling Headset,Tech,1,189.0
+SO-11953,08/19/2026,South,Noah Bennett,Laptop Pro 14,Tech,3,1299.0
+SO-11771,2026-08-20,South,Sofia Ramos,Printer Toner,Office,4,72.0
+SO-11776,2026-08-20,South,Noah Bennett,Laptop Pro 14,Tech,2,1299.0
+SO-11825,2026-08-20,west,Ava Patel,Notebook 5-Pack,Office,11,12.25
+SO-11833,08/20/2026,South,Noah Bennett,Printer Toner,Office,6,68.4
+SO-11871,2026-08-20,North,Liam Turner,USB-C Dock,Tech,8,149.0
+SO-11767,2026-08-21,West,Ava Patel,Notebook 5-Pack,Office,8,12.25
+SO-11774,2026-08-21,East,Mason Wright,Wireless Mouse,Tech,4,28.4
+SO-11798,2026-08-21,North,Liam Turner,Copy Paper Box,Office,23,36.57
+SO-11801,2026-08-21,East,Mason Wright,Notebook 5-Pack,Office,33,12.9
+SO-11816,2026-08-21,East,Mason Wright,27-inch Monitor,Tech,2,312.55
+SO-11823,2026-08-21,East,Mason Wright,Wireless Mouse,Tech,6,29.9
+SO-11870,2026-08-21,South,Noah Bennett,Wireless Mouse,Tech,14,29.9
+SO-11872,2026-08-21,East,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-11806,2026-08-22,East,Olivia Chen,Noise-Cancelling Headset,Tech,1,$179.55
+SO-11824,2026-08-22,North,Emma Clarke,Laptop Pro 14,Tech,1,"$1,299.00"
+SO-11865,2026-08-22,North,Liam Turner,Noise-Cancelling Headset,Tech,5,189.0
+SO-11879,2026-08-22,West,Ethan Brooks,27-inch Monitor,Tech,4,329.0
+SO-11895,2026-08-22,South,Sofia Ramos,Copy Paper Box,Office,17,36.57
+SO-11900,2026-08-22,West,Ava Patel,Copy Paper Box,Office,3,34.65
+SO-11912,2026-08-22,East,Olivia Chen,Wireless Mouse,Tech,15,28.4
+SO-11785,2026-08-23,West,Ava Patel,Standing Desk,Furniture,4,494.1
+SO-11839,2026-08-23,North,Liam Turner,Wireless Mouse,Tech,7,29.9
+SO-11876,2026-08-23,West,Ethan Brooks,Wireless Mouse,Tech,1,29.9
+SO-11787,2026-08-24,West,Ava Patel,Bookshelf,Furniture,3,159.0
+SO-11866,2026-08-24,East,Olivia Chen,27-inch Monitor,Tech,2,329.0
+SO-11917,2026-08-24,East,Olivia Chen,27-inch Monitor,Tech,4,329.0
+SO-11775,2026-08-25,North,Liam Turner,Copy Paper Box,Office,7,36.57
+SO-11862,2026-08-25,South,Noah Bennett,Wireless Mouse,Tech,10,26.91
+SO-11933,2026-08-25,East,Mason Wright,Bookshelf,Furniture,2,143.1
+SO-11936,2026-08-25,South,Sofia Ramos,Copy Paper Box,Office,25,38.5
+SO-11779,08/26/2026,East,Mason Wright,Laptop Pro 14,Tech,4,1299.0
+SO-11810,08/26/2026,East,Mason Wright,Wireless Mouse,Tech,5,29.9
+SO-11810,08/26/2026,East,Mason Wright,Wireless Mouse,Tech,5,29.9
+SO-11904,2026-08-26,South,Sofia Ramos,Bookshelf,Furniture,2,159.0
+SO-11910,2026-08-26,North,Emma Clarke,27-inch Monitor,Tech,5,329.0
+SO-11931,2026-08-26,East,Mason Wright,Printer Toner,Office,7,72.0
+SO-11944,2026-08-26,West,Ava Patel,27-inch Monitor,Tech,1,329.0
+SO-11949,2026-08-26,West,Ethan Brooks,Bookshelf,Furniture,1,159.0
+SO-11783,2026-08-27,North,Emma Clarke,Notebook 5-Pack,Office,6,12.9
+SO-11786,2026-08-27,South,Sofia Ramos,Copy Paper Box,Office,18,36.57
+SO-11813,2026-08-27,West,Ava Patel,Filing Cabinet,Furniture,2,$199.00
+SO-11836,08/27/2026,North,Liam Turner,Wireless Mouse,Tech,13,26.91
+SO-11836,08/27/2026,North,Liam Turner,Wireless Mouse,Tech,13,26.91
+SO-11847,2026-08-27,East,Mason Wright,27-inch Monitor,Tech,6,$329.00
+SO-11850,2026-08-27,West,Ethan Brooks,Ergonomic Chair,Furniture,5,289.0
+SO-11861,2026-08-27,North,Liam Turner,Copy Paper Box,Office,7,36.57
+SO-11893,2026-08-27,North,Emma Clarke,Bookshelf,Furniture,4,159.0
+SO-11913,08/27/2026,West,Ava Patel,Printer Toner,Office,2,68.4
+SO-11768,2026-08-28,West,Ethan Brooks,Ergonomic Chair,Furniture,4,289.0
+SO-11768,2026-08-28,West,Ethan Brooks,Ergonomic Chair,Furniture,4,289.0
+SO-11772,2026-08-28,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-11782,2026-08-28,North,Liam Turner,Printer Toner,Office,9,68.4
+SO-11802,2026-08-28,East,Mason Wright,Laptop Pro 14,Tech,2,1299.0
+SO-11864,2026-08-28, West ,Ava Patel,Wireless Mouse,Tech,,28.4
+SO-11945,2026-08-28,South,Sofia Ramos,Wireless Mouse,Tech,11,26.91
+SO-11820,08/29/2026,North,Emma Clarke,27-inch Monitor,Tech,1,329.0
+SO-11846,2026-08-29,North,Emma Clarke,Notebook 5-Pack,Office,22,$12.90
+SO-11874,2026-08-29,North,Liam Turner,27-inch Monitor,Tech,4,329.0
+SO-11880,2026-08-29,South,Sofia Ramos,USB-C Dock,Tech,3,149.0
+SO-11886,08/29/2026,North,Liam Turner,Wireless Mouse,Tech,4,29.9
+SO-11911,2026-08-29,East,Mason Wright,27-inch Monitor,Tech,1,296.1
+SO-11796,2026-08-30,East,Olivia Chen,Copy Paper Box,Office,15,38.5
+SO-11903,2026-08-30,South,Noah Bennett,Notebook 5-Pack,Office,39,12.9
+SO-11938,2026-08-30,West,Ava Patel,Copy Paper Box,Office,2,36.57
+SO-11780,2026-08-31, North ,Liam Turner,USB-C Dock,Tech,5,149.0
+SO-11790,2026-08-31,East,Olivia Chen,Laptop Pro 14,Tech,4,1234.05
+SO-11793,2026-08-31,North,Emma Clarke,USB-C Dock,Tech,6,134.1
+SO-11822,2026-08-31,WEST,Ava Patel,Wireless Mouse,Tech,7,28.4
+SO-11830,2026-08-31,East,Mason Wright,Ergonomic Chair,Furniture,2,260.1
+SO-11831,2026-08-31,North,Liam Turner,USB-C Dock,Tech,2,149.0
+SO-11854,2026-08-31,West,Ethan Brooks,Laptop Pro 14,Tech,1,1299.0
+SO-11890,2026-08-31,West,Ethan Brooks,Wireless Mouse,Tech,18,29.9
+SO-11892,2026-08-31,West,Ethan Brooks,Wireless Mouse,Tech,10,28.4
+SO-11975,2026-09-01,South,Noah Bennett,Copy Paper Box,Office,27,38.5
+SO-11977,2026-09-01,North,Liam Turner,Filing Cabinet,Furniture,2,189.05
+SO-11987,2026-09-01,West,Ava Patel,Printer Toner,Office,5,64.8
+SO-12000,2026-09-01,South,Sofia Ramos,Notebook 5-Pack,Office,24,11.61
+SO-12001,2026-09-01,North,Emma Clarke,Notebook 5-Pack,Office,39,11.61
+SO-12016,2026-09-01,North,Emma Clarke,Printer Toner,Office,2,68.4
+SO-12056,2026-09-01,East,Olivia Chen,27-inch Monitor,Tech,4,296.1
+SO-12060,2026-09-01,South,Sofia Ramos,Ergonomic Chair,Furniture,1,289.0
+SO-12065,2026-09-01,East,Olivia Chen,Copy Paper Box,Office,24,36.57
+SO-12104,2026-09-01,West,Ethan Brooks,Copy Paper Box,Office,28,38.5
+SO-12146,2026-09-01,North,Liam Turner,Ergonomic Chair,Furniture,2,289.0
+SO-12151,2026-09-01,North,Emma Clarke,Ergonomic Chair,Furniture,5,260.1
+SO-11974,2026-09-02,EAST,Olivia Chen,27-inch Monitor,Tech,6,329.0
+SO-11989,09/02/2026,South,Noah Bennett,Standing Desk,Furniture,4,521.55
+SO-11990,09/02/2026,east,Olivia Chen,Ergonomic Chair,Furniture,3,274.55
+SO-12109,2026-09-02,East,Mason Wright,Filing Cabinet,Furniture,2,189.05
+SO-12109,2026-09-02,East,Mason Wright,Filing Cabinet,Furniture,2,189.05
+SO-12113,2026-09-02, North ,Liam Turner,Printer Toner,Office,1,$72.00
+SO-12155,2026-09-02,North,Liam Turner,Noise-Cancelling Headset,Tech,4,179.55
+SO-11966,2026-09-03,West,Ava Patel,Noise-Cancelling Headset,Tech,2,$189.00
+SO-11998,2026-09-03,East,Mason Wright,Printer Toner,Office,5,68.4
+SO-12009,2026-09-03,East,Mason Wright,Printer Toner,Office,9,72.0
+SO-12022,2026-09-03,East,Olivia Chen,Bookshelf,Furniture,1,143.1
+SO-12064,2026-09-03,West,Ava Patel,Printer Toner,Office,9,72.0
+SO-12088,2026-09-03,South,Sofia Ramos,USB-C Dock,Tech,5,141.55
+SO-12097,2026-09-03,North,Emma Clarke,Copy Paper Box,Office,5,38.5
+SO-12098,2026-09-03,North,Emma Clarke,Printer Toner,Office,3,72.0
+SO-12101,2026-09-03,South,Sofia Ramos,Ergonomic Chair,Furniture,2,260.1
+SO-12131,2026-09-03,East,Olivia Chen,Copy Paper Box,Office,9,38.5
+SO-11958,09/04/2026,South,Sofia Ramos,27-inch Monitor,Tech,4,329.0
+SO-12066,2026-09-04,West,Ethan Brooks,Bookshelf,Furniture,2,159.0
+SO-11984,2026-09-05,South,Sofia Ramos,Notebook 5-Pack,Office,18,12.9
+SO-11992,2026-09-05,East,Olivia Chen,Noise-Cancelling Headset,Tech,6,179.55
+SO-12026,2026-09-05,south,Sofia Ramos,Wireless Mouse,Tech,7,29.9
+,,,,,,,
+SO-12085,2026-09-05,West,Ethan Brooks,Bookshelf,Furniture,2,159.0
+SO-11978,2026-09-06,South,Noah Bennett,USB-C Dock,Tech,1,141.55
+SO-12087,2026-09-06,South,Noah Bennett,Notebook 5-Pack,Office,1,12.9
+SO-12090,2026-09-06,North,Emma Clarke,Filing Cabinet,Furniture,2,179.1
+SO-12121,2026-09-06,WEST,Ava Patel,27-inch Monitor,Tech,2,329.0
+SO-12135,2026-09-06,South,Noah Bennett,Wireless Mouse,Tech,10,29.9
+SO-11980,2026-09-07,West,Ava Patel,Notebook 5-Pack,Office,22,11.61
+SO-12032,09/07/2026, South ,Noah Bennett,Printer Toner,Office,10,72.0
+SO-12043,2026-09-07,South,Sofia Ramos,Ergonomic Chair,Furniture,1,260.1
+SO-12051,2026-09-07,North,Liam Turner,Noise-Cancelling Headset,Tech,1,170.1
+SO-12055,2026-09-07,North,Emma Clarke,Printer Toner,Office,10,64.8
+SO-12058,2026-09-07,North,Emma Clarke,USB-C Dock,Tech,7,134.1
+SO-12081,2026-09-07,North,Liam Turner,Copy Paper Box,Office,28,38.5
+SO-12105,2026-09-07,South,Sofia Ramos,Copy Paper Box,Office,13,36.57
+SO-12106,2026-09-07,South,Noah Bennett,Notebook 5-Pack,Office,24,12.9
+SO-12117,2026-09-07,West,Ava Patel,Copy Paper Box,Office,24,38.5
+SO-12130,09/07/2026,South,Noah Bennett,Printer Toner,Office,9,72.0
+SO-11964,2026-09-08,North,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-11973,2026-09-08,North,Liam Turner,27-inch Monitor,Tech,6,296.1
+SO-11985,2026-09-08,West,Ethan Brooks,Notebook 5-Pack,Office,22,12.9
+SO-11993,2026-09-08,North,Emma Clarke,Printer Toner,Office,1,72.0
+SO-11997,2026-09-08,East,Olivia Chen,27-inch Monitor,Tech,3,329.0
+SO-12047,2026-09-08,South,Sofia Ramos,Standing Desk,Furniture,3,549.0
+SO-12070,2026-09-08,North,Liam Turner,Copy Paper Box,Office,1,34.65
+SO-12169,2026-09-08,South,Sofia Ramos,Laptop Pro 14,Tech,1,1234.05
+SO-11983,2026-09-09,East,Olivia Chen,Bookshelf,Furniture,4,143.1
+SO-11995,2026-09-09,East,Olivia Chen,USB-C Dock,Tech,6,149.0
+SO-12012,2026-09-09,East,Mason Wright,Copy Paper Box,Office,11,34.65
+SO-12053,2026-09-09,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,$189.00
+SO-12094,09/09/2026,East,Olivia Chen,27-inch Monitor,Tech,3,329.0
+SO-12096,2026-09-09,East,Mason Wright,Printer Toner,Office,4,64.8
+SO-12118,2026-09-09,North,Emma Clarke,USB-C Dock,Tech,7,149.0
+SO-12125,2026-09-09,North,Emma Clarke,Copy Paper Box,Office,19,38.5
+SO-12126,2026-09-09,South,Sofia Ramos,USB-C Dock,Tech,3,149.0
+SO-12127,2026-09-09,West,Ava Patel,Noise-Cancelling Headset,Tech,4,179.55
+SO-12163,2026-09-09,North,Emma Clarke,Wireless Mouse,Tech,17,26.91
+SO-12167,2026-09-09,North,Emma Clarke,Printer Toner,Office,5,64.8
+SO-12177,2026-09-09,South,Sofia Ramos,Standing Desk,Furniture,3,521.55
+SO-11976,09/10/2026,North,Emma Clarke,Noise-Cancelling Headset,Tech,1,$179.55
+SO-12054,2026-09-10,North,Liam Turner,Filing Cabinet,Furniture,2,199.0
+SO-12119,2026-09-10,north,Liam Turner,Copy Paper Box,Office,18,38.5
+SO-12168,2026-09-10,SOUTH,Sofia Ramos,Laptop Pro 14,Tech,1,1299.0
+SO-11963,2026-09-11,West,Ethan Brooks,Wireless Mouse,Tech,2,29.9
+SO-11999,2026-09-11, North ,Liam Turner,Wireless Mouse,Tech,12,29.9
+SO-12006,2026-09-11,South,Noah Bennett,Ergonomic Chair,Furniture,2,274.55
+SO-12007,2026-09-11, West ,Ava Patel,Noise-Cancelling Headset,Tech,3,189.0
+SO-12027,2026-09-11,South,Sofia Ramos,Noise-Cancelling Headset,Tech,3,$170.10
+SO-12073,2026-09-11,South,Sofia Ramos,Bookshelf,Furniture,1,159.0
+SO-12099,2026-09-11,East,Mason Wright,Standing Desk,Furniture,1,521.55
+SO-12107,2026-09-11,East,Olivia Chen,Laptop Pro 14,Tech,3,1299.0
+SO-12152,2026-09-11,North,Emma Clarke,USB-C Dock,Tech,7,149.0
+SO-11967,2026-09-12,South,Sofia Ramos,Noise-Cancelling Headset,Tech,3,189.0
+SO-11986,2026-09-12,east,Mason Wright,Laptop Pro 14,Tech,3,"$1,299.00"
+SO-11996,2026-09-12,East,Olivia Chen,Laptop Pro 14,Tech,1,1299.0
+SO-12049,2026-09-12,North,Liam Turner,Notebook 5-Pack,Office,9,12.9
+SO-12172,2026-09-12,East,Olivia Chen,Laptop Pro 14,Tech,2,1299.0
+SO-12003,2026-09-13,South,Sofia Ramos,Bookshelf,Furniture,1,159.0
+SO-12023,2026-09-13,East,Mason Wright,Wireless Mouse,Tech,15,28.4
+SO-12061,2026-09-13,East,Mason Wright,Ergonomic Chair,Furniture,1,260.1
+SO-12080,2026-09-13,West,Ava Patel,Wireless Mouse,Tech,1,29.9
+SO-12083,2026-09-13,North,Emma Clarke,Printer Toner,Office,5,68.4
+SO-12140,2026-09-13,South,Sofia Ramos,Noise-Cancelling Headset,Tech,2,170.1
+SO-12149,2026-09-13,North,Liam Turner,Copy Paper Box,Office,29,$38.50
+SO-12154,2026-09-13,North,Emma Clarke,Standing Desk,Furniture,4,549.0
+SO-12158,2026-09-13,NORTH,Liam Turner,27-inch Monitor,Tech,1,296.1
+SO-12173,2026-09-13,East,Olivia Chen,Copy Paper Box,Office,11,38.5
+SO-12174,2026-09-13,WEST,Ava Patel,Copy Paper Box,Office,6,36.57
+SO-12052,2026-09-14,East,Mason Wright,Wireless Mouse,Tech,15,29.9
+SO-12067,2026-09-14,West,Ava Patel,Printer Toner,Office,5,72.0
+SO-12077,2026-09-14,North,Emma Clarke,Copy Paper Box,Office,9,34.65
+SO-12145,2026-09-14,South,Sofia Ramos,USB-C Dock,Tech,4,149.0
+SO-12159,2026-09-14,South,Sofia Ramos,Notebook 5-Pack,Office,20,12.25
+SO-12164,2026-09-14,West,Ava Patel,Copy Paper Box,Office,15,36.57
+SO-12166,2026-09-14,West,Ethan Brooks,Copy Paper Box,Office,22,$38.50
+SO-11962,2026-09-15,East,Olivia Chen,Ergonomic Chair,Furniture,5,289.0
+SO-11991,2026-09-15,West,Ava Patel,Ergonomic Chair,Furniture,3,289.0
+SO-12034,2026-09-15,West,Ethan Brooks,Copy Paper Box,Office,16,38.5
+SO-12128,2026-09-15,South,Sofia Ramos,Wireless Mouse,Tech,2,26.91
+SO-12136,2026-09-15,North,Liam Turner,Ergonomic Chair,Furniture,5,289.0
+SO-12143,2026-09-15,South,Noah Bennett,Copy Paper Box,Office,6,38.5
+SO-12165,2026-09-15,North,Liam Turner,27-inch Monitor,Tech,1,312.55
+SO-11959,2026-09-16,East,Mason Wright,Filing Cabinet,Furniture,1,189.05
+SO-11972,2026-09-16,South,Noah Bennett,Wireless Mouse,Tech,3,26.91
+SO-12028,2026-09-16,north,Liam Turner,27-inch Monitor,Tech,2,329.0
+SO-12082,2026-09-16,West,Ava Patel,Laptop Pro 14,Tech,4,1234.05
+SO-12137,09/16/2026,East,Olivia Chen,Standing Desk,Furniture,3,521.55
+SO-12153,2026-09-16,West,Ava Patel,Filing Cabinet,Furniture,1,199.0
+SO-12004,2026-09-17,West,Ethan Brooks,Notebook 5-Pack,Office,35,11.61
+SO-12013,2026-09-17,South,Sofia Ramos,27-inch Monitor,Tech,5,312.55
+SO-12025,2026-09-17,North,Liam Turner,Wireless Mouse,Tech,10,26.91
+SO-12042,2026-09-17,North,Emma Clarke,Filing Cabinet,Furniture,1,199.0
+SO-12075,2026-09-17,North,Emma Clarke,Filing Cabinet,Furniture,1,189.05
+SO-12084,2026-09-17,North,Liam Turner,Notebook 5-Pack,Office,40,12.9
+SO-12086,2026-09-17,West,Ethan Brooks,Notebook 5-Pack,Office,31,12.9
+SO-12132,09/17/2026,NORTH,Emma Clarke,Noise-Cancelling Headset,Tech,4,189.0
+SO-11960,2026-09-18,North,Liam Turner,Laptop Pro 14,Tech,1,1299.0
+SO-12030,2026-09-18,East,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-12031,2026-09-18,East,Olivia Chen,Laptop Pro 14,Tech,1,1169.1
+SO-12069,2026-09-18,North,Liam Turner,27-inch Monitor,Tech,4,312.55
+SO-12078,2026-09-18,East,Mason Wright,Copy Paper Box,Office,11,36.57
+SO-12089,2026-09-18,East,Mason Wright,USB-C Dock,Tech,6,149.0
+SO-12093,2026-09-18,East,Olivia Chen,Wireless Mouse,Tech,3,29.9
+SO-12129,2026-09-18,West,Ava Patel,Bookshelf,Furniture,4,159.0
+SO-11965,2026-09-19,East,Olivia Chen,Printer Toner,Office,1,$64.80
+SO-11994,2026-09-19,North,Liam Turner,Ergonomic Chair,Furniture,1,$274.55
+SO-12019,2026-09-19,South,Sofia Ramos,Printer Toner,Office,1,72.0
+SO-12074,2026-09-19,north,Emma Clarke,USB-C Dock,Tech,2,141.55
+SO-12092,2026-09-19,North,Liam Turner,Printer Toner,Office,6,68.4
+SO-12095,2026-09-19,EAST,Mason Wright,27-inch Monitor,Tech,3,296.1
+SO-12133,2026-09-19,North,Liam Turner,Bookshelf,Furniture,1,159.0
+SO-12133,2026-09-19,North,Liam Turner,Bookshelf,Furniture,1,159.0
+SO-12010,2026-09-20,East,Olivia Chen,Notebook 5-Pack,Office,29,12.25
+SO-12029,2026-09-20,West,Ava Patel,Noise-Cancelling Headset,Tech,2,189.0
+SO-12050,2026-09-20,East,Mason Wright,Ergonomic Chair,Furniture,6,274.55
+SO-12108,2026-09-20,West,Ethan Brooks,Ergonomic Chair,Furniture,1,289.0
+SO-12150,2026-09-20,North,Liam Turner,Copy Paper Box,Office,18,36.57
+SO-12160,2026-09-20,South,Noah Bennett,Copy Paper Box,Office,17,38.5
+SO-12176,09/20/2026,West,Ava Patel,Bookshelf,Furniture,1,159.0
+SO-12037,2026-09-21,North,Emma Clarke,Wireless Mouse,Tech,11,28.4
+SO-12039,2026-09-21,West,Ava Patel,Copy Paper Box,Office,8,38.5
+SO-12044,2026-09-21,South,Sofia Ramos,Noise-Cancelling Headset,Tech,6,179.55
+SO-12062,2026-09-21,North,Emma Clarke,Noise-Cancelling Headset,Tech,1,189.0
+SO-12063,2026-09-21,North,Liam Turner,27-inch Monitor,Tech,2,312.55
+SO-12068,2026-09-21,North,Liam Turner,USB-C Dock,Tech,7,149.0
+SO-12091,2026-09-21,East,Olivia Chen,Printer Toner,Office,4,72.0
+SO-12157,2026-09-21, West ,Ethan Brooks,Wireless Mouse,Tech,1,29.9
+SO-12170,2026-09-21,East,Mason Wright,27-inch Monitor,Tech,4,329.0
+SO-11968,2026-09-22,North,Emma Clarke,Wireless Mouse,Tech,3,29.9
+SO-12040,2026-09-22,North,Emma Clarke,Wireless Mouse,Tech,9,29.9
+SO-12048,2026-09-22,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-12103,2026-09-22,South,Sofia Ramos,Copy Paper Box,Office,18,38.5
+SO-12116,2026-09-22,East,Mason Wright,Wireless Mouse,Tech,14,29.9
+SO-12138,2026-09-22,East,Mason Wright,Bookshelf,Furniture,3,151.05
+SO-11961,2026-09-23,East,Olivia Chen,Laptop Pro 14,Tech,4,1234.05
+SO-11969,2026-09-23,North,Liam Turner,Ergonomic Chair,Furniture,2,274.55
+SO-11971,2026-09-23,North,Emma Clarke,Notebook 5-Pack,Office,4,12.9
+SO-12008,2026-09-23,North,Emma Clarke,Wireless Mouse,Tech,15,29.9
+SO-12018,2026-09-23,North,Liam Turner,Copy Paper Box,Office,4,38.5
+SO-12021,2026-09-23,East,Olivia Chen,Standing Desk,Furniture,2,521.55
+SO-12079,2026-09-23,west,Ethan Brooks,USB-C Dock,Tech,2,141.55
+SO-12100,2026-09-23,North,Liam Turner,Wireless Mouse,Tech,12,28.4
+SO-12112,2026-09-23,South,Sofia Ramos,Filing Cabinet,Furniture,1,199.0
+SO-12141,09/23/2026,East,Olivia Chen,Notebook 5-Pack,Office,37,11.61
+SO-12147,2026-09-23,South,Sofia Ramos,Standing Desk,Furniture,4,521.55
+SO-12171,2026-09-23,West,Ava Patel,Wireless Mouse,Tech,17,28.4
+SO-11957,2026-09-24,West,Ava Patel,Notebook 5-Pack,Office,36,11.61
+SO-12035,2026-09-24,North,Emma Clarke,Printer Toner,Office,6,72.0
+SO-12036,2026-09-24,West,Ava Patel,Copy Paper Box,Office,11,38.5
+SO-12041,2026-09-24,South,Noah Bennett,Ergonomic Chair,Furniture,3,289.0
+SO-12076,2026-09-24,East,Mason Wright,Noise-Cancelling Headset,Tech,2,189.0
+SO-12111,2026-09-24, East ,Olivia Chen,Ergonomic Chair,Furniture,1,274.55
+SO-12124,2026-09-24,West,Ava Patel,Filing Cabinet,Furniture,2,199.0
+SO-11970,09/25/2026,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,189.0
+SO-12015,2026-09-25,North,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-12015,2026-09-25,North,Liam Turner,27-inch Monitor,Tech,6,329.0
+SO-12024,2026-09-25,North,Emma Clarke,Copy Paper Box,Office,8,38.5
+SO-12057,09/25/2026,North,Emma Clarke,Copy Paper Box,Office,21,38.5
+SO-12071,2026-09-25,West,Ava Patel,Copy Paper Box,Office,15,38.5
+SO-12072,2026-09-25,North,Emma Clarke,Notebook 5-Pack,Office,29,12.25
+SO-12122,2026-09-25,South,Sofia Ramos,Filing Cabinet,Furniture,1,199.0
+SO-12139,2026-09-25,North,Emma Clarke,Notebook 5-Pack,Office,27,12.9
+SO-12148,2026-09-25,East,Olivia Chen,Printer Toner,Office,7,72.0
+SO-12162,2026-09-25,West,Ethan Brooks,Notebook 5-Pack,Office,6,11.61
+SO-11981,2026-09-26,East,Olivia Chen,Filing Cabinet,Furniture,1,189.05
+SO-12002,2026-09-26,North,Liam Turner,Noise-Cancelling Headset,Tech,2,170.1
+SO-12005,2026-09-26,East,Olivia Chen,Printer Toner,Office,10,$64.80
+SO-12046,2026-09-26,West,Ethan Brooks,Copy Paper Box,Office,20,36.57
+SO-12142,2026-09-26, East ,Olivia Chen,27-inch Monitor,Tech,1,329.0
+SO-12033,2026-09-27,South,Noah Bennett,Standing Desk,Furniture,3,549.0
+SO-12102,2026-09-27,West,Ethan Brooks,Printer Toner,Office,9,72.0
+SO-12120,2026-09-27,South,Sofia Ramos,Wireless Mouse,Tech,19,26.91
+SO-12156,2026-09-27,North,Emma Clarke,Wireless Mouse,Tech,15,26.91
+SO-12175,2026-09-27,West,Ethan Brooks,Noise-Cancelling Headset,Tech,1,189.0
+SO-11982,09/28/2026,East,Mason Wright,Notebook 5-Pack,Office,28,12.9
+SO-11988,2026-09-28,East,Olivia Chen,Wireless Mouse,Tech,15,29.9
+SO-12110,2026-09-28,East,Mason Wright,Notebook 5-Pack,Office,39,12.9
+SO-12114,2026-09-28,South,Sofia Ramos,Printer Toner,Office,10,72.0
+SO-12134,2026-09-28,South,Sofia Ramos,27-inch Monitor,Tech,2,329.0
+SO-12161,2026-09-28,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-12161,2026-09-28,South,Noah Bennett,Standing Desk,Furniture,1,549.0
+SO-11956,2026-09-29,North,Emma Clarke,27-inch Monitor,Tech,3,296.1
+SO-12014,09/29/2026,South,Sofia Ramos,Printer Toner,Office,8,72.0
+SO-12017,2026-09-29,North,Liam Turner,Printer Toner,Office,6,68.4
+,,,,,,,
+SO-12045,09/29/2026,South,Noah Bennett,Ergonomic Chair,Furniture,2,289.0
+SO-12115,2026-09-29,East,Olivia Chen,Wireless Mouse,Tech,19,29.9
+SO-12123,2026-09-29,North,Emma Clarke,Wireless Mouse,Tech,10,29.9
+SO-12144,2026-09-29,South,Sofia Ramos,Copy Paper Box,Office,10,38.5
+SO-11979,2026-09-30,East,Olivia Chen,Laptop Pro 14,Tech,3,1299.0
+SO-12011,2026-09-30,West,Ava Patel,USB-C Dock,Tech,7,149.0
+SO-12020,2026-09-30,North,Liam Turner,Notebook 5-Pack,Office,29,12.25
+SO-12038,2026-09-30,west,Ethan Brooks,Laptop Pro 14,Tech,2,1299.0
+SO-12059,2026-09-30,West,Ethan Brooks,USB-C Dock,Tech,6,149.0
+SO-12178,09/30/2026,East,Olivia Chen,Laptop Pro 14,Tech,3,1234.05
+SO-12187,2026-10-01,North,Emma Clarke,Wireless Mouse,Tech,20,28.4
+SO-12196,10/01/2026,West,Ethan Brooks,USB-C Dock,Tech,8,149.0
+SO-12207,10/01/2026,North,Emma Clarke,Copy Paper Box,Office,22,38.5
+SO-12224,2026-10-01,South,Sofia Ramos,Ergonomic Chair,Furniture,3,274.55
+SO-12241,2026-10-01,West,Ethan Brooks,Notebook 5-Pack,Office,33,12.25
+SO-12250,2026-10-01,South,Noah Bennett,Bookshelf,Furniture,1,151.05
+SO-12274,2026-10-01,East,Olivia Chen,Laptop Pro 14,Tech,2,"$1,234.05"
+SO-12281,2026-10-01,West,Ava Patel,USB-C Dock,Tech,8,149.0
+SO-12287,2026-10-01,north,Emma Clarke,27-inch Monitor,Tech,4,312.55
+SO-12291,2026-10-01,North,Emma Clarke,Noise-Cancelling Headset,Tech,5,170.1
+SO-12295,2026-10-01,West,Ethan Brooks,27-inch Monitor,Tech,2,329.0
+SO-12325,2026-10-01,South,Sofia Ramos,Copy Paper Box,Office,9,38.5
+SO-12389,2026-10-01,South,Sofia Ramos,27-inch Monitor,Tech,5,329.0
+SO-12390,10/01/2026,North,Emma Clarke,Wireless Mouse,Tech,1,29.9
+SO-12292,2026-10-02,North,Emma Clarke,Copy Paper Box,Office,28,38.5
+SO-12297,2026-10-02,West,Ava Patel,Wireless Mouse,Tech,14,28.4
+SO-12400,2026-10-02,West,Ethan Brooks,Ergonomic Chair,Furniture,1,274.55
+SO-12408,2026-10-02,South,Noah Bennett,Laptop Pro 14,Tech,4,1299.0
+SO-12415,2026-10-02,North,Emma Clarke,Notebook 5-Pack,Office,10,12.25
+SO-12260,2026-10-03,East,Mason Wright,Bookshelf,Furniture,2,143.1
+SO-12286,2026-10-03,West,Ethan Brooks,Wireless Mouse,Tech,16,29.9
+SO-12299,2026-10-03,North,Liam Turner,Wireless Mouse,Tech,3,29.9
+SO-12374,2026-10-03,East,Olivia Chen,Ergonomic Chair,Furniture,1,274.55
+SO-12376,2026-10-03,West,Ethan Brooks,27-inch Monitor,Tech,5,329.0
+SO-12180,2026-10-04,North,Emma Clarke,Standing Desk,Furniture,2,549.0
+SO-12190,2026-10-04,North,Liam Turner,Filing Cabinet,Furniture,1,199.0
+SO-12209,2026-10-04,West,Ava Patel,Notebook 5-Pack,Office,29,11.61
+SO-12254,2026-10-04,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-12258,2026-10-04,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-12265,2026-10-04,East,Mason Wright,Notebook 5-Pack,Office,28,12.9
+SO-12305,2026-10-04,North,Emma Clarke,Wireless Mouse,Tech,8,26.91
+SO-12317,2026-10-04,North,Liam Turner,Standing Desk,Furniture,2,549.0
+SO-12348,10/04/2026,East,Mason Wright,Laptop Pro 14,Tech,4,1299.0
+SO-12381,10/04/2026,north,Emma Clarke,Copy Paper Box,Office,20,34.65
+SO-12401,2026-10-04,West,Ava Patel,Notebook 5-Pack,Office,21,11.61
+SO-12213,2026-10-05, North ,Emma Clarke,Wireless Mouse,Tech,16,29.9
+SO-12216,2026-10-05,East,Mason Wright,Bookshelf,Furniture,1,159.0
+SO-12219,10/05/2026,North,Liam Turner,Printer Toner,Office,7,72.0
+SO-12329,2026-10-05,West,Ethan Brooks,27-inch Monitor,Tech,1,329.0
+SO-12361,2026-10-05,East,Mason Wright,Ergonomic Chair,Furniture,1,274.55
+SO-12191,2026-10-06,NORTH,Emma Clarke,27-inch Monitor,Tech,6,329.0
+SO-12263,10/06/2026,South,Noah Bennett,Copy Paper Box,Office,15,38.5
+SO-12310,2026-10-06,North,Liam Turner,Filing Cabinet,Furniture,2,199.0
+SO-12386,2026-10-06,East,Olivia Chen,27-inch Monitor,Tech,3,329.0
+SO-12414,2026-10-06,West,Ethan Brooks,Copy Paper Box,Office,27,38.5
+SO-12184,2026-10-07,North,Emma Clarke,Printer Toner,Office,7,68.4
+SO-12235,2026-10-07,South,Sofia Ramos,Standing Desk,Furniture,2,521.55
+SO-12277,2026-10-07,West,Ava Patel,Printer Toner,Office,4,72.0
+SO-12283,2026-10-07,North,Liam Turner,Standing Desk,Furniture,1,549.0
+SO-12311,2026-10-07,North,Liam Turner,Standing Desk,Furniture,4,549.0
+SO-12319,2026-10-07,North,Emma Clarke,Printer Toner,Office,4,64.8
+SO-12330,2026-10-07,East,Mason Wright,Bookshelf,Furniture,2,159.0
+SO-12359,2026-10-07,East,Olivia Chen,Wireless Mouse,Tech,3,29.9
+SO-12378,2026-10-07,East,Mason Wright,Notebook 5-Pack,Office,20,12.25
+SO-12406,2026-10-07,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-12189,2026-10-08,East,Mason Wright,Noise-Cancelling Headset,Tech,5,179.55
+SO-12198,2026-10-08,South,Sofia Ramos,Filing Cabinet,Furniture,3,179.1
+SO-12256,2026-10-08,East,Mason Wright,Copy Paper Box,Office,20,36.57
+SO-12289,2026-10-08,West,Ava Patel,Standing Desk,Furniture,4,549.0
+SO-12304,10/08/2026,North,Emma Clarke,27-inch Monitor,Tech,6,329.0
+SO-12322,2026-10-08,North,Emma Clarke,Copy Paper Box,Office,18,34.65
+SO-12363,2026-10-08,West,Ava Patel,Standing Desk,Furniture,3,549.0
+SO-12364,2026-10-08,North,Emma Clarke,USB-C Dock,Tech,8,$149.00
+SO-12372,2026-10-08,South,Noah Bennett,Printer Toner,Office,9,$64.80
+SO-12379,10/08/2026,East,Mason Wright,Copy Paper Box,Office,5,38.5
+SO-12225,2026-10-09,North,Emma Clarke,USB-C Dock,Tech,4,$149.00
+SO-12229,2026-10-09,South,Sofia Ramos,Ergonomic Chair,Furniture,6,289.0
+SO-12231,2026-10-09,NORTH,Emma Clarke,Filing Cabinet,Furniture,3,179.1
+SO-12239,10/09/2026,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-12323,2026-10-09,West,Ava Patel,Filing Cabinet,Furniture,2,199.0
+SO-12195,10/10/2026,West,Ethan Brooks,Ergonomic Chair,Furniture,2,274.55
+SO-12244,2026-10-10,East,Mason Wright,Copy Paper Box,Office,11,38.5
+SO-12252,2026-10-10,West,Ethan Brooks,USB-C Dock,Tech,1,149.0
+SO-12301,2026-10-10,West,Ethan Brooks,Printer Toner,Office,8,72.0
+SO-12358,2026-10-10,South,Noah Bennett,27-inch Monitor,Tech,5,296.1
+SO-12365,10/10/2026,East,Olivia Chen,USB-C Dock,Tech,1,149.0
+SO-12403,2026-10-10,North,Liam Turner,27-inch Monitor,Tech,4,329.0
+SO-12182,2026-10-11,West,Ethan Brooks,Bookshelf,Furniture,4,143.1
+SO-12183,2026-10-11,West,Ethan Brooks,Laptop Pro 14,Tech,4,1299.0
+SO-12203,2026-10-11,North,Emma Clarke,Notebook 5-Pack,Office,19,12.9
+SO-12215,2026-10-11,East,Mason Wright,Wireless Mouse,Tech,9,28.4
+SO-12234,2026-10-11,North,Emma Clarke,Printer Toner,Office,4,72.0
+SO-12272,2026-10-11,East,Mason Wright,27-inch Monitor,Tech,5,$296.10
+SO-12306,2026-10-11,North,Liam Turner,Copy Paper Box,Office,22,38.5
+SO-12354,2026-10-11,South,Noah Bennett,Ergonomic Chair,Furniture,1,289.0
+SO-12355,10/11/2026,West,Ethan Brooks,27-inch Monitor,Tech,6,312.55
+SO-12355,10/11/2026,West,Ethan Brooks,27-inch Monitor,Tech,6,312.55
+SO-12369,2026-10-11,South,Noah Bennett,Notebook 5-Pack,Office,5,12.9
+SO-12380,2026-10-11,East,Olivia Chen,Notebook 5-Pack,Office,40,11.61
+SO-12384,2026-10-11,East,Olivia Chen,Ergonomic Chair,Furniture,1,289.0
+SO-12288,2026-10-12,West,Ethan Brooks,Wireless Mouse,Tech,10,29.9
+SO-12340,2026-10-12,East,Olivia Chen,Wireless Mouse,Tech,1,29.9
+SO-12349,2026-10-12,West,Ethan Brooks,Copy Paper Box,Office,12,38.5
+SO-12399,2026-10-12,East,Olivia Chen,Laptop Pro 14,Tech,2,1299.0
+SO-12197,2026-10-13,East,Mason Wright,Copy Paper Box,Office,14,38.5
+SO-12211,2026-10-13,West,Ethan Brooks,Copy Paper Box,Office,14,38.5
+SO-12328,2026-10-13,South,Sofia Ramos,USB-C Dock,Tech,4,141.55
+SO-12188,2026-10-14,East,Mason Wright,Filing Cabinet,Furniture,1,179.1
+SO-12280,2026-10-14,East,Mason Wright,USB-C Dock,Tech,4,149.0
+SO-12293,2026-10-14,East,Olivia Chen,Noise-Cancelling Headset,Tech,4,170.1
+SO-12338,2026-10-14,west,Ava Patel,Copy Paper Box,Office,21,36.57
+SO-12366,2026-10-14,West,Ava Patel,Ergonomic Chair,Furniture,4,$274.55
+SO-12202,2026-10-15,East,Mason Wright,USB-C Dock,Tech,4,149.0
+SO-12204,2026-10-15,North,Liam Turner,Laptop Pro 14,Tech,2,1169.1
+SO-12214,10/15/2026,North,Liam Turner,27-inch Monitor,Tech,2,329.0
+SO-12251,2026-10-15,West,Ethan Brooks,Wireless Mouse,Tech,1,$29.90
+SO-12271,2026-10-15,East,Mason Wright,Standing Desk,Furniture,2,549.0
+SO-12282,2026-10-15,North,Emma Clarke,Notebook 5-Pack,Office,25,12.9
+SO-12218,2026-10-16,West,Ethan Brooks,USB-C Dock,Tech,5,149.0
+SO-12238,2026-10-16,North,Emma Clarke,Wireless Mouse,Tech,,29.9
+SO-12247,2026-10-16,East,Mason Wright,27-inch Monitor,Tech,6,296.1
+SO-12255,2026-10-16,North,Emma Clarke,Copy Paper Box,Office,25,$34.65
+SO-12332,2026-10-16,South,Sofia Ramos,27-inch Monitor,Tech,6,296.1
+SO-12387,2026-10-16,South,Sofia Ramos,Copy Paper Box,Office,6,38.5
+SO-12392,2026-10-16,west,Ava Patel,USB-C Dock,Tech,4,134.1
+SO-12404,2026-10-16,South,Sofia Ramos,27-inch Monitor,Tech,3,329.0
+SO-12405,2026-10-16,East,Mason Wright,Filing Cabinet,Furniture,3,199.0
+SO-12194,2026-10-17,West,Ethan Brooks,Notebook 5-Pack,Office,15,12.9
+SO-12320,10/17/2026, East ,Olivia Chen,USB-C Dock,Tech,1,149.0
+SO-12343,2026-10-17,East,Mason Wright,Bookshelf,Furniture,1,143.1
+SO-12394,2026-10-17,North,Emma Clarke,Standing Desk,Furniture,4,549.0
+SO-12402,10/17/2026,West,Ethan Brooks,Bookshelf,Furniture,2,143.1
+SO-12253,2026-10-18,South,Sofia Ramos,Printer Toner,Office,4,72.0
+SO-12261,2026-10-18,South,Noah Bennett,Ergonomic Chair,Furniture,6,$289.00
+SO-12269,2026-10-18,North,Emma Clarke,Ergonomic Chair,Furniture,5,289.0
+SO-12312,2026-10-18,West,Ethan Brooks,Standing Desk,Furniture,1,549.0
+SO-12318,2026-10-18,West,Ava Patel,Noise-Cancelling Headset,Tech,5,179.55
+SO-12407,2026-10-18,West,Ava Patel,Copy Paper Box,Office,21,34.65
+SO-12199,2026-10-19,East,Mason Wright,Notebook 5-Pack,Office,2,11.61
+SO-12220,2026-10-19,North,Liam Turner,USB-C Dock,Tech,3,149.0
+SO-12233,2026-10-19,South,Noah Bennett,USB-C Dock,Tech,8,149.0
+SO-12236,2026-10-19,East,Mason Wright,Noise-Cancelling Headset,Tech,1,189.0
+SO-12237,2026-10-19,East,Mason Wright,Standing Desk,Furniture,1,549.0
+SO-12275,2026-10-19, South ,Noah Bennett,27-inch Monitor,Tech,5,329.0
+SO-12341,2026-10-19,North,Liam Turner,Printer Toner,Office,4,72.0
+SO-12344,2026-10-19,East,Olivia Chen,Bookshelf,Furniture,1,159.0
+SO-12373,2026-10-19,West,Ava Patel,USB-C Dock,Tech,8,149.0
+SO-12391,10/19/2026,South,Noah Bennett,Noise-Cancelling Headset,Tech,1,170.1
+SO-12396,2026-10-19,West,Ava Patel,27-inch Monitor,Tech,1,329.0
+SO-12181,2026-10-20,North,Liam Turner,Wireless Mouse,Tech,20,29.9
+SO-12270,2026-10-20,West,Ava Patel,27-inch Monitor,Tech,1,312.55
+SO-12278,2026-10-20,South,Sofia Ramos,27-inch Monitor,Tech,2,296.1
+SO-12296,10/20/2026,South,Noah Bennett,Filing Cabinet,Furniture,1,199.0
+SO-12362,2026-10-20,West,Ava Patel,Copy Paper Box,Office,11,$38.50
+SO-12393,2026-10-20,West,Ethan Brooks,27-inch Monitor,Tech,5,329.0
+SO-12193,2026-10-21,West,Ava Patel,Noise-Cancelling Headset,Tech,6,189.0
+SO-12200,2026-10-21,South,Noah Bennett,Noise-Cancelling Headset,Tech,6,170.1
+SO-12222,10/21/2026,east,Olivia Chen,USB-C Dock,Tech,6,149.0
+SO-12223,2026-10-21,east,Olivia Chen,Wireless Mouse,Tech,17,28.4
+SO-12240,2026-10-21,North,Liam Turner,Ergonomic Chair,Furniture,1,289.0
+SO-12243,2026-10-21,North,Emma Clarke,Printer Toner,Office,4,72.0
+SO-12257,2026-10-21,East,Mason Wright,Laptop Pro 14,Tech,3,1299.0
+SO-12331,2026-10-21,East,Olivia Chen,Copy Paper Box,Office,17,38.5
+SO-12335,2026-10-21,South,Noah Bennett,Notebook 5-Pack,Office,28,12.9
+SO-12367,2026-10-21,North,Liam Turner,Ergonomic Chair,Furniture,6,274.55
+SO-12388,2026-10-21,North,Emma Clarke,USB-C Dock,Tech,6,149.0
+SO-12412,2026-10-21,East,Olivia Chen,Ergonomic Chair,Furniture,1,260.1
+SO-12264,2026-10-22,North,Liam Turner,Wireless Mouse,Tech,9,$29.90
+SO-12302,2026-10-22,West,Ethan Brooks,Noise-Cancelling Headset,Tech,5,189.0
+SO-12345,2026-10-22,West,Ethan Brooks,Noise-Cancelling Headset,Tech,4,170.1
+SO-12347,2026-10-22,West,Ava Patel,Printer Toner,Office,4,68.4
+SO-12410,2026-10-22,East,Olivia Chen,USB-C Dock,Tech,4,149.0
+SO-12217,2026-10-23,North,Liam Turner,Wireless Mouse,Tech,10,$29.90
+SO-12230,2026-10-23,West,Ethan Brooks,Printer Toner,Office,3,72.0
+SO-12321,10/23/2026,West,Ava Patel,Wireless Mouse,Tech,12,29.9
+SO-12371,10/23/2026,West,Ethan Brooks,Copy Paper Box,Office,18,$34.65
+SO-12377,10/23/2026,North,Liam Turner,Notebook 5-Pack,Office,28,12.9
+SO-12411,2026-10-23, North ,Liam Turner,Notebook 5-Pack,Office,5,12.9
+SO-12186,2026-10-24,East,Mason Wright,Wireless Mouse,Tech,10,29.9
+SO-12221,2026-10-24,East,Mason Wright,Noise-Cancelling Headset,Tech,4,170.1
+SO-12268,10/24/2026,North,Emma Clarke,Wireless Mouse,Tech,19,$29.90
+SO-12284,2026-10-24,North,Emma Clarke,USB-C Dock,Tech,3,134.1
+SO-12285,10/24/2026,East,Mason Wright,27-inch Monitor,Tech,6,312.55
+SO-12290,2026-10-24,West,Ethan Brooks,Laptop Pro 14,Tech,1,1299.0
+SO-12294,2026-10-24,North,Emma Clarke,Notebook 5-Pack,Office,24,12.9
+SO-12298,2026-10-24,NORTH,Emma Clarke,Wireless Mouse,Tech,6,26.91
+SO-12303,2026-10-24,East,Olivia Chen,27-inch Monitor,Tech,2,312.55
+SO-12308,2026-10-24,South,Sofia Ramos,Copy Paper Box,Office,24,34.65
+SO-12333,2026-10-24,South,Noah Bennett,Printer Toner,Office,3,64.8
+SO-12352,2026-10-24,East,Mason Wright,Printer Toner,Office,6,72.0
+SO-12382,2026-10-24,North,Emma Clarke,Wireless Mouse,Tech,8,29.9
+SO-12192,2026-10-25,West,Ava Patel,Ergonomic Chair,Furniture,4,289.0
+SO-12212,2026-10-25,West,Ava Patel,27-inch Monitor,Tech,6,329.0
+SO-12242,2026-10-25,South,Noah Bennett,USB-C Dock,Tech,5,149.0
+SO-12307,2026-10-25,East,Olivia Chen,Ergonomic Chair,Furniture,3,289.0
+SO-12315,2026-10-25,East,Mason Wright,Copy Paper Box,Office,3,38.5
+SO-12336,2026-10-25,EAST,Mason Wright,Printer Toner,Office,4,68.4
+SO-12342,2026-10-25,East,Mason Wright,Copy Paper Box,Office,18,38.5
+SO-12351,2026-10-25,South,Sofia Ramos,Notebook 5-Pack,Office,14,12.9
+SO-12357,2026-10-25,South,Sofia Ramos,Standing Desk,Furniture,2,549.0
+SO-12179,2026-10-26,North,Liam Turner,Wireless Mouse,Tech,5,29.9
+SO-12205,2026-10-26,East,Olivia Chen,Standing Desk,Furniture,4,549.0
+SO-12210,2026-10-26,South,Noah Bennett,Copy Paper Box,Office,27,38.5
+SO-12246,2026-10-26,South,Sofia Ramos,USB-C Dock,Tech,3,141.55
+SO-12309,2026-10-26,West,Ava Patel,Wireless Mouse,Tech,6,$29.90
+SO-12314,2026-10-26,West,Ethan Brooks,USB-C Dock,Tech,8,149.0
+SO-12350,2026-10-26,West,Ava Patel,Noise-Cancelling Headset,Tech,3,179.55
+SO-12368,2026-10-26,North,Liam Turner,Printer Toner,Office,7,72.0
+SO-12370,2026-10-26,West,Ava Patel,27-inch Monitor,Tech,1,329.0
+SO-12385,2026-10-26,West,Ethan Brooks,Bookshelf,Furniture,4,151.05
+SO-12398,2026-10-26,West,Ethan Brooks,Ergonomic Chair,Furniture,1,274.55
+SO-12206,2026-10-27,East,Mason Wright,27-inch Monitor,Tech,2,296.1
+SO-12226,2026-10-27,South,Sofia Ramos,Standing Desk,Furniture,2,549.0
+SO-12249,2026-10-27,North,Liam Turner,Wireless Mouse,Tech,15,29.9
+SO-12259,2026-10-27,West,Ava Patel,27-inch Monitor,Tech,2,312.55
+SO-12266,2026-10-27,South,Sofia Ramos,Ergonomic Chair,Furniture,5,289.0
+SO-12327,2026-10-27,East,Olivia Chen,27-inch Monitor,Tech,2,312.55
+SO-12383,2026-10-27,West,Ava Patel,Copy Paper Box,Office,1,38.5
+SO-12409,10/27/2026,North,Liam Turner,Notebook 5-Pack,Office,33,12.9
+SO-12208,2026-10-28,East,Mason Wright,Printer Toner,Office,2,68.4
+SO-12228,2026-10-28,North,Emma Clarke,Notebook 5-Pack,Office,4,11.61
+SO-12262,2026-10-28,North,Liam Turner,Copy Paper Box,Office,28,38.5
+SO-12279,2026-10-28,East,Mason Wright,Notebook 5-Pack,Office,15,12.9
+SO-12300,2026-10-28,North,Liam Turner,Standing Desk,Furniture,2,$521.55
+SO-12346,2026-10-28,East,Mason Wright,Laptop Pro 14,Tech,1,1234.05
+SO-12353,2026-10-28,West,Ava Patel,USB-C Dock,Tech,6,141.55
+SO-12356,2026-10-28,North,Liam Turner,Wireless Mouse,Tech,12,29.9
+SO-12360,2026-10-28,East,Mason Wright,Notebook 5-Pack,Office,10,12.25
+SO-12201,2026-10-29,North,Liam Turner,Wireless Mouse,Tech,18,26.91
+SO-12232,2026-10-29,North,Emma Clarke,Printer Toner,Office,9,$72.00
+SO-12273,2026-10-29,West,Ava Patel,Copy Paper Box,Office,13,36.57
+SO-12324,2026-10-29,North,Liam Turner,Notebook 5-Pack,Office,30,12.25
+SO-12334,2026-10-29,North,Liam Turner,Notebook 5-Pack,Office,3,12.9
+SO-12339,2026-10-29,North,Liam Turner,Copy Paper Box,Office,21,38.5
+SO-12375,2026-10-29,East,Mason Wright,Ergonomic Chair,Furniture,4,289.0
+SO-12395,10/29/2026,North,Emma Clarke,Laptop Pro 14,Tech,3,1169.1
+SO-12245,2026-10-30,East,Olivia Chen,Standing Desk,Furniture,2,549.0
+SO-12248,2026-10-30,North,Liam Turner,Notebook 5-Pack,Office,24,12.25
+SO-12276,2026-10-30,South,Noah Bennett,Copy Paper Box,Office,29,34.65
+SO-12313,2026-10-30,East,Mason Wright,Copy Paper Box,Office,11,34.65
+SO-12326,2026-10-30,East,Olivia Chen,Copy Paper Box,Office,2,38.5
+SO-12397,2026-10-30,South,Noah Bennett,Bookshelf,Furniture,4,143.1
+SO-12397,2026-10-30,South,Noah Bennett,Bookshelf,Furniture,4,143.1
+SO-12413,2026-10-30,West,Ethan Brooks,USB-C Dock,Tech,1,149.0
+SO-12185,2026-10-31, North ,Emma Clarke,Laptop Pro 14,Tech,4,1169.1
+SO-12227,2026-10-31,South,Noah Bennett,Laptop Pro 14,Tech,1,1299.0
+SO-12267,2026-10-31,South,Noah Bennett,Bookshelf,Furniture,4,159.0
+SO-12316,2026-10-31,West,Ava Patel,Wireless Mouse,Tech,4,29.9
+SO-12337,2026-10-31,East,Mason Wright,27-inch Monitor,Tech,2,296.1
